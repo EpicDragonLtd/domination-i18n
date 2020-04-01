@@ -86,7 +86,12 @@
         "ITEM_CHARGES": "Nabití",
         "METAL_DETECTOR": "Hledač kovů",
         "RADIO_TRANSMITTER": "Radio vysílač",
-        "SUPER_MAGNET": "Super magnet"
+        "SUPER_MAGNET": "Super magnet",
+        "DRONE_LAND": "Potvrdit",
+        "LAND_BLOCKED": "Další země je příliš blízko!",
+        "DRONE_LAND_DESCRIPTION": "Klepnutím na mapu vyberte přistávací plochu.",
+        "DRONE_DESCRIPTION": "Umožňuje zachytit novou zemi kdekoli. Shromažďuje zdroje v oblasti přistání.",
+        "DRONE": "Průzkumný robot"
     },
     "LAND_SETUP": {
         "BUTTON_SUBMIT": "Odeslat",

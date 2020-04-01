@@ -89,7 +89,12 @@
         "ITEM_CHARGES": "Charges",
         "METAL_DETECTOR": "Metal Detector",
         "RADIO_TRANSMITTER": "Radio Transmitter",
-        "SUPER_MAGNET": "Super Magnet"
+        "SUPER_MAGNET": "Super Magnet",
+        "DRONE_LAND": "Confirm",
+        "LAND_BLOCKED": "Another land is too close!",
+        "DRONE_LAND_DESCRIPTION": "Tap on the map to select a landing area.",
+        "DRONE_DESCRIPTION": "Allows to capture a new land anywhere. Collects resources in the landing area.",
+        "DRONE": "Exploration Drone"
     },
     "LAND_SETUP": {
         "BUTTON_SUBMIT": "Submit",

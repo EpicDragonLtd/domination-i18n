@@ -89,7 +89,12 @@
         "ITEM_CHARGES": "Ładunki",
         "METAL_DETECTOR": "Wykrywacz Metalu",
         "RADIO_TRANSMITTER": "Nadajnik Radiowy",
-        "SUPER_MAGNET": "Super Magnes"
+        "SUPER_MAGNET": "Super Magnes",
+        "DRONE_LAND": "Potwierdzać",
+        "LAND_BLOCKED": "Kolejna kraina jest zbyt blisko!",
+        "DRONE_LAND_DESCRIPTION": "Naciśnij mapę, aby wybrać miejsce lądowania.",
+        "DRONE_DESCRIPTION": "Pozwala uchwycić nową ziemię w dowolnym miejscu. Zbiera zasoby w obszarze lądowania.",
+        "DRONE": "Dron Eksploracyjny"
     },
     "LAND_SETUP": {
         "BUTTON_SUBMIT": "Wyślij",

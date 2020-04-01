@@ -86,7 +86,12 @@
         "ITEM_CHARGES": "Cargas",
         "METAL_DETECTOR": "Detector de Metales",
         "RADIO_TRANSMITTER": "Radiotransmisor",
-        "SUPER_MAGNET": "Súper Imán"
+        "SUPER_MAGNET": "Súper Imán",
+        "DRONE_LAND": "Confirmar",
+        "LAND_BLOCKED": "¡Otra tierra está demasiado cerca!",
+        "DRONE_LAND_DESCRIPTION": "Toque el mapa para seleccionar un área de aterrizaje.",
+        "DRONE_DESCRIPTION": "Permite capturar una nueva tierra en cualquier lugar. Recoge recursos en el área de aterrizaje.",
+        "DRONE": "Dron de exploración"
     },
     "LAND_SETUP": {
         "BUTTON_SUBMIT": "Enviar",

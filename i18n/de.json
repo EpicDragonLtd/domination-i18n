@@ -89,7 +89,12 @@
         "ITEM_CHARGES": "Ladungen",
         "METAL_DETECTOR": "Metaldetektor",
         "RADIO_TRANSMITTER": "Funkgerät",
-        "SUPER_MAGNET": "Supermagnet"
+        "SUPER_MAGNET": "Supermagnet",
+        "DRONE_LAND": "Wählen",
+        "LAND_BLOCKED": "Ein anderes Land ist zu nah!",
+        "DRONE_LAND_DESCRIPTION": "Tippen Sie auf die Karte, um einen Landebereich auszuwählen.",
+        "DRONE_DESCRIPTION": "Ermöglicht es, überall ein neues Land zu erobern. Sammelt Ressourcen im Landebereich.",
+        "DRONE": "Erkundungsdrohne"
     },
     "LAND_SETUP": {
         "BUTTON_SUBMIT": "Absenden",

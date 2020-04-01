@@ -89,7 +89,12 @@
         "ITEM_CHARGES": "Charges",
         "METAL_DETECTOR": "Détecteur de métaux",
         "RADIO_TRANSMITTER": "Transmetteur radio",
-        "SUPER_MAGNET": "Super-aimant"
+        "SUPER_MAGNET": "Super-aimant",
+        "DRONE_LAND": "Confirmer",
+        "LAND_BLOCKED": "Un autre terrain est trop proche!",
+        "DRONE_LAND_DESCRIPTION": "Appuyez sur la carte pour sélectionner une zone d'atterrissage.",
+        "DRONE_DESCRIPTION": "Permet de capturer une nouvelle terre n'importe où. Collecte des ressources dans la zone d'atterrissage.",
+        "DRONE": "Drone d'exploration"
     },
     "LAND_SETUP": {
         "BUTTON_SUBMIT": "Envoyer",
