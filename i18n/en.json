@@ -276,7 +276,7 @@
         "TITLE": "Chat and Forum"
     },
     "PAGE_COMBAT": {
-        "ALREADY_ATTACKING": "Your base is already in combat! Please wait for the battle to finish and try again.",
+        "ALREADY_ATTACKING": "Your base is already in combat with that player! Please wait for the battle to finish or pick another enemy.",
         "ATTACKERS": "Attackers",
         "ATTACK_DESC": "Stationed army from the nearest base will be sent to invade this land. Free-standing lands can be captured when they reach level 1 if no defenders are left. Bases can only be damaged up until level 1.<br><br><span class='danger-font'>This will be considered an act of war, making your bases visible to enemies for 24 hours.</span>",
         "ATTACK_TITLE": "Begin the invasion?",
@@ -427,8 +427,8 @@
         "DISTANCE": "Distance",
         "MAGNET_TITLE": "Merging Lands",
         "MAGNET_DESC": "You can merge any lower-level lands existing within or adjacent to the selected land to increase its level. This land has to meet building and cost requirements of the level it is about to become.",
-        "LAND_NEARBY": "Cannot upgrade this land as a higher level land is nearby: {{name}}! Select {{name}} and merge smaller land with it using the \"Magnet\" button.",
-        "SMALLER_LAND_NEARBY": "Cannot upgrade this land as another land is nearby: {{name}}! Use the \"Magnet\" button to merge these lands.",
+        "LAND_NEARBY": "Cannot upgrade this land as a higher level land is nearby: {{name}}! Select {{name}} and merge smaller land with it.",
+        "SMALLER_LAND_NEARBY": "Cannot upgrade this land as another land is nearby: {{name}}! Try merging these lands instead using the \"Merge Lands\" button.",
         "EMPTY_MERGE": "No adjacent lower-level lands found for merging!",
         "BUTTON_MERGE": "Merge Lands",
         "MERGE_SUCCESS": "{{number}} land(s) merged with {{name}} successfully increasing its level to {{level}}!",
@@ -448,6 +448,10 @@
         "BUTTON_PICK_UP": "Pick Up",
         "BUTTON_ITEMS": "Items",
         "BUTTON_GOALS": "Goals"
+    },
+    "LAND_MENU": {
+        "ATTACK": "Open fire",
+        "REPAIR_ALL": "Repair all structures"
     },
     "PAGE_EXCHANGE": {
         "BUTTON_PREMIUM": "Purchase",
@@ -543,10 +547,10 @@
         "NOTHING_BUILT": "Nothing's been built here yet.",
         "NOT_BASE": "You must be present on the selected building's base to proceed!",
         "NO_COLLECTION": "You possess no sources of any resource yet! Capture a land around at least one source to enable collection.",
-        "NO_NEED_REPAIR": "This structure is already at maximum health!",
+        "NO_NEED_REPAIR": "No repairs needed!",
         "PRODUCTION_PREVIEW": "",
         "REPAIR_DESC": "Keeping your buildings at maximum health is important, as when the health reaches zero this structure will be destroyed and require constructing from scratch again.",
-        "REPAIR_SUCCESSFUL": "Structure repaired successfully!",
+        "REPAIR_SUCCESSFUL": "Repair successful!",
         "REPAIR_TITLE": "Repair Structure",
         "SUCCESS_TITLE": "Success!",
         "TITLE": "My Lands",

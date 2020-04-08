@@ -284,7 +284,7 @@
     },
     "PAGE_COMBAT": {
         "AI_POINTS": "Points de paix",
-        "ALREADY_ATTACKING": "Votre base participe déjà à un combat! Veuillez attendre que l'autre se termine et réessayez.",
+        "ALREADY_ATTACKING": "Votre base est déjà en combat avec ce joueur! Veuillez attendre la fin de la bataille ou choisir un autre ennemi.",
         "ATTACKERS": "Attaquants",
         "ATTACK_DESC": "l'armée stationnée proche de la base va lancer une attaque contre votre territoire.",
         "ATTACK_TITLE": "Commencer l'invasion ?",
@@ -410,8 +410,8 @@
         "LAND_LEVELUP_AWARD": "Votre base {{name}} a avancé au niveau {{level}}!\nLa base liée est proche d'atteindre le niveau supérieur!",
         "LAND_MAX_LEVEL": "Votre territoire à atteint son niveau maximal.\n Les prochaines captures collecteront et continueront d'endommager vos ennemis.",
         "LAND_MINIMUM": "Le territoire de {{name}} est dans son état minimal et ne peut être endommagé! Utilisez votre armée pour capturer ce territoire.",
-        "LAND_NEARBY": "Vous ne pouvez améliorer ce territoire car il y en a un plus élevé: {{name}}! Sélectionnez {{name}} et fusionnez le plus petit territoire en utilisant le bouton \"aimant\"",
-        "SMALLER_LAND_NEARBY": "Vous ne pouvez pas améliorer ce territoire car il y en a un autre à proximité: {{name}}! Veuillez utiliser le bouton \"aimant\" pour fusionner ces territoire.",
+        "LAND_NEARBY": "Vous ne pouvez améliorer ce territoire car il y en a un plus élevé: {{name}}! Sélectionnez {{name}} et fusionnez le plus petit territoire.",
+        "SMALLER_LAND_NEARBY": "Vous ne pouvez pas améliorer ce territoire car il y en a un autre à proximité: {{name}}! Veuillez utiliser le bouton \"Fusionner les terres\".",
         "LAND_PROTECTED": "Le territoire est protégé par une structure d'attaque!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Votre {{weapon}} a infligé {{damage}} points de dégâts à une terre de {{lands_title}}}. Le territoire a été capturé et vous appartient maintenant!",
@@ -455,6 +455,10 @@
         "BUTTON_PICK_UP": "ramasser",
         "BUTTON_ITEMS": "articles",
         "BUTTON_GOALS": "buts"
+    },
+    "LAND_MENU": {
+        "ATTACK": "Tirer",
+        "REPAIR_ALL": "Réparer tous les bâtiments"
     },
     "PAGE_EXCHANGE": {
         "BUTTON_PREMIUM": "Achat",
@@ -564,10 +568,10 @@
         "NOTHING_BUILT": "Rien n'est encore construit ici. Allez voir l'onglet \"construire\" pour les options de bâtiment.",
         "NOT_BASE": "Vous devez être présent sur la base du bâtiment pour cette action!",
         "NO_COLLECTION": "Vous ne possédez pas encore ce type de ressources! Capturez un territoire aléantour avec au moins une source pour collecter.",
-        "NO_NEED_REPAIR": "Cette structure a déjà toute sa santé!",
+        "NO_NEED_REPAIR": "Aucune réparation nécessaire!",
         "PRODUCTION_PREVIEW": "",
         "REPAIR_DESC": "Maintenir vos bâtiments au maximun de leur santé est important, car quand la santé atteint 0, cette structure sera détruite et devra être reconstruite.",
-        "REPAIR_SUCCESSFUL": "Structure réparée avec succès!",
+        "REPAIR_SUCCESSFUL": "Réparation réussie!",
         "REPAIR_TITLE": "Réparer structure",
         "SUCCESS_TITLE": "Succès!",
         "TITLE": "Mes territoires",

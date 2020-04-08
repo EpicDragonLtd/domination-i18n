@@ -281,7 +281,7 @@
     },
     "PAGE_COMBAT": {
         "AI_POINTS": "Puntos de Pacificación",
-        "ALREADY_ATTACKING": "¡Tu base ya está en combate! Por favor espera a que termine la batalla y prueba de nuevo.",
+        "ALREADY_ATTACKING": "¡Tu base ya está en combate con ese jugador! Espera a que termine la batalla o elige otro enemigo.",
         "ATTACKERS": "Atacantes",
         "ATTACK_DESC": "El ejército posicionado en la base más cercana será enviado a invadir esta tierra. Las tierras de pie pueden ser capturadas cuando lleguen a nivel 1 y si no hay ningún defensor. Las bases solo pueden ser dañadas hasta nivel 1.<br><br><span class='danger-font'>Esto será considerado un acto de guerra haciendo que tus bases sean visibles a los enemigos por 24 horas.</span>",
         "ATTACK_TITLE": "¿Iniciar la invasión?",
@@ -407,8 +407,8 @@
         "LAND_LEVELUP_AWARD": "¡Tu tierra cercana \"{{name}}\" ha avanzado a nivel {{level}}!\n¡La base vinculada está un paso más cerca al siguiente nivel!",
         "LAND_MAX_LEVEL": "Tu tierra está al máximo nivel posible.\nFomentar las capturas solamente recolectará recursos y dañará enemigos dentro del radio.",
         "LAND_MINIMUM": "¡La tierra de {{name}} está al nivel más bajo posible y no podrá seguir siendo dañada! Usa tu ejército para capturar esta tierra.",
-        "LAND_NEARBY": "¡No es posible mejorar esta tierra ya que una de mayor nivel está cerca: {{name}}! Selecciona {{name}} y une una tierra de menor nivel a ella usando el botón de \"Imán\".",
-        "SMALLER_LAND_NEARBY": "¡No es posible mejorar esta tierra ya que otra tierra está cerca: {{name}}! Únete a estas tierras usando el botón \"imán\".",
+        "LAND_NEARBY": "¡No es posible mejorar esta tierra ya que una de mayor nivel está cerca: {{name}}! Selecciona {{name}} y une una tierra de menor nivel a ella.",
+        "SMALLER_LAND_NEARBY": "¡No es posible mejorar esta tierra ya que otra tierra está cerca: {{name}}! Únete a estas tierras usando el botón \"Unir Tierras\".",
         "LAND_PROTECTED": "¡La tierra de {{name}} está protegida por una estructura de ataque!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Tu {{weapon}} inflingió {{damage}} puntos de daño a la tierra de {{lands_title}}. ¡La tierra ha sido capturada y ahora pertenece a ti!.",
@@ -452,6 +452,10 @@
         "BUTTON_PICK_UP": "recoger",
         "BUTTON_ITEMS": "inventario",
         "BUTTON_GOALS": "metas"
+    },
+    "LAND_MENU": {
+        "ATTACK": "Disparar",
+        "REPAIR_ALL": "Repara todos los edificios"
     },
     "PAGE_EXCHANGE": {
         "BUTTON_PREMIUM": "Comprar",
@@ -546,10 +550,10 @@
         "NOTHING_BUILT": "Nada ha sido construido aquí aún. Visita la pestaña \"Construir\" para ver opciones de construcción.",
         "NOT_BASE": "¡Debes estar presente en la base de la estructura seleccionada para continuar!",
         "NO_COLLECTION": "¡Aún no posees ninguna fuente de recursos! Captura al menos una tierra alrededor de una fuente de recursos para permitir la recolección.",
-        "NO_NEED_REPAIR": "¡Esta estructura ya está con su máxima salud!",
+        "NO_NEED_REPAIR": "¡No se necesitan reparaciones!",
         "PRODUCTION_PREVIEW": "",
         "REPAIR_DESC": "Mantener tus estructuras en la máxima salud es importante, cuando la salud llegue a cero, la estructura será destruida y requerirá que se construya nuevamente desde los escombros.",
-        "REPAIR_SUCCESSFUL": "¡Estructura reparada con éxito!",
+        "REPAIR_SUCCESSFUL": "¡Reparación exitosa!",
         "REPAIR_TITLE": "Reparar Estructura",
         "SUCCESS_TITLE": "¡Exitoso!",
         "TITLE": "Mis Tierras",

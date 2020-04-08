@@ -284,7 +284,7 @@
     },
     "PAGE_COMBAT": {
         "AI_POINTS": "Punti pace",
-        "ALREADY_ATTACKING": "La tua base è già in combattimento! Per favore aspetta che la battaglia finisca e prova di nuovo.",
+        "ALREADY_ATTACKING": "La tua base è già in combattimento con quel giocatore! Per favore, aspetta che la battaglia finisca o scegli un altro nemico.",
         "ATTACKERS": "Attaccanti",
         "ATTACK_DESC": "L'armata stazionata nella base più vicina sarà mandata a invadere questo territorio. Territori fuori dalla base possono essere catturati quando raggiungono il livello 1 se non c'è difesa. Le basi possono essere danneggiate solo fino al raggiungimento del livello 1.<br><br><span class='danger-font'>Questo sarà considerato un atto di guerra, rendendo la tua base visibile ai nemici per 24 ore.</span>",
         "ATTACK_TITLE": "Iniziare l'invasione?",
@@ -416,8 +416,8 @@
         "LAND_LEVELUP_AWARD": "Il tuo vicino territorio \"{{name}}\" è avanzato al livello {{level}}!\nLa base collegata è un passo più vicina al prossimo livello!",
         "LAND_MAX_LEVEL": "Il tuo territorio è al massimo livello possibile.\nUlteriori conquiste raccoglieranno solo risorse e danneggeranno i nemici all'interno del raggio d'azione.",
         "LAND_MINIMUM": "Il territorio di {{name}} è al più basso livello possibile e non può essere danneggiato ulteriormente! Usa l'esercito per conquistare questo territorio.",
-        "LAND_NEARBY": "Non si può migliorare questo territorio perché uno di livello più alto è vicino: {{name}}! Seleziona {{name}} e fondilo con territori più piccoli usando i pulsanti \"calamita\".",
-        "SMALLER_LAND_NEARBY": "Non si può migliorare questo territorio perché un altro è vicino: {{name}}! Si prega di utilizzare il pulsante \"calamita\" per unire queste terre.",
+        "LAND_NEARBY": "Non si può migliorare questo territorio perché uno di livello più alto è vicino: {{name}}! Seleziona {{name}} e fondilo con territori più piccoli.",
+        "SMALLER_LAND_NEARBY": "Non si può migliorare questo territorio perché un altro è vicino: {{name}}! Si prega di utilizzare il pulsante \"Fondi territori\" per unire queste terre.",
         "LAND_PROTECTED": "Il territorio di {{name}} è protetto da una struttura di attacco!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Il tuo {{weapon}} ha inflitto {{damage}} punti di danno a un territorio di {{lands_title}}. Il territorio è stato conquistato ed ora ti appartiene!",
@@ -455,6 +455,10 @@
         "BUTTON_PICK_UP": "raccogliere",
         "BUTTON_ITEMS": "inventario",
         "BUTTON_GOALS": "obiettivi"
+    },
+    "LAND_MENU": {
+        "ATTACK": "Sparare",
+        "REPAIR_ALL": "Ripara tutti gli edifici"
     },
     "PAGE_EXCHANGE": {
         "BUTTON_PREMIUM": "Acquista",
@@ -564,10 +568,10 @@
         "NOTHING_BUILT": "Qui non è stato costruito ancora niente. Guarda \"Costruisci\" per le opzioni di costruzione.",
         "NOT_BASE": "Devi essere presente nella base relativa all'edificio selezionato per procedere!",
         "NO_COLLECTION": "Non possiedi ancora nessuna sorgente di risorse! Conquista il territorio intorno ad almeno una sorgente per abilitare la raccolta. ",
-        "NO_NEED_REPAIR": "Questa struttura è già nella migliore condizione!",
+        "NO_NEED_REPAIR": "Nessuna riparazione necessaria!",
         "PRODUCTION_PREVIEW": "",
         "REPAIR_DESC": "Mantenere i tuoi edifici alla massima condizione è importante, perché se la condizione arriva a zero questa struttura sarà distrutta e dovrà essere ricostruita.",
-        "REPAIR_SUCCESSFUL": "Struttura riparata!",
+        "REPAIR_SUCCESSFUL": "Riparazione riuscita!",
         "REPAIR_TITLE": "Ripara struttura",
         "SUCCESS_TITLE": "Successo!",
         "TITLE": "I miei territori",

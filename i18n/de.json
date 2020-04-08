@@ -284,7 +284,7 @@
     },
     "PAGE_COMBAT": {
         "AI_POINTS": "Friedenspunkte",
-        "ALREADY_ATTACKING": "Deine Basis ist bereits in einen Kampf verwickelt! Bitte warte bis der Kampf vorüber ist und versuche es nochmal.",
+        "ALREADY_ATTACKING": "Deine Basis ist bereits in einen Kampf mit diesem Spieler verwickelt! Bitte warte bis der Kampf vorüber ist und versuche es nochmal.",
         "ATTACKERS": "Angreifer",
         "ATTACK_DESC": "Stationierte Einheiten von der nächstgelegenen Basis werden werden entsendet werden um dieses Gebiet anzugreifen. Frei stehende Gebiete können erobert werden, wenn sie Level 1 erreichen und keine Verteidiger mehr übrig geblieben sind. Basen können höchstens bis auf Level 1 beschädigt werden.<br><br><span class='danger-font'>Dies wird als ein kriegerischer Akt aufgefasst werden und deine Basis für andere Spieler für die nächsten 24 Stunden sichtbar machen.</span>",
         "ATTACK_TITLE": "Invasion starten?",
@@ -410,8 +410,8 @@
         "LAND_LEVELUP_AWARD": "Dein nahegelegenes Gebiet \"{{name}}\" hat Level {{level}} erreicht!\nDie verknüpfte Basis ist einen Schritt näher am nächten Level.",
         "LAND_MAX_LEVEL": "Dein Gebiet hat bereits das höchste Level erreicht.\nWeiteres Einnehmen wird ausschliesßlich Resourcen einsammeln und feindlichen Gebieten im Radius schaden.",
         "LAND_MINIMUM": "Das Gebiet {{name}} ist bereits auf dem niedrigstem Level und kann nicht weiter beschädigt werden! Nutze deine Armee um dieses Gebiet zu erobern.",
-        "LAND_NEARBY": "Dieses Gebiet kann nicht geupgradet werden, weil ein Gebiet höheren Levels in unmittelbarer Nähe ist: {{name}}! Wähle {{name}} aus und verschmelze es mit dem kleinerem Gebiet durch den \"Magnet\"-Knopf",
-        "SMALLER_LAND_NEARBY": "Dieses Gebiet kann nicht geupgradet werden, weil ein anderer Gebiet in unmittelbarer Nähe ist: {{name}}! Verschmelze es durch den \"Magnet\"-Knopf",
+        "LAND_NEARBY": "Dieses Gebiet kann nicht geupgradet werden, weil ein Gebiet höheren Levels in unmittelbarer Nähe ist: {{name}}! Wähle {{name}} aus und verschmelze es mit dem kleinerem Gebiet.",
+        "SMALLER_LAND_NEARBY": "Dieses Gebiet kann nicht geupgradet werden, weil ein anderer Gebiet in unmittelbarer Nähe ist: {{name}}! Verschmelze es durch den \"Gebiete verschmelzen\"-Knopf",
         "LAND_PROTECTED": "Das Gebiet {{name}} wird durch eine Verteidigungsanlage geschützt!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Deine {{weapon}} haben {{damage}} Punkte Schaden am Gebiet von {{lands_title}} angerichtet. Das Gebiet wurde erobert und gehört nun dir!",
@@ -455,6 +455,10 @@
         "BUTTON_PICK_UP": "abholen",
         "BUTTON_ITEMS": "inventar",
         "BUTTON_GOALS": "tore"
+    },
+    "LAND_MENU": {
+        "ATTACK": "Losschießen",
+        "REPAIR_ALL": "Reparieren alle Gebäude"
     },
     "PAGE_EXCHANGE": {
         "BUTTON_PREMIUM": "Kaufen",
@@ -564,10 +568,10 @@
         "NOTHING_BUILT": "Hier wurde noch nichts errichtet. Besuche die Bauansicht für Bauoptionen.",
         "NOT_BASE": "Du musst dich an der Basis des ausgewählten Gebäudes befinden um fortzufahren!",
         "NO_COLLECTION": "Du kontrollierst aktuell keine Stationen von irgendeiner Resource! Nehme Gebiet in der Nähe von zumindest einer Station ein um Ressourcen einsammeln zu ermöglichen.",
-        "NO_NEED_REPAIR": "Dieses Gebäude ist bereits bei maximaler Gesundheit!",
+        "NO_NEED_REPAIR": "Keine Reparaturen nötig!",
         "PRODUCTION_PREVIEW": "",
         "REPAIR_DESC": "Ein Gebäude bei maximaler Gesundheit zu halten ist wichtig, denn sobald ein Gebäude seine gesammte Gesundheit verliert, zerfällt es vollständig und muss komplett neu errichtet werden.",
-        "REPAIR_SUCCESSFUL": "Gebäude erfolgreich repariert!",
+        "REPAIR_SUCCESSFUL": "Reparatur erfolgreich!",
         "REPAIR_TITLE": "Repariere Gebäude",
         "SUCCESS_TITLE": "Erfolg!",
         "TITLE": "Meine Ländereien",

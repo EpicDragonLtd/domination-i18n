@@ -281,7 +281,7 @@
     },
     "PAGE_COMBAT": {
         "AI_POINTS": "Body míru",
-        "ALREADY_ATTACKING": "Tvoje základna již je v bitvě! Počkej až bitva skončí a zkus to znovu",
+        "ALREADY_ATTACKING": "Vaše základna již s tímto hráčem bojuje! Počkejte prosím na dokončení bitvy nebo vyberte jiný cíl.",
         "ATTACKERS": "Útočníci",
         "ATTACK_DESC": "Armáda rozmístěná v nejbližší základně bude vyslána k invazi na toto území.  Volně stojící území může být obsazeno až dosáhne úrovně 1 a nemá žádné obránce. Základny mohou být poškozeny maximálně do úrovně 1.<br><br><span class='danger-font'>Bude to považováno za válečný akt a umožní tvým nepřátelům vidět tvou základnu po dobu 24 hodin.</span>",
         "ATTACK_TITLE": "Zahájit invazi?",
@@ -407,8 +407,8 @@
         "LAND_LEVELUP_AWARD": "Tvé blízké území \"{{name}}\" bylo vylepšeno na úroveň{{level}}!\nPřipojená základna je o krok blíže k vylepšení na další úroveň!",
         "LAND_MAX_LEVEL": "Tvé území dosáhlo maximálního vylepšení.\nBudoucí dobývání bude shromažďovat zdroje a udělovat nepřátelům poškození pouze uvnitř dosahu.",
         "LAND_MINIMUM": "Území patřící k {{name}} je na nejmenším možném vylepšení a nemůže být více poškozeno! Použij armádu pro zabrání tohoto území.",
-        "LAND_NEARBY": "Nelze zvýšit toto území jako vyšší úroveň poblíž: {{name}}! Zvol {{name}} a spoj menší území použitím \"Magnetu\"",
-        "SMALLER_LAND_NEARBY": "Toto území nelze zvýšit, protože v blízkosti je další pozemek: {{name}}! Pro pokračování použijte \"Magnet\".",
+        "LAND_NEARBY": "Nelze zvýšit toto území jako vyšší úroveň poblíž: {{name}}! Zvol {{name}} a spoj menší území.",
+        "SMALLER_LAND_NEARBY": "Toto území nelze zvýšit, protože v blízkosti je další pozemek: {{name}}! Pro pokračování použijte \"Sloučit pozemky\".",
         "LAND_PROTECTED": "Území patřící k {{name}} je chráněno útočnou budouvou!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Tvá zbraň {{weapon}} udělila {{damage}} body/ů poškození území patřící k {{lands_title}}. Území bylo dobyto a nyní ti patří!.",
@@ -452,6 +452,10 @@
         "BUTTON_PICK_UP": "vyzvednout",
         "BUTTON_ITEMS": "inventář",
         "BUTTON_GOALS": "cíle"
+    },
+    "LAND_MENU": {
+        "ATTACK": "Otevřete palbu",
+        "REPAIR_ALL": "Opravte všechny struktury"
     },
     "PAGE_EXCHANGE": {
         "BUTTON_PREMIUM": "Koupit",
@@ -546,10 +550,10 @@
         "NOTHING_BUILT": "Nic zde zatím nebylo postaveno. Klikni na \"Stavba\" pro možnosti stavby.",
         "NOT_BASE": "Musíš být přítomen na zvolené základně!",
         "NO_COLLECTION": "Nevlastníš žádné budovy zdrojů. Obsaď území kolem alespoň jedné budovy se zdroji, pro možnost sbírání zdrojů",
-        "NO_NEED_REPAIR": "Tato budova má maximum života",
+        "NO_NEED_REPAIR": "Není třeba provádět žádné opravy!",
         "PRODUCTION_PREVIEW": "",
         "REPAIR_DESC": "Udržování tvých budov na maximální míře života je důležité. Jakmile úroveň života dosáhne 0, bude budova zničena a bude potřebovat opětovnou výstavbu.",
-        "REPAIR_SUCCESSFUL": "Budova úspěšně opravena!",
+        "REPAIR_SUCCESSFUL": "Oprava úspěšná!",
         "REPAIR_TITLE": "Opravit budovu",
         "SUCCESS_TITLE": "Úspěch!",
         "TITLE": "Moje území",

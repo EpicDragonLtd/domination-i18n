@@ -284,7 +284,7 @@
     },
     "PAGE_COMBAT": {
         "AI_POINTS": "Punkty Strażników Pokoju",
-        "ALREADY_ATTACKING": "Twoja baza uczestniczy już w bitwie. Poczekaj na jej zakończenie i spróbuj ponownie.",
+        "ALREADY_ATTACKING": "Twoja baza jest już w walce z tym graczem! Poczekaj na zakończenie bitwy lub wybierz innego wroga.",
         "ATTACKERS": "Atakujący",
         "ATTACK_DESC": "Armia stacjonująca w najbliższej bazie zostanie wysłana do ataku na ten obszar. Wolno stojące obszary mogą zostać przejęte, gdy osiągną poziom 1 i nie zostanie w nich żaden obrońca. Bazy mogą być niszczone do osiągnięcia poziomu 1. <br><br><span class='danger-font'>Akcja jest równoznaczna z wypowiedzeniem wojny, sprawiając, że Twoje bazy będą widoczne dla przeciwników przez 24 godziny.</span>",
         "ATTACK_TITLE": "Rozpocząć inwazję?",
@@ -416,8 +416,8 @@
         "LAND_LEVELUP_AWARD": "Pobliski obszar \"{{name}}\" został ulepszony do poziomu {{level}}!\nPołączona z nim baza jest coraz bliżej awansu na nowy poziom!",
         "LAND_MAX_LEVEL": "Twój obszar osiągnął maksymalny poziom.\nKolejne zajęcia obszaru spowodują wyłącznie zbieranie zasobów w jego zasięgu oraz zadawanie obrażeń przeciwników w jego zasięgu.",
         "LAND_MINIMUM": "Obszar gracza {{name}} jest na najniższym poziomie (1) i nie może zostać bardziej uszkodzony! Użyj armii, aby zająć ten obszar.",
-        "LAND_NEARBY": "Nie można ulepszyć tego obszaru, gdyż w pobliżu znajduje się obszar o wyższym poziomie: {{name}}! Wybierz obszar {{name}} i połącz go z mniejszym obszarem używając przycisku \"Magnes\".",
-        "SMALLER_LAND_NEARBY": "Nie można ulepszyć tego obszaru, gdyż w pobliżu znajduje się inny obszar: {{name}}! Użyj przycisku \"Magnes\", aby połączyć te ziemie.",
+        "LAND_NEARBY": "Nie można ulepszyć tego obszaru, gdyż w pobliżu znajduje się obszar o wyższym poziomie: {{name}}! Wybierz obszar {{name}} i połącz go z mniejszym obszarem.",
+        "SMALLER_LAND_NEARBY": "Nie można ulepszyć tego obszaru, gdyż w pobliżu znajduje się inny obszar: {{name}}! Użyj przycisku \"Połącz obszary\", aby połączyć te ziemie.",
         "LAND_PROTECTED": "Obszar gracza {{name}} jest chroniony przez strukturę ofensywną!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "{{weapon}} zadała {{damage}} pkt. obrażeń obszarowi {{lands_title}}.Obszar został przejęty i należy teraz do Ciebie!",
@@ -455,6 +455,10 @@
         "BUTTON_PICK_UP": "zbierz",
         "BUTTON_ITEMS": "inwentarz",
         "BUTTON_GOALS": "zadania"
+    },
+    "LAND_MENU": {
+        "ATTACK": "Strzelać",
+        "REPAIR_ALL": "Napraw wszystkie budynki"
     },
     "PAGE_EXCHANGE": {
         "BUTTON_PREMIUM": "Kup",
@@ -564,10 +568,10 @@
         "NOTHING_BUILT": "Brak budynków. Odwiedź zakładkę \"Konstruuj\" aby poznać opcje rozbudowy.",
         "NOT_BASE": "Musisz znajdować się w obszarze bazy, aby kontynuować!",
         "NO_COLLECTION": "Nie posiadasz żadnych źródeł zasobów! Zajmij obszar w pobliżu takiego źródła aby umożliwić zbieranie zasobów!",
-        "NO_NEED_REPAIR": "Ta struktura osiągnęła już maksymalny poziom zdrowia!",
+        "NO_NEED_REPAIR": "Nie wymaga napraw!",
         "PRODUCTION_PREVIEW": "",
         "REPAIR_DESC": "Utrzymywanie zdrowia budynków na maksymalnym poziomie jest istotne. Jeżeli zdrowie spadnie do zera, struktura zostanie zniszczona i będzie ją trzeba wybudować od nowa.",
-        "REPAIR_SUCCESSFUL": "Naprawiono strukturę!",
+        "REPAIR_SUCCESSFUL": "Naprawiono pomyślnie!",
         "REPAIR_TITLE": "Naprawa struktury!",
         "SUCCESS_TITLE": "Sukces!",
         "TITLE": "Obszary",
