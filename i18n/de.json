@@ -58,6 +58,7 @@
         "ACTION_COOLDOWN": "Das funktioniert noch nicht: Lade nach!",
         "BANNED_ACCOUNT": "Dieser Account ist gebannt und kann nicht mehr zum spielen genutzt werden. Bitte kontaktiere support@domination.earth für Details.",
         "BANNED_DEVICE": "Dieses Gerät ist gebannt und kann nicht mehr zum spielen genutzt werden. Bitte kontaktiere support@domination.earth für Details.",
+        "MOCK_WARNING": "Ihr Gerät verwendet eine App, die GPS-Koordinaten fälscht. Bitte deaktiviere diese App, um weiterzuspielen. Dieser Vorfall wurde aufgezeichnet.",
         "CHEAT_WARNING": "Dein Gerät wurde dabei erwischt, wie Fake GPS in diesem Spiel benutzt wurde, Das verstößt gegen unsere Regeln. Dies ist deine erste und einzige Warnung, falls du weiterhin deine Position fälschst, wird dieser Account deaktiviert.",
         "CONTACT_SUPPORT": "Bitte kontaktiere support@domination.earth für Unterstützung!",
         "GENERIC": "Etwas ist schiefgegangen... Bitte versuche es später nochmal!",
@@ -458,6 +459,7 @@
     },
     "LAND_MENU": {
         "ATTACK": "Losschießen",
+        "CONVERT_BASE": "In Basis konvertieren",
         "REPAIR_ALL": "Reparieren alle Gebäude"
     },
     "PAGE_EXCHANGE": {
@@ -841,6 +843,7 @@
         "WITHDRAW_DESC": "Falls du dein Angebot zurückziehst wirst du für zumindest eine Stunde kein neues ausstellen können.",
         "WITHDRAW_OFFER": "Angebot zurückziehen",
         "YOUR_LAND": "Dein Gebiet:",
-        "YOUR_OFFER": "Du bietest die folgenden Resourcen an um dieses Gebiet zu kaufen:"
+        "YOUR_OFFER": "Du bietest die folgenden Resourcen an um dieses Gebiet zu kaufen:",
+        "CANNOT_TRADE_LEVEL": "Du kannst keine Gebiete über Stufe {{level}} kaufen oder verkaufen!"
     }
 }

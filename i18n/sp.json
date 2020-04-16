@@ -72,6 +72,7 @@
         "PVP_DISABLED_TRADE": "¡El intercambio de tierras no es posible si uno de los jugadores tiene una base bajo nivel {{level}} y el otro no!",
         "PVP_LOW_LEVEL": "¡No puedes atacar al jugador {{name}} ya que el nivel de su base no es suficiente para batallas Jugador vs. Jugador!",
         "RESOURCE_LIMIT": "¡No puedes almacenar ningún {{translate_item}} más! ¡Mejora el nivel de tu base para desbloquear más espacios de almacenamiento!",
+        "MOCK_WARNING": "Su dispositivo está utilizando una aplicación que falsifica las coordenadas GPS. Deshabilita esta aplicación para seguir jugando. Este incidente ha sido registrado.",
         "TITLE": "¡Ups!"
     },
     "ITEM": {
@@ -455,6 +456,7 @@
     },
     "LAND_MENU": {
         "ATTACK": "Disparar",
+        "CONVERT_BASE": "Convertir a base",
         "REPAIR_ALL": "Repara todos los edificios"
     },
     "PAGE_EXCHANGE": {
@@ -817,6 +819,7 @@
         "WITHDRAW_DESC": "Si retiras esta oferta, serás incapaz de ofrecer otra nueva por lo menos hasta una hora.",
         "WITHDRAW_OFFER": "Retirar Oferta",
         "YOUR_LAND": "Tu tierra:",
-        "YOUR_OFFER": "Estás ofreciendo los siguientes recursos para comprar esta tierra:"
+        "YOUR_OFFER": "Estás ofreciendo los siguientes recursos para comprar esta tierra:",
+        "CANNOT_TRADE_LEVEL": "¡No puedes comprar o vender tierras por encima del nivel {{level}}!"
     }
 }

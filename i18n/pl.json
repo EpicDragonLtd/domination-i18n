@@ -58,6 +58,7 @@
         "ACTION_COOLDOWN": "Nie można tego jeszcze zrobić: przeładowuje!",
         "BANNED_ACCOUNT": "To konto zostało wpisane na czarną listę i zostało zablokowane. Skontaktuj się z support@domination.earth w celu uzyskania szczegółów.",
         "BANNED_DEVICE": "To urządzenie zostało wpisane na czarną listę i zostało zablokowane. Skontaktuj się z support@domination.earth w celu uzyskania szczegółów.",
+        "MOCK_WARNING": "Twoje urządzenie korzysta z aplikacji, która fałszuje współrzędne GPS. Wyłącz tę aplikację, aby kontynuować odtwarzanie. Ten incydent został zarejestrowany.",
         "CHEAT_WARNING": "Twoje urządzenie zostało przyłapane na korzystaniu z fałszywej lokalizacji GPS w obrębie gry, co stanowi naruszenie reguł gry. To Twoje pierwsze i jedyne ostrzeżenie, jeżeli nadal będziesz fałszować swoją pozycję, konto zostanie zablokowane.",
         "CONTACT_SUPPORT": "Skontaktuj się z support@domination.earth, aby uzyskać pomoc!",
         "GENERIC": "Coś poszło nie tak... spróbuj ponownie później!",
@@ -458,6 +459,7 @@
     },
     "LAND_MENU": {
         "ATTACK": "Strzelać",
+        "CONVERT_BASE": "Konwertuj na bazę",
         "REPAIR_ALL": "Napraw wszystkie budynki"
     },
     "PAGE_EXCHANGE": {
@@ -841,6 +843,7 @@
         "WITHDRAW_DESC": "Jeżeli wycofasz tą ofertę, nie będzie możliwe złożenie nowej oferty przez co najmniej godzinę.",
         "WITHDRAW_OFFER": "Wycofaj ofertę",
         "YOUR_LAND": "Twój obszar:",
-        "YOUR_OFFER": "Oferujesz za ten obszar następujące zasoby:"
+        "YOUR_OFFER": "Oferujesz za ten obszar następujące zasoby:",
+        "CANNOT_TRADE_LEVEL": "Nie możesz kupować ani sprzedawać terytoriów powyżej poziomu {{level}}!"
     }
 }

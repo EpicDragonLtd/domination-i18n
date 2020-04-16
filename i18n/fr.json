@@ -58,6 +58,7 @@
         "ACTION_COOLDOWN": "Vous ne pouvez pas faire ceci: rechargement en cours!",
         "BANNED_ACCOUNT": "Le compte est banni et ne peut plus être utilisé pour jouer! Bien fait sale cheater! ",
         "BANNED_DEVICE": "L'adresse IP est bannie et ne peut plus être utilisée pour jouer! Bien fait sale cheater!",
+        "MOCK_WARNING": "Votre appareil utilise une application qui falsifie les coordonnées GPS. Veuillez désactiver cette application pour continuer à jouer. Cet incident a été enregistré.",
         "CHEAT_WARNING": "Vous utilisez un Fake GPS en jeu. Sale cheater, désactive ça, c'est ton premier avertissement, y'en aura pas deux!!",
         "CONTACT_SUPPORT": "Merci de contacter le support via domisupport@nation.earth ",
         "GENERIC": "Quelque chose ne va pas... réessayez plus tard!",
@@ -458,6 +459,7 @@
     },
     "LAND_MENU": {
         "ATTACK": "Tirer",
+        "CONVERT_BASE": "Convertir en base",
         "REPAIR_ALL": "Réparer tous les bâtiments"
     },
     "PAGE_EXCHANGE": {
@@ -841,6 +843,7 @@
         "WITHDRAW_DESC": "Si vous donnez cette offre, il sera impossible d'en faire une heure.",
         "WITHDRAW_OFFER": "Offre annulée!",
         "YOUR_LAND": "Votre territoire:",
-        "YOUR_OFFER": "Vous offrez ces ressources pour acheter ce territoire:"
+        "YOUR_OFFER": "Vous offrez ces ressources pour acheter ce territoire:",
+        "CANNOT_TRADE_LEVEL": "Vous ne pouvez pas acheter ou vendre des territoires au-dessus du niveau {{level}}!"
     }
 }

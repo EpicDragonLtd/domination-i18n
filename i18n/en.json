@@ -75,6 +75,7 @@
         "OLD_APP": "You are using an out of date version of the game. Please download update {{version}} from the Play/App Store for all features to work correctly.",
         "BANNED_ACCOUNT": "This account has been blacklisted and cannot be used to play. Please contact support@domination.earth for details.",
         "BANNED_DEVICE": "This device has been blacklisted and cannot be used to play. Please contact support@domination.earth for details.",
+        "MOCK_WARNING": "Your device uses an app that falsifies GPS coordinates. Please deactivate this app to continue playing. This incident has been recorded.",
         "CHEAT_WARNING": "Your device has been caught using Fake GPS within the game, which is a violation of our rules. This is your first and only warning, if you continue falsifying your position this account will be disabled."
     },
     "ITEM": {
@@ -451,6 +452,7 @@
     },
     "LAND_MENU": {
         "ATTACK": "Open fire",
+        "CONVERT_BASE": "Convert to base",
         "REPAIR_ALL": "Repair all structures"
     },
     "PAGE_EXCHANGE": {
@@ -730,7 +732,8 @@
         "WITHDRAW_DESC": "If you withdraw this offer you will be unable to place a new one for at least an hour.",
         "WITHDRAW_OFFER": "Withdraw Offer",
         "YOUR_LAND": "Your land:",
-        "YOUR_OFFER": "You are offering the following resources to purchase this land:"
+        "YOUR_OFFER": "You are offering the following resources to purchase this land:",
+        "CANNOT_TRADE_LEVEL": "You cannot buy or sell lands above level {{level}}!"
     },
     "PAGE_PERKS": {
         "TITLE": "Perks",

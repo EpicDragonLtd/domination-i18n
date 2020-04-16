@@ -72,6 +72,7 @@
         "PVP_DISABLED_TRADE": "Obchod s územím nelze uskutečnit, pokud má jeden z hráčů úroveň základny vyšší o {{level}} než druhý!",
         "PVP_LOW_LEVEL": "Nemůžeš napadnout hráče {{name}} pokud jeho úroveň základny není dostatečná na PvP bitvy!",
         "RESOURCE_LIMIT": "Nemůžeš uložit více {{translate_item}}! Aby jsi získal víc místa k uložení, zvyš úroveň své základny!",
+        "MOCK_WARNING": "Vaše zařízení používá aplikaci, která falšuje souřadnice GPS. Chcete-li pokračovat ve hře, deaktivujte tuto aplikaci. Tento incident byl zaznamenán.",
         "TITLE": "Hups!"
     },
     "ITEM": {
@@ -455,6 +456,7 @@
     },
     "LAND_MENU": {
         "ATTACK": "Otevřete palbu",
+        "CONVERT_BASE": "Převést na základnu",
         "REPAIR_ALL": "Opravte všechny struktury"
     },
     "PAGE_EXCHANGE": {
@@ -817,6 +819,7 @@
         "WITHDRAW_DESC": "Pokud zrušíš tuto nabídku, nebudeš moci následující hodinu podat novou",
         "WITHDRAW_OFFER": "Zrušit nabídku",
         "YOUR_LAND": "Tvé území:",
-        "YOUR_OFFER": "Nabízíš následující zdroje za nákup území:"
+        "YOUR_OFFER": "Nabízíš následující zdroje za nákup území:",
+        "CANNOT_TRADE_LEVEL": "Nemůžete kupovat ani prodávat pozemky nad úrovní {{level}}!"
     }
 }

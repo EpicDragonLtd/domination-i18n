@@ -58,6 +58,7 @@
         "ACTION_COOLDOWN": "Non è ancora possibile: nuovo caricamento in corso!",
         "BANNED_ACCOUNT": "Questo account è stato inserito nella blacklist e non può essere utilizzato per giocare. Si prega di contattare support@domination.earth per i dettagli.",
         "BANNED_DEVICE": "Questo dispositivo è stato inserito nella blacklist e non può essere utilizzato per giocare. Si prega di contattare support@domination.earth per i dettagli.",
+        "MOCK_WARNING": "Il dispositivo utilizza un'app che falsifica le coordinate GPS. Disattiva questa app per continuare a giocare. Questo incidente è stato registrato.",
         "CHEAT_WARNING": "Il tuo dispositivo è stato rilevato utilizzando il GPS falso all'interno del gioco, che è una violazione delle nostre regole. Questo è il tuo primo e unico avvertimento, se continui a falsificare la tua posizione questo account sarà disabilitato.",
         "CONTACT_SUPPORT": "Si prega di contattare support@domination.earth per assistenza!",
         "GENERIC": "Qualcosa non funziona... si prega di riprovare più tardi!",
@@ -458,6 +459,7 @@
     },
     "LAND_MENU": {
         "ATTACK": "Sparare",
+        "CONVERT_BASE": "Converti in base",
         "REPAIR_ALL": "Ripara tutti gli edifici"
     },
     "PAGE_EXCHANGE": {
@@ -841,6 +843,7 @@
         "WITHDRAW_DESC": "Se ritiri la tua offerta non sarai in grado di farne un'altra per almeno un'ora.",
         "WITHDRAW_OFFER": "Ritira offerta",
         "YOUR_LAND": "Il tuo territorio:",
-        "YOUR_OFFER": "Stai offrendo le seguenti risorse per comprare questo territorio:"
+        "YOUR_OFFER": "Stai offrendo le seguenti risorse per comprare questo territorio:",
+        "CANNOT_TRADE_LEVEL": "Non puoi acquistare o vendere territori al di sopra del livello {{level}}!"
     }
 }
