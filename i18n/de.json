@@ -455,7 +455,8 @@
         "BUTTON_LAND": "land",
         "BUTTON_PICK_UP": "abholen",
         "BUTTON_ITEMS": "inventar",
-        "BUTTON_GOALS": "tore"
+        "BUTTON_SCRAP": "verschrotten",
+        "BUTTON_GOALS": "quests"
     },
     "LAND_MENU": {
         "ATTACK": "Losschießen",
@@ -588,6 +589,10 @@
     },
     "PAGE_OBJECTIVES": {
         "COMPLETED": "Abgeschlossen",
+        "BUTTON_COMPLETE": "Abschließen",
+        "BUTTON_ABANDON": "Verlassen",
+        "BUTTON_RESTART": "Neu starten",
+        "RESTART_DESC": "Timer für diese Quest neu starten?",
         "STAGE_BARRACKS": "<h3>Errichte eine Kaserne</h3><br>Errichte eine Kaserne an deiner Basis um Einheiten rekrutieren zu können.<br><br>Eine Armee ermöglicht es Gebiete und Basen von anderen Spielern im 100 km Radius um deine Basis anzugreifen. Angegriffene Basen können maximal auf Level 1 zurückfallen.<br><br>Die angreifenden Einheiten richten einmal alle 10 Minuten Schaden an defensiven und offensiven Gebäuden an. Sind alle Gebäude zerstört, beginnen deine Einheiten das Level des feindlichen Gebietes zu reduzieren. Wenn feindliche Gebiete Level 1 erreichen, werden sie erobert und mit deiner Basis verknüpft.<br><br>Ein einzelner Kampf kann bis zu 2 Stunden dauern.",
         "STAGE_BASE": "<h3>Errichte deine erste Basis</h3><br>Drücke \"Gebiet einnehmen\" (der runde Flaggenknopf auf der Weltkarte) um deine erste Basis hier zu etablieren.<br><br>Stelle sicher, dass du diesen Ort in Zunkunft öfters besuchen kannst, da deine Anwesenhet dort Items und Verteidigungsboni freischaltet.<br><br><b>Mache dir keine Sorgen, wenn du deine Basis ausversehen an einem schlechten Ort platziert hast, denn du kannst sie aus der \"Meine Gebiete\"-Ansicht im Nachhinein einmal kostenfrei an einen anderen Ort versetzen.</b><br><br>Deine Basen sind permanent und können von Feinden nicht vollständig vernichtet sondern lediglich auf Level 1 zurückgesetzt werden. Außerdem bleiben sie unsichtbar gegenüber anderen Spielern bis du jemanden attackierst, dann sind sie für die nächsten 24 Stunden für andere Spieler sichtbar.",
         "STAGE_DEFENCE": "<h3>Errichte Verteidigungsanlagen</h3><br>Besuche die Bauansicht und baue eine Mauer an deiner Basis oder einem deiner eingenommenen Gebiete.<br><br>Jedes mal, wenn ein nicht mit dir alliierter Spieler ein Gebiet innerhalb deines Territoriums einnimmt, erhält dein Gebiet einen Schadenpunkt, sofern das gegnerische Gebiet vom selbem oder höherem Level ist.<br><br>Verteidigungsanlagen absorbieren diesen Schaden (maximal bis zur Anzahl ihrer Lebenspunkte, diese könne später repaiert werden) und schützen deine Gebiete davor zu schrumpfen. Außerdem erhöht deine Verteidigung die Überlebenschance deiner Einheiten, sollte dein Gebiet von einer feindlichen Armee angegriffen werden: 2 Verteidigungspunkte erhöhen die Überlebenschance eines jeden Soldaten um 1%.",
@@ -595,6 +600,19 @@
         "STAGE_RESOURCES": "<h3>Sammle Resourcen</h3><br>Du brauchst Resourcen für jegliche Konstruktionen: Finde mindestens je eine Einheit Geld, Personal und Vorräte.<br><br>Die meisten Resourcen tauchen auf der Weltkarte auf, wann immer jemand Land einnimmt. Du musst zu ihnen hingehen und Land in ihrer unmittelbaren Nähe einnnehmen um sie einzusammeln. Manchmal wirst du auf Stationen treffen (wie z.B. Ölbohrplattformen, Versorgungsanlagen und Rekrutierungsbüros): Diese zu erobern schaltet die Möglichkeit frei, einmal pro Stunde aus der Ferne \"Resourcen einzusammeln\" in der \"Meine Gebiete\"-Ansicht.<br><br><b>Geld</b><br>Taucht fast überall auf der Welt auf. Kann ebenfalls durch die Verschrottung von Gegenständen aus der realen Welt erhalten werden in der \"Gegenstände Verschrotten\"-Ansicht.<br><br><b>Vorräte</b><br>Vorräte tauchen hauptsächlich außerhalb von Städten und Dörfern auf: Suche nach Vorräten in Wäldern, Wüsten, nahe Seen and überall sonst abseits von bewohnten Regionen.<br>Kann ebenfalls durch das Verschrotten von Gegenständen oder durch das errichten einer Versorgungsfabrik erhalten werden.<br><br><b>Personal</b><br>Taucht hauptsächlich innerhalb von Städten und Dörfern auf. Kann sehr selten außerhalb von Städten und nicht durch das Verschrotten von Gegenständen erhalten werden.",
         "STAGE_UPGRADE": "<h3>Gebäude Upgrades</h3><br>Besuche die \"Bauen\"-Ansicht und upgrade ein bereits existierendes Gebäude.<br><br>Upgrades ermöglichen es die offensiven und defensiven Fähigkeiten eines Gebäudes zu verbessern, indem seine Kampf-, Schadenspunkte oder andere Attribute verbessert werden. Upgrades der Versorgungsanlage erhöhen die Menge an einsammelbaren Vorräten.",
         "STAGE_WORLD": "<h3>Erobere die Welt</h3><br>Jetzt, wo du dich mit den Kernfunktionen von \"Domination: Earth\" vertraut gemacht hast, bist du bereit dich auf die Welt zu stürzen!<br><br>Etabliere neue Basen, indem du Gebiete mindestens 100km entfernt von deiner Basis einnimmst und sie auf Level 5 upgradest. Danach wirst du Einheiten zwischen deinen Basen verlegen können um die Umgebung zu sichern und deinen globalen Einfluss zu stärken. Alternativ kannst du auch Allianzen schließen und friedlich fortfahren!<br><br>Viel Glück!",
+        "FAILED": "Quest fehlgeschlagen",
+        "REQUIREMENTS": "Bedarf",
+        "REWARD": "Belohnung",
+        "CONFIRM_ABANDON": "Nachdem Sie diese Quest abgebrochen haben, besteht die Möglichkeit, dass Sie sie nicht wiederfinden.",
+        "QUEST_ABANDONED": "Quest aufgegeben",
+        "CANNOT_COMPLETE_YET": "Du hast die Ziele dieser Quest noch nicht erreicht!",
+        "CANNOT_STORE_RESOURCES": "Ihre Basis kann keine Ressourcen mehr speichern!",
+        "READY_TO_COMPLETE": "Du kannst jetzt die Quest \"{{title}}\" abschließen!",
+        "MARKER_TITLE": "Neue Quest",
+        "MARKER_DESCRIPTION": "Hebe ab, um eine neue Quest zu starten.",
+        "TOO_FAR": "Zu weit weg! Sie müssen näher sein um: {{distance}} Meter.",
+        "MAX_ACTIVE_QUESTS": "Questprotokoll ist voll! Bitte Schließe einige der derzeit aktiven Quests ab, bevor du eine neue startest.",
+        "UPGRADE_DESC": "Diese Aktion erhöht die Größe des Questprotokolls dauerhaft um eins.",
         "TITLE": "Aktuelles Ziel"
     },
     "PAGE_PASSWORD_RESET": {
@@ -634,6 +652,7 @@
         "SOUND_VOLUME": "Lautstärke",
         "SUCCESS_TITLE": "Profil erfolgreich geupdated!",
         "TIMER_NOTIFICATIONS": "Timer Benachrichtigungen",
+        "CACHE_ENABLED": "Datencache auf dem Gerät",
         "TITLE": "Mein Profil",
         "WAR_NOTIFICATIONS": "Kampfbenachrichtigungen",
         "WIFI_SETTING": "Updates nur über Wi-Fi"

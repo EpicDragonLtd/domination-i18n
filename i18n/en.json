@@ -448,7 +448,8 @@
         "BUTTON_LAND": "Land",
         "BUTTON_PICK_UP": "Pick Up",
         "BUTTON_ITEMS": "Items",
-        "BUTTON_GOALS": "Goals"
+        "BUTTON_SCRAP": "Scrap",
+        "BUTTON_GOALS": "Quests"
     },
     "LAND_MENU": {
         "ATTACK": "Open fire",
@@ -566,6 +567,10 @@
     },
     "PAGE_OBJECTIVES": {
         "COMPLETED": "Completed",
+        "BUTTON_COMPLETE": "Complete",
+        "BUTTON_ABANDON": "Abandon",
+        "BUTTON_RESTART": "Restart",
+        "RESTART_DESC": "Restart timer for this quest?",
         "STAGE_BARRACKS": "<h3>Construct Barracks</h3><br>Construct Barracks on your base to unlock recruitment of an army.<br><br>Armies allow attacking other players' lands and bases remotely (within a 100km radius around your base) and are the only way to attack someone's base. Bases can only be reduced to level 1.<br><br>Attacking army deals damage to all offensive and defensive structures once every 10 minutes and when everything is destroyed it begins reducing your opponent's land levels. If the land reaches level 1 it will be captured and linked to your base.<br><br>Each combat can last up to 2 hours.",
         "STAGE_BASE": "<h3>Building First Base</h3><br>Press \"Capture Land\" (the round flag button on \"Earth View\") to deploy your first base.<br><br>Make sure you can visit its location again in the future, as your presence on a base unlocks certain features like item production and ability to boost defences.<br><br><b>Don't worry if you've accidentally placed your base in a wrong spot, it can be moved once again to another place from \"My Lands\" later.</b><br><br>Your bases are permanent and cannot be completely destroyed by an enemy, only reduced to level 1. They also remain invisible until you attack another player, in which case all bases are revealed for 24 hours.",
         "STAGE_DEFENCE": "<h3>Build Defences</h3><br>Visit \"Construct\" tab and build any wall on your base or any of the captured lands.<br><br>Each time a non-allied player captures a piece of land in the territory that belongs to you your land will take 1 point of level damage whenever your opponent's land is the same or higher level than yours.<br><br>Defensive structures absorb this damage (up to the number of their Hit Points which can be repaired later) and prevent your lands from shrinking. Additionally, when your enemy uses an army to invade your lands defensive structures increase the chance of your army to survive in combat: 2 points of Defence increase the survival chance for each soldier by 1%.",
@@ -573,7 +578,20 @@
         "STAGE_RESOURCES": "<h3>Collect Resources</h3><br>You need resources for construction of any kind: find at least one unit of Money, Supplies and Personnel.<br><br>Most resources appear on the world map every time someone captures a piece of land. You need to travel to their location and capture land around that resource to pick it up. Sometimes you will encounter resource stations (such as Oil Rigs, Supply Factories and Recruitment Beacons): capturing these will unlock the ability to \"Collect Resources\" remotely from \"My Lands\" once every hour.<br><br><b>Money</b><br>Appears almost anywhere in the world. Can also be obtained by scrapping real-world items via the \"Scrap Items\" tab.<br><br><b>Supplies</b><br>Supplies appear mostly outside of cities and villages: look out for supply sources in forests, deserts, near lakes and anywhere else outside of the populated areas.<br>Can also be obtained by scrapping items or by building a Supply Factory.<br><br><b>Personnel</b><br>Mostly appears inside cities, towns and villages. Can very rarely be found in the wilderness and never while scrapping items.",
         "STAGE_UPGRADE": "<h3>Building Upgrades</h3><br>Visit \"Construct\" tab and upgrade any of the existing buildings.<br><br>Upgrades allow improving a building's offensive and defensive capabilities, increasing its hit points, damage and other attributes. Supply Factory upgrades increase the amount of supplies collected.",
         "STAGE_WORLD": "<h3>Capture the World</h3><br>Now that you're familiar with core mechanics of \"Domination: Earth\" you are ready to take on the world!<br><br>Create new bases by capturing a new land further away from your primary base than 100km and upgrade it to level 5. After that you can transfer armies between your new bases to clear out the surrounding areas and expand your global influence. Alternatively, you can establish alliances with the locals and proceed peacefully!<br><br>Good luck!",
-        "TITLE": "Current Objective"
+        "FAILED": "Quest Failed",
+        "REQUIREMENTS": "Requirements",
+        "REWARD": "Reward",
+        "CONFIRM_ABANDON": "After you abandon this quest there is a chance you will not find it again.",
+        "QUEST_ABANDONED": "Quest abandoned",
+        "CANNOT_COMPLETE_YET": "You have not achieved this quest's objectives yet!",
+        "CANNOT_STORE_RESOURCES": "Your base cannot store any more resources!",
+        "READY_TO_COMPLETE": "Quest \"{{title}}\" is ready for completion!",
+        "MARKER_TITLE": "New Quest",
+        "MARKER_DESCRIPTION": "Pick up to start a new quest.",
+        "TOO_FAR": "Too far away! You need to be {{distance}} meters closer.",
+        "MAX_ACTIVE_QUESTS": "Your quest log is full! Complete some of the currently active quests before starting a new one.",
+        "UPGRADE_DESC": "This action will permanently increase the quest log size by one.",
+        "TITLE": "Quest Log"
     },
     "PAGE_PASSWORD_RESET": {
         "BACK": "Back to login",
@@ -602,6 +620,7 @@
         "SOUND_VOLUME": "Sound Volume",
         "SUCCESS_TITLE": "Profile updated successfully!",
         "TIMER_NOTIFICATIONS": "Timer Notifications",
+        "CACHE_ENABLED": "Cache land data on device",
         "TITLE": "My Profile",
         "WAR_NOTIFICATIONS": "Combat Notifications",
         "WIFI_SETTING": "Updates via Wi-Fi only",

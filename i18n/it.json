@@ -455,7 +455,8 @@
         "BUTTON_LAND": "terra",
         "BUTTON_PICK_UP": "raccogliere",
         "BUTTON_ITEMS": "inventario",
-        "BUTTON_GOALS": "obiettivi"
+        "BUTTON_SCRAP": "rottame",
+        "BUTTON_GOALS": "missioni"
     },
     "LAND_MENU": {
         "ATTACK": "Sparare",
@@ -588,6 +589,10 @@
     },
     "PAGE_OBJECTIVES": {
         "COMPLETED": "Completati",
+        "BUTTON_COMPLETE": "Completare",
+        "BUTTON_ABANDON": "Abbandono",
+        "BUTTON_RESTART": "Ricomincia",
+        "RESTART_DESC": "Riavvia il timer per questa ricerca?",
         "STAGE_BARRACKS": "<h3>Costruisci la caserma</h3><br>Costruisci la caserma nella tua base per sbloccare il reclutamento di una armata.<br><br>Le armate consentono di attaccare da lontano le basi e i territori degli altri giocatori (entro 100km dalla tua base) e sono l'unico modo di attaccare le basi degli altri. Le basi possono essere ridotte solo fino al livello 1.<br><br>L'armata che attacca infligge danno a tutte le strutture offensive e difensive una volta ogni 10 minuti e quando tutto è distrutto incomincia a ridurre il livello del territorio nemico. Se il territorio raggiunge il livello 1 sarà conquistato e collegato alla tua base.<br><br>Ogni combattimento può durare fino a 2 ore.",
         "STAGE_BASE": "<h3>Costruisci la prima base</h3><br>Premi \"Conquista territorio\" (il pulsante rotondo con la bandiera nella \"Vista mondiale\") per posizionare la tua prima base.<br><br>Assicurati che potrai visitare questo luogo di nuovo in futuro, perché la tua presenza nella base sblocca certe possibilità come la produzione di oggetti o la possibilità di accrescere la difesa.<br><br><b>Non preoccuparti se hai messo la base in un posto sbagliato per sbaglio, potrà essere spostata di nuovo in un altro posto dal \"I miei territori\".</b><br><br>Le tue basi sono permanenti e non possono essere distrutte del tutto da un nemico, solo ridotte a livello 1. Le basi rimangono anche invisibili finché non attacchi un altro giocatore, nel qual caso tutte le basi saranno rivelate per 24 ore.",
         "STAGE_DEFENCE": "<h3>Costruisci le difese</h3><br>Vai su \"Costruisci\" e costruisci un muro nella tua base o in qualsiasi dei territori conquistati.<br><br>Ogni volta che un giocatore non alleato conquista una porzione di terreno che fa parte dei tuoi territori, il livello degli stessi territori  prende 1 punto di danno, ma solo se il territorio nemico è di livello pari o superiore al tuo.<br><br>Le strutture difensive assorbono questo danno (fino al numero dei propri punti vita, che possono essere riparati in seguito) e impediscono che il tuo territorio si rimpicciolisca. Inoltre, quando un nemico usa il suo esercito per invadere i tuoi territori, le strutture difensive aumentano le possibilità che la tua armata sopravviva al combattimento: 2 punti di difesa aumentano la probabilità di sopravvivenza per ogni soldato del 1%.",
@@ -595,6 +600,19 @@
         "STAGE_RESOURCES": "<h3>Raccogli le risorse</h3><br>Hai bisogno di risorse per ogni tipo di costruzione: trova almeno una unità di soldi, provviste e personale.<br><br>La maggioranza delle risorse appaiono nella mappa del mondo ogni volta che qualcuno conquista un territorio. Per prenderle devi andare dove si trovano e conquistare il territorio intorno alle risorse. A volte vedrai delle stazioni di risorsa (come pozzi di petrolio, fabbriche di provviste e centri di reclutamento): conquistando queste sarà sbloccata la possibilità di \"Raccogliere risorse\" da lontano una volta all'ora, dalla schermata \"I miei territori\".<br><br><b>Soldi</b><br>Appaiono quasi ovunque nel mondo. Possono essere anche ottenuti dalla rottamazione di oggetti reali tramite \"Rottama oggetti\".<br><br><b>Provviste</b><br>Le provviste appaiono per la maggior parte fuori delle città e dei villaggi: cercale nelle foreste, deserti, vicino ai laghi ed ovunque non ci siano aree popolate.<br>Possono essere anche ottenute rottamando oggetti o costruendo una fabbrica di provviste.<br><br><b>Personale</b><br>Per la maggior parte appare nelle città e nei villaggi. Molto raramente si trova in zone selvagge e mai rottamando oggetti.",
         "STAGE_UPGRADE": "<h3>Miglioramenti degli edifici</h3><br>Guarda la schermata \"Costruisci\" e migliora uno degli edifici.<br><br>I miglioramenti permettono di potenziare le capacità offensive e difensive di un edificio, aumentando i suoi punti, il danno inflitto e altri attributi. I miglioramenti della fabbrica di provviste aumentano la quantità di provviste raccolte.",
         "STAGE_WORLD": "<h3>Conquista il mondo</h3><br>Ora che conosci il meccanismo di base di \"Domination: Earth\" sei pronto per affrontare il mondo!<br><br>Crea un'altra base conquistando un nuovo territorio più lontano di 100km dalla tua prima base, e portalo al livello 5. Dopo di che potrai trasferire armate fra le tue basi per sgombrare l'area circostante ed espandere la tua influenza nel mndo. In alternativa puoi formare alleanze con i locali e andare avanti pacificamente!<br><br>In bocca al lupo!",
+        "FAILED": "Missione fallita",
+        "REQUIREMENTS": "Requisiti",
+        "REWARD": "Ricompensa",
+        "CONFIRM_ABANDON": "Dopo aver abbandonato questa ricerca c'è una possibilità che non la ritroverai più.",
+        "QUEST_ABANDONED": "Quest abbandonata",
+        "CANNOT_COMPLETE_YET": "Non hai ancora raggiunto gli obiettivi di questa ricerca!",
+        "CANNOT_STORE_RESOURCES": "La tua base non può immagazzinare più risorse!",
+        "READY_TO_COMPLETE": "Ora puoi completare la missione \"{{title}}\"!",
+        "MARKER_TITLE": "Nuova ricerca",
+        "MARKER_DESCRIPTION": "Raccogli per iniziare una nuova ricerca.",
+        "TOO_FAR": "Troppo lontano! Devi essere più vicino di: {{distance}} metri.",
+        "MAX_ACTIVE_QUESTS": "Il registro delle missioni è pieno! Completa alcune delle missioni attualmente attive prima di avviarne una nuova.",
+        "UPGRADE_DESC": "Questa azione aumenterà in modo permanente la dimensione del registro delle missioni di uno.",
         "TITLE": "Obiettivo attuale"
     },
     "PAGE_PASSWORD_RESET": {
@@ -634,6 +652,7 @@
         "SOUND_VOLUME": "Volume",
         "SUCCESS_TITLE": "Profilo aggiornato con successo!",
         "TIMER_NOTIFICATIONS": "Notifiche delle scadenze",
+        "CACHE_ENABLED": "Memorizza la cache di dati sul dispositivo",
         "TITLE": "Il mio profilo",
         "WAR_NOTIFICATIONS": "Notifiche di combattimento",
         "WIFI_SETTING": "Aggiornamenti solo con Wi-Fi"

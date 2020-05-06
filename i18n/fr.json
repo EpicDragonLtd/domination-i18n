@@ -455,7 +455,8 @@
         "BUTTON_LAND": "terre",
         "BUTTON_PICK_UP": "ramasser",
         "BUTTON_ITEMS": "articles",
-        "BUTTON_GOALS": "buts"
+        "BUTTON_SCRAP": "ferraille",
+        "BUTTON_GOALS": "quêtes"
     },
     "LAND_MENU": {
         "ATTACK": "Tirer",
@@ -588,6 +589,10 @@
     },
     "PAGE_OBJECTIVES": {
         "COMPLETED": "Completé",
+        "BUTTON_COMPLETE": "Compléter",
+        "BUTTON_ABANDON": "Abandonner",
+        "BUTTON_RESTART": "Redémarrer",
+        "RESTART_DESC": "Redémarrer le chronomètre pour cette quête?",
         "STAGE_BARRACKS": "<h3>Construire une caserne</h3><br>Construisez une caserne sur votre base pour débloquer le recrutement d'une armée.<br><br>Les armées vous permettent d'attaquer des territoires et bases (dans un rayon de 100km) d'autres joureurs, c'est le seul moyen d'attaquer une base de quelqu'un d'autre. Les bases ne peuvent être réduites jusqu'au niveau 1.<br><br>L'attaque de l'armée affecte toutes les structures toutes les 10 minutes et quand tout est détruit, le niveau du territoire commence à être diminué. Si le territoire atteint le niveau 1, il sera capturé et lié à votre base.<br><br>Chaque combat peut durer jusque 2 heures.",
         "STAGE_BASE": "<h3>Construire première base</h3><br>Appuyez sur \"Capturer territoire\" (le bouton avec un drapeau dans le rond dans \"Vue Mondiale\") pour déployer votre première base.<br><br>Soyez sûr que vous pourrez vous rendre à votre base souvent, car la présence à cet endroit sera requis pour certaines options comme la production d'objet et de boost de défense.<br><br><b>Ne vous inquiétez pas, si vous avez placer votre base à un mauvais endroit, elle pourra être déplacée une fois depuis ''Mes territoires\".</b><br><br>Vos bases sont permanentes et ne peuvent être détruites, juste réduite au niveau 1. Elle reste aussi invisible jusqu'à ce que vous attaquez une autre joueur, dans ce cas elle sera visible pendant 24 heures.",
         "STAGE_DEFENCE": "<h3>Construire des défenses</h3><br>Allez dans l'onglet \"Construire\" et construisez un mur de sacs de sable sur votre base ou un de vos territoires capturés.<br><br>Chaque fois qu'un joueur non-allié prendra une partie de territoire qui vous appartient, votre territoire prendra un point de dommage, si le territoire ennemi est du même niveau ou supérieur que le votre.<br><br>Les structures défensives absorbe ces dégâts (ils prennent des dégâts mais ils peuvent être réparés) et empêche votre territoire d'être réduit. De plus, vos structures augmentent les chances que vos sodats survivent à une attaque sur ce territoire: 2 points de défense augmente les chances de survie de 1% pour chaque soldat.",
@@ -595,6 +600,19 @@
         "STAGE_RESOURCES": "<h3>Amasser ressources</h3><br>Vous avez besoin de ressources pour construire: au moins de l'argent, fourniture ou du personnel.<br><br>La plupart des ressources apparaît chaque fois que quelqu'un capture un territoire sur la carte.Vous devez vous déplacer à cet endroit et capturer le territoire proche pour amasser la ressource. Parfois vous aurez des stations de ressources(tels que les installations pétrolières, les usines d'approvisionnement et les balises de recrutement): les capturer déploquera l'abilité d'''Amasser des Ressources\" à distances depuis \"Mes Territoires\" chaque heure.<br><br><b>Argent</b><br>Apparaît partout dans le monde. Peut aussi être obtenu en mettant à la féraille des objets monde réel via l'onglet \"Objet au rebut\" <b>Fournitures</b><br>Elle apparaissent surtout en dehors des villes: comme en forêt, désert, près des lacs ou dans des endroits peu peuplés.<br>Peut aussi être obtenu en mettant des objet à la féraille ou par une usine d'approvisionnement.<br><br><b>Personnel</b><br>Apparaît surtout dans les villes et villages. Vous en trouverez rarement dans les lieux sauvages et jamais à la féraille.",
         "STAGE_UPGRADE": "<h3>Amélioration des Bâtiments</h3><br>Allez dans l'onglet ''Construire'' et améliorer un bâtiment existant.<br><br>Ce qui améliore l'attaque et la capacité défensive, améliorant les points de dommages. L'usine d'approvisionnement augmente le nombre de fournitures collectées.",
         "STAGE_WORLD": "<h3>Capturer le monde</h3><br>Maintenant que vous êtes familier avec les méchanismes de bases de ''Domination: Earth\" vous êtes près de conquérir le monde!<br><br>Créez de nouvelles bases en prenant des territoires plus loin que 100Km de votre base principale et améliorez-le au niveau 5. Après ça, transférez des soldats pour étendre votre influence. Vous pouvez aussi établir des alliances avec les locaux et évoluer pacifiquement!<br><br>Bonne chance!",
+        "FAILED": "Échec de la quête",
+        "REQUIREMENTS": "Exigences",
+        "REWARD": "Récompense",
+        "CONFIRM_ABANDON": "Après avoir abandonné cette quête, il est possible que vous ne la retrouviez plus.",
+        "QUEST_ABANDONED": "Quête abandonnée",
+        "CANNOT_COMPLETE_YET": "Vous n'avez pas encore atteint les objectifs de cette quête!",
+        "CANNOT_STORE_RESOURCES": "Votre base ne peut plus stocker de ressources!",
+        "READY_TO_COMPLETE": "Vous pouvez maintenant terminer la quête \"{{title}}\"!",
+        "MARKER_TITLE": "Nouvelle quête",
+        "MARKER_DESCRIPTION": "Ramassez pour commencer une nouvelle quête.",
+        "TOO_FAR": "Trop loin! Vous devez être plus proche de: {{distance}} mètres.",
+        "MAX_ACTIVE_QUESTS": "Votre journal de quête est plein! Terminez certaines des quêtes actuellement actives avant d'en commencer une nouvelle.",
+        "UPGRADE_DESC": "Cette action augmentera de façon permanente la taille du journal de quête d'une unité.",
         "TITLE": "Objectif actuel"
     },
     "PAGE_PASSWORD_RESET": {
@@ -634,6 +652,7 @@
         "SOUND_VOLUME": "Volume",
         "SUCCESS_TITLE": "Paramètres de profils modifiés avec succès!",
         "TIMER_NOTIFICATIONS": "Notifications de temps",
+        "CACHE_ENABLED": "Stocker le cache de données sur l'appareil",
         "TITLE": "Mon profil",
         "WAR_NOTIFICATIONS": "Notification de combat",
         "WIFI_SETTING": "Chargement uniquement par Wi-Fi"

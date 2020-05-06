@@ -452,7 +452,8 @@
         "BUTTON_LAND": "pozemek",
         "BUTTON_PICK_UP": "vyzvednout",
         "BUTTON_ITEMS": "inventář",
-        "BUTTON_GOALS": "cíle"
+        "BUTTON_SCRAP": "šrot",
+        "BUTTON_GOALS": "questy"
     },
     "LAND_MENU": {
         "ATTACK": "Otevřete palbu",
@@ -570,6 +571,10 @@
     },
     "PAGE_OBJECTIVES": {
         "COMPLETED": "Kompletní",
+        "BUTTON_COMPLETE": "Dokončit",
+        "BUTTON_ABANDON": "Opustit",
+        "BUTTON_RESTART": "Restartujte",
+        "RESTART_DESC": "Restartovat časovač pro tento úkol?",
         "STAGE_BARRACKS": "<h3>Postavit kasárny</h3><br>Postav kasárny ve tvé základně k odemčení verbování armády<br><br>Armády ti umožní útočit na území a základny ostatních hráčů (v dosahu 100km od tvé základny) a jsou jedinou možností k útoku na základny. Základny mohou být sníženy maximálně na úroveň 1.<br><br>Útočící armáda uděluje poškození všem utočným a obranným budovám každých 10 minut a když je vše zničeno, začne snižovat úroveň území tvého nepřítele. Pokud území dosáhne úrovně 1, bude dobyto a připojeno k tvé základně.<br><br>Každý souboj může trvat až 2 hodiny.",
         "STAGE_BASE": "<h3>Stavění první základny</h3><br>Klikni na \"Dobýt území\" (kulatá ikona s vlajkou na \"Zobrazení země<br><br>Ujisti se, že v budoucnu budeš moci znovu navštívit tuto základnu. Tvoje přítomnost na základně odemyká některé funkce jako je výroba předmětů nebo zvyšování obrany.<br><br><b>Nedělej si starosti, pokud svou základnu umístíš na špatném místě. Může být znovu přemístěna na jiné místo později v \"Moje území\"</b><br><br>Tvoje základna je trvalá a nemůže být nepřátely zničena, pouze zredukována na úroveň 1. Navíc základny zůstávají neviditelné, dokud nezaútočíš na jiného hráče, pak jsou tvé báze viditelné po dobu 24 hodin.",
         "STAGE_DEFENCE": "<h3>Stavění obrany</h3><br>Klikni na \"Stavba\" a postav jakoukoliv zeď na tvé základně nebo na obsazeném území<br><br>Vždy když nepřátelský hráč obsadí kousek tvého území, bude tvé území dostávat 1 bod poškození pokaždé, když je území nepřítele na stejné nebo vyšší úrovni<br><br>Obranné budovy dostávají toto poškození(v závislosti na jejich úrovni života, které mohou být později upraveny) a zabraňují zmenšování tvého území. Navíc, když tvůj nepřítel použije armádu pro útok na tvé území, obranné budovy zvýší šanci tvé armády přežít bitvu: 2 body obrany zvyšují každému vojákovi šanci na přežití o 1%.",
@@ -577,6 +582,19 @@
         "STAGE_RESOURCES": "<h3>Sbírání zdrojů</h3><br>Potřebuješ zdroje pro stavbu jakéhokoliv druhu: Najdi alespoň jednu jednotku peněz, zásob nebo personálu.<br><br>Většina zdrojů se na mapě objeví pokaždé, když někdo získá kus území. Aby jsi ho mohl získat, musíš se dostat do této oblasti a dobýt území okolo tohoto zdroje.Občas narazíš na budovy zdrojů (jako je ropná plošina, Zásobovací továrna a náborové středisko): Obsazením získáte možnost každou hodinu vzdáleně získat tyto zdroje použitím \"Sebrat zdroje\"\n v \"Moje území\"<br><br><b>Peníze</b><br>Objevují se prakticky všude ve světě. Můžeš je také získat sešrotováním skutečných předmětů přes \"Šrotovat předměty\".<br><br><b>Zásoby</b><br>Zásoby se nejčastěji objevují mimo zalidněné oblasti. Hledej je poblíž lesů, pouští,řek a kdekoliv mimo civilizaci.<br>Mohou být také získány použitím \"Šrotovat předměty\" nebo postavením Zásobovací továrny<br><br><b>Personál</b><br>Nejvíc se objevuje uvnitř měst a vesnic. Velmi vzácně může být nalezen v divočině a nikdy při šrotování.",
         "STAGE_UPGRADE": "<h3>Stavění vylepšení</h3><br>Klikni na \"Stavba\" a vylepši jakoukoliv postavenou budovu.<br><br>Vylepšování umožňuje zvýšit obranné a útočné schopnosti, úroveň života, poškození a další vlastnosti. Zásobovací továrna zvyšuje množství získaných zásob.",
         "STAGE_WORLD": "<h3>Obsazení světa</h3><br>Nyní když jsi seznámen se základy hry \"Domination: Earth\" jsi připraven dobýt svět! <br><br>Vytvářej nové základny dobýváním nových území, vzdálenějších více než 100km od tvé první základny a vylepši je na úroveň 5. Poté můžeš do své nové základny přemístit armádu, vyčistit okolní oblasti a zvyšit svůj světový vliv. Také však můžeš uzavírat spojenectví s místními a hrát mírumilovně.<br><br>Hodně štěstí!",
+        "FAILED": "Quest selhal",
+        "REQUIREMENTS": "Požadavky",
+        "REWARD": "Odměna",
+        "CONFIRM_ABANDON": "Jakmile tento úkol opustíte, je možné, že jej znovu nenajdete.",
+        "QUEST_ABANDONED": "Quest opuštěn",
+        "CANNOT_COMPLETE_YET": "Cíle tohoto úkolu jste ještě nedosáhli!",
+        "CANNOT_STORE_RESOURCES": "Vaše základna nemůže ukládat žádné další zdroje!",
+        "READY_TO_COMPLETE": "Nyní můžete dokončit quest \"{{title}}\"!",
+        "MARKER_TITLE": "Nový úkol",
+        "MARKER_DESCRIPTION": "Vyzvedněte a zahajte nový úkol.",
+        "TOO_FAR": "Příliš daleko! Musíte být blíž: {{distance}} metrů.",
+        "MAX_ACTIVE_QUESTS": "Váš protokol úkolů je plný! Před spuštěním nového vyplňte některé z aktuálně aktivních úkolů.",
+        "UPGRADE_DESC": "Tato akce trvale zvýší velikost protokolu úkolů o jeden.",
         "TITLE": "Aktuální úkoly"
     },
     "PAGE_PASSWORD_RESET": {
@@ -616,6 +634,7 @@
         "SOUND_VOLUME": "Hlasitost zvuků",
         "SUCCESS_TITLE": "Účet úspěšně aktualizován",
         "TIMER_NOTIFICATIONS": "Upozornění časovače",
+        "CACHE_ENABLED": "Ukládání datové mezipaměti na zařízení",
         "TITLE": "Můj účet",
         "WAR_NOTIFICATIONS": "Upozornění souboje",
         "WIFI_SETTING": "Aktualizace pouze přes Wi-Fi"

@@ -452,7 +452,8 @@
         "BUTTON_LAND": "tierra",
         "BUTTON_PICK_UP": "recoger",
         "BUTTON_ITEMS": "inventario",
-        "BUTTON_GOALS": "metas"
+        "BUTTON_SCRAP": "chatarra",
+        "BUTTON_GOALS": "misiones"
     },
     "LAND_MENU": {
         "ATTACK": "Disparar",
@@ -570,6 +571,10 @@
     },
     "PAGE_OBJECTIVES": {
         "COMPLETED": "Completado",
+        "BUTTON_COMPLETE": "Completar",
+        "BUTTON_ABANDON": "Abandonar",
+        "BUTTON_RESTART": "Reiniciar",
+        "RESTART_DESC": "¿Reiniciar el temporizador para esta búsqueda?",
         "STAGE_BARRACKS": "<h3>Construir Cuartel</h3><br>Construir Cuartel en tu base para desbloquear el entrenamiento de un ejército.<br><br>Los ejércitos permiten atacar las tierras y bases de otros jugadores, remotamente (dentro de un radio de 100km alrededor de tu base) y son la única forma de atacar la base de alguien. Las bases solo pueden ser reducidas a nivel 1.<br><br>El ejército atacante genera daño a todas las estructuras ofensivas y defensivas cada 10 minutos y cuando todo está destruido, comienza a reducir los niveles de las tierras de tu enemigo. Si la tierra llega a nivel 1, será capturada y vinculada a tu base.<br><br>Cada combate puede durar hasta dos horas.",
         "STAGE_BASE": "<h3>Construyendo la Primera Base</h3><br>Presiona \"Capturar Tierra\" (El botón redondo con la bandera en \"Vista del Mundo\") para desplegar tu primera base.<br><br>Asegúrate de que puedas volver a visitar su localización en el futuro, mientras tu presencia en una base desbloquea ciertas características como la producción de artículos y la habilidad de acelerar de tus defensas.<br><br><b>No te preocupes si accidentalmente pusiste tu base en el lugar equivocado, esta puede ser movida otra vez desde \"Mis Tierras\".</b><br><br>Tus bases son permanentes y no pueden ser completamente destruidas por un enemigo, solo reducidas a nivel 1. Ellas también son invisibles hasta que ataques a otro jugador, en aquel caso todas las bases son reveladas por 24 horas.",
         "STAGE_DEFENCE": "<h3>Construir Defensas</h3><br>Visita la pestaña \"Construir\" y construye cualquier pared en tu base o cualquiera de tus tierras capturadas.<br><br>Cada vez que un jugador no aliado construye en el territorio que te pertenece tu tierra tomará un punto de daño de nivel siempre que la tierra de tu oponente sea de igual o mayor nivel que la tuya.<br><br>Las estructuras defensivas absorben este daño (hasta el número de sus puntos de vida, los cuales pueden ser reparados más tarde) y previenen a tus tierras de hundirse. Adicionalmente, cuando tu enemigo usa un ejército para invadir tus tierras, las estructuras defensivas incrementan la probabilidad de que tu ejército sobreviva en combate: 2 puntos de defensa incrementan la probabilidad de sobrevivir para cada soldado por 1%.",
@@ -577,6 +582,19 @@
         "STAGE_RESOURCES": "<h3>Recolectar Recursos</h3><br>Necesitas recursos para construcciones de cualquier tipo: encuentra por lo menos una unidad de Dinero, Suministros y Personal.<br><br>La mayoría de los recursos aparecen en el mapa del mundo cada vez que alguien captura un pedazo de tierra. Necesitas viajar hasta su ubicación y capturar el pedazo de tierra alrededor del recurso para recogerlo. Alguna veces encontrarás estaciones de recursos (como Plataformas Petroleras, Fábricas de Suministros y Bengalas de Reclutamiento): capturando estás desbloqueará la habilidad de \"Recolectar Recursos\" remotamente desde \"Mis Tierras\" cada hora.<br><br><b>Dinero</b><br>Aparece casi en cualquier lugar del mundo. También puede ser obtenido desguazando cualquier objeto del mundo real por la pestaña \"Desguazar Objetos\".<br><br><b>Suministros</b><br>Los suministros aparecen normalmente en las afueras de ciudades y villas: busca por fuentes de suministros en bosques, desiertos, cerca de lagos y en cualquier lugar fuera de las áreas pobladas.<br>También pueden ser obtenidos desguazando objetos o construyendo una Fábrica de Suministros.<br><br><b>Personal</b><br>Aparece mayormente en ciudades, pueblos y villas. Pueden ser raramente encontrados en la naturaleza y nunca desguazando objetos.",
         "STAGE_UPGRADE": "<h3>Construyendo Mejoras</h3><br>Visita la pestaña \"Construir\" y mejora cualquiera de las estructuras existentes.<br><br>Las mejoras permiten aumentar las capacidades ofensivas y defensivas de una estructura, aumentando sus puntos de golpe, daño y otros atributos. Las mejoras de la Fábrica de Suministros aumenta la cantidad de suministros recolectados.",
         "STAGE_WORLD": "<h3>Captura el Mundo</h3><br>¡Ahora que estás familiarizado con las mecánicas básicas de \"Domination: Earth\" ya estás listo para tomar el mundo!<br><br>Crea nuevas bases capturando una nueva tierra 100km más lejos de tu primera base y mejorándola a nivel 5. Después de eso puedes transferir ejércitos entre tus nuevas bases para despejar los alrededores y expandir tu influencia global. ¡Alternativamente, puedes establecer alianzas con los jugadores locales y continuar pacíficamente!<br><br>¡Buena suerte!",
+        "FAILED": "Búsqueda fallida",
+        "REQUIREMENTS": "Requisitos",
+        "REWARD": "Recompensa",
+        "CONFIRM_ABANDON": "Después de abandonar esta búsqueda, existe la posibilidad de que no la encuentres nuevamente.",
+        "QUEST_ABANDONED": "Búsqueda abandonada",
+        "CANNOT_COMPLETE_YET": "¡Aún no has logrado los objetivos de esta misión!",
+        "CANNOT_STORE_RESOURCES": "¡Su base no puede almacenar más recursos!",
+        "READY_TO_COMPLETE": "¡Ahora puedes completar la misión \"{{title}}\"!",
+        "MARKER_TITLE": "Nueva búsqueda",
+        "MARKER_DESCRIPTION": "Recoger para comenzar una nueva búsqueda.",
+        "TOO_FAR": "¡Demasiado lejos! Debes estar más cerca: {{distance}} metros.",
+        "MAX_ACTIVE_QUESTS": "¡Tu registro de misiones está lleno! Completa algunas de las misiones actualmente activas antes de comenzar una nueva.",
+        "UPGRADE_DESC": "Esta acción aumentará permanentemente el tamaño del registro de misiones en uno.",
         "TITLE": "Objetivo Actual"
     },
     "PAGE_PASSWORD_RESET": {
@@ -616,6 +634,7 @@
         "SOUND_VOLUME": "Volumen",
         "SUCCESS_TITLE": "¡Perfil actualizado exitosamente!",
         "TIMER_NOTIFICATIONS": "Reloj de las Notificaciones",
+        "CACHE_ENABLED": "Almacenar caché de datos en el dispositivo",
         "TITLE": "Mi Perfil",
         "WAR_NOTIFICATIONS": "Notificaciones de Combate",
         "WIFI_SETTING": "Solo actualizar vía Wi-Fi"

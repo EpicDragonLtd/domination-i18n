@@ -455,6 +455,7 @@
         "BUTTON_LAND": "utwórz",
         "BUTTON_PICK_UP": "zbierz",
         "BUTTON_ITEMS": "inwentarz",
+        "BUTTON_SCRAP": "złom",
         "BUTTON_GOALS": "zadania"
     },
     "LAND_MENU": {
@@ -588,6 +589,10 @@
     },
     "PAGE_OBJECTIVES": {
         "COMPLETED": "Ukończono",
+        "BUTTON_COMPLETE": "Ukończyć",
+        "BUTTON_ABANDON": "Porzucić",
+        "BUTTON_RESTART": "Uruchom ponownie",
+        "RESTART_DESC": "Zrestartować licznik czasu dla tego zadania?",
         "STAGE_BARRACKS": "<h3>Wybuduj Koszary</h3><br>Wybuduj Koszary w swojej bazie, aby odblokować możliwość rekrutowania armii.<br><br>Armie pozwalają atakować obszary i bazy innych graczy (w promieniu 100 km od Twojej bazy) i jako jedyne pozwalają na zaatakowanie czyjejś bazy. Bazy przeciwnika można jedynie zredukować do poziomu 1.<br><br>Atakująca armia zadaje obrażenia wszystkim ofensywnym i defensywnym strukturom w falach co 10 minut, a po zniszczeniu wszystkich struktur zaczyna zmniejszać poziom obszaru przeciwnika. Gdy obszar osiągnie poziom 1, zostanie zdobyty i połączony z Twoją bazą<br><br>Każda bitwa może trwać do 2 godzin.",
         "STAGE_BASE": "<h3>Budowa pierwszej bazy</h3><br>Wciśnij przycisk \"Zajmij obszar\" (okrągły przycisk z flagą w widoku \"Mapa\") aby umieścić swoją pierwszą bazę.<br><br>Umieść bazę w często odwiedzanym miejscu, gdyż obecność w bazie odblokowuje pewne funkcje, takie jak produkcja przedmiotów lub możliwość podniesienia obronności bazy.<br><br><b>Jeżeli wybrana przez Ciebie niechcący lokalizacja nie jest najlepsza, nie przejmuj się, można ją później przenieść w inne miejsce korzystając z zakładki \"Obszary\".</b><br><br>Twoje bazy są permanentne, przeciwnik nie będzie w stanie zniszczyć ich kompletnie, a jedynie obniżyć poziom bazy do 1. Bazy pozostają również niewidoczne, chyba że zaatakujesz innego gracza; w takim przypadku wszystkie Twoje bazy zostaną odkryte na 24 godziny.",
         "STAGE_DEFENCE": "<h3>Budowa obrony</h3><br>Odwiedź zakładkę \"Konstrukcja\" i zbuduj mur lub worki z piaskiem w swojej bazie lub na dowolnym zajętym obszarze.<br><br>Za każdym razem, gdy nie pozostający z Tobą w sojuszu przeciwnik zajmie obszar w terytorium należącym do Twojego obszaru, Twój obszar otrzyma 1 punkt obrażeń, o ile obszar przeciwnika jest na równym lub wyższym poziomie co Twój obszar.<br><br>Struktury obronne absorbują te obrażenia (do poziomu ich wytrzymałości, lecz można je również naprawiać) i chronią twoje obszary przed kurczeniem się. Dodatkowo, kiedy przeciwnik użyje armii do zaatakowania Twoich obszarów, struktury obronne zwiększają szanse przetrwania Twojej armii: dwa punkty Obronności zwiększają szansę przeżycia każdego żołnierza o 1%",
@@ -595,6 +600,19 @@
         "STAGE_RESOURCES": "<h3>Zbieranie zasobów</h3><br>Do wybudowania czegokolwiek potrzebujesz zasobów: znajdź co najmniej jedną jednostkę Pieniędzy, Zaopatrzenia i Personelu.<br><br>Większość zasobów pojawia się na mapie za każdym razem, gdy ktoś zajmie jakiś obszar. Musisz przemieścić się w kierunku lokalizacji zasobu i kliknąć przycisk \"zbieraj zasoby\" lub zająć obszar w pobliżu tego zasobu aby go zebrać. Czasem spotkasz na mapie Źródła zasobów (takie jak Platforma wiertnicza, Fabryka zaopatrzenia i Sygnał rekrutacyjny): zajęcie tych źródeł odblokuje możliwość zdalnego \"zbierania zasobów\" z poziomu zakładki \"Obszary\" raz na każdą godzinę.<br><br><b>Pieniądze</b><br>Pojawiają się praktycznie w każdym miejscu na świecie. Można je również uzyskać poprzez \"Złomowanie\" przedmiotów w rzeczywistym świecie poprzez zakładkę \"Złomowanie\".<br><br><b>Zaopatrzenie</b><br>Zaopatrzenie pojawia się głównie poza obszarami zabudowanymi: szukaj go w lasach, na pustkowiach, w pobliżu jezior i wszędzie indziej z daleka od terenów zamieszkanych.<br>Może być również zdobyte przez \"Złomowanie\" przedmiotów lub poprzez wybudowanie \"Fabryki zaopatrzenia\".<br><br><b>Personel</b><br>Pojawia się najczęściej w większych i mniejszych miastach. Bardzo rzadko można go znaleźć w dzikim terenie, zaś nigdy przez \"Złomowanie\".",
         "STAGE_UPGRADE": "<h3>Ulepszanie budynków</h3><br>Odwiedź zakładkę \"Konstrukcja\" i ulepsz dowolny z istniejących budynków.<br><br>Ulepszenia zwiększają defensywne i ofensywne właściwości budynków, zwiększając ich wytrzymałość, obrażenia i inne atrybuty. Ulepszenia Fabryki zaopatrzenia zwiększają liczbę zaopatrzenia zbieraną w każdym cyklu.",
         "STAGE_WORLD": "<h3>Zdobądź Świat</h3><br>Teraz, gdy znasz już najistotniejsze elementy mechaniki gry \"Domination: Earth\", możesz skupić się na podboju świata!<br><br>Zakładaj nowe bazy poprzez zajmowanie obszarów w odległości ponad 100km od pierwszej bazy i podnoszenie ich poziomu do 5. Po założeniu nowych baz możesz przenosić armię pomiędzy nimi, aby ułatwić sobie oczyszczanie okolicy i rozszerzanie swoich wpływów. Alternatywnie, możesz rozwijać sojusze z sąsiadami i rozwijać się na drodze pokoju!<br><br>Powodzenia!",
+        "FAILED": "Nieudane zadanie",
+        "REQUIREMENTS": "Wymagania",
+        "REWARD": "Nagroda",
+        "CONFIRM_ABANDON": "Po opuszczeniu tego zadania istnieje szansa, że nie znajdziesz go ponownie.",
+        "QUEST_ABANDONED": "Porzucone zadanie",
+        "CANNOT_COMPLETE_YET": "Nie osiągnąłeś jeszcze celów tego zadania!",
+        "CANNOT_STORE_RESOURCES": "Twoja baza nie może przechowywać więcej zasobów!",
+        "READY_TO_COMPLETE": "Możesz teraz ukończyć misję \"{{title}}\"!",
+        "MARKER_TITLE": "Nowa misja",
+        "MARKER_DESCRIPTION": "Podnieś, aby rozpocząć nową misję.",
+        "TOO_FAR": "Za daleko! Musisz być bliżej: {{distance}} metrów.",
+        "MAX_ACTIVE_QUESTS": "Twój dziennik zadań jest pełny! Ukończ niektóre z aktualnie aktywnych zadań przed rozpoczęciem nowej.",
+        "UPGRADE_DESC": "Ta akcja na stałe zwiększy rozmiar dziennika misji o jeden.",
         "TITLE": "Aktualne zadanie"
     },
     "PAGE_PASSWORD_RESET": {
@@ -634,6 +652,7 @@
         "SOUND_VOLUME": "Głośność dźwięku",
         "SUCCESS_TITLE": "Zaktualizowano profil!",
         "TIMER_NOTIFICATIONS": "Powiadomienia czasowe",
+        "CACHE_ENABLED": "Przechowuj pamięć podręczną danych na urządzeniu",
         "TITLE": "Mój profil",
         "WAR_NOTIFICATIONS": "Powiadomienia o bitwach",
         "WIFI_SETTING": "Aktualizacje wyłącznie przez Wi-Fi"
