@@ -104,7 +104,8 @@
         "NAME_TAKEN": "Toto jméno není dostupné. Zkus jiné",
         "NAME_TITLE": "Vítej!",
         "RENAME_LAND": "Přejmenovat zemi",
-        "NEW_NAME": "Můžete přejmenovat libovolný pozemek pro 1 Unobtainium."
+        "INITIAL_NAME": "Chtěli byste své nové zemi dát vlastní jméno?",
+        "NEW_NAME": "Můžete přejmenovat libovolný pozemek pro {{cost}} Unobtainium."
     },
     "LAND_TRADE": {
         "CONFIRM_OFFER": "Ujisti se, že jsi spokojen s nabízeným množstvím zdrojů. Jakmile bude nabídka přijata, nelze je získat zpět",
@@ -126,6 +127,7 @@
     },
     "MISC": {
         "CANCEL": "Zrušit",
+        "OPTIONAL": "volitelný",
         "KM": "km",
         "METERS": "m",
         "NO": "ne",
@@ -518,6 +520,7 @@
         "EMAIL": "Email",
         "FACEBOOK": "Přihlaš se s Facebookem",
         "GOOGLE": "Přihlaš se s Google",
+        "APPLE": "Přihlaš se s Apple",
         "LOGIN": "Přihlášení",
         "PASSWORD": "Heslo"
     },
@@ -767,6 +770,8 @@
         "SCRAP_NAME": "Mistr šrotu",
         "STATION_DESC": "Po obsazení jakékoliv budovy se zdroji se zvýší její životnost o stanovený počet dní",
         "STATION_NAME": "Technik budov",
+        "SETTLER_NAME": "Expertní osadník",
+        "SETTLER_DESC": "Každých 15 minut se hromadí další poplatky za zachycení půdy až do výše rovnající se úrovni perku. Extra zachycuje cenu variabilního procenta maximální kapacity úložiště náhodných zdrojů.",
         "TERROR_DESC": "Armáda udělí dodatečné poškození všem nehráčským nepřátelům a silám teroru",
         "TERROR_NAME": "Protiútok"
     },

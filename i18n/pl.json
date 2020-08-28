@@ -106,7 +106,8 @@
         "NAME_SUGGESTION": "Ziemie Wolnych Ludzi",
         "NAME_TAKEN": "Ta nazwa jest niedostępna! Proszę wybrać inną.",
         "NAME_TITLE": "Witamy!",
-        "NEW_NAME": "Możesz zmienić nazwę dowolnego obszaru za 1 Unobtainium",
+        "NEW_NAME": "Możesz zmienić nazwę dowolnego obszaru za {{cost}} Unobtainium",
+        "INITIAL_NAME": "Czy chcesz nadać swojej nowej ziemi niestandardową nazwę?",
         "RENAME_LAND": "Zmień nazwę obszaru"
     },
     "LAND_TRADE": {
@@ -129,6 +130,7 @@
     },
     "MISC": {
         "CANCEL": "Anuluj",
+        "OPTIONAL": "opcjonalny",
         "KM": "km",
         "METERS": "m",
         "NO": "Nie",
@@ -536,6 +538,7 @@
         "EMAIL": "E-mail",
         "FACEBOOK": "Zaloguj się kontem Facebook",
         "GOOGLE": "Zaloguj się kontem Google",
+        "APPLE": "Zaloguj się kontem Apple",
         "LOGIN": "Zaloguj się",
         "PASSWORD": "Hasło"
     },
@@ -791,6 +794,8 @@
         "SCRAP_NAME": "Mistrz Złomiarzy",
         "STATION_DESC": "Po zdobyciu dowolnego źródła zasobów, jego czas życia zostanie wydłużony o wskazaną liczbę dni.",
         "STATION_NAME": "Mechanik",
+        "SETTLER_NAME": "Ekspert osadniczy",
+        "SETTLER_DESC": "Kumuluje dodatkowe opłaty za przejęcie ziemi co 15 minut do wysokości równej poziomowi profitu. Dodatkowe ujęcia kosztują zmienny procent maksymalnej pojemności magazynu losowego zasobu.",
         "TERROR_DESC": "Armia zadaje dodatkowe punkty obrażeń przeciwko przeciwnikom niebędącym graczami oraz przeciwko obszarom Sił Terroru",
         "TERROR_NAME": "Kontrofensywa"
     },

@@ -107,7 +107,8 @@
         "NAME_TAKEN": "Dieser Name ist nicht verfügbar! Bitte wähle einen anderen.",
         "NAME_TITLE": "Willkommen!",
         "RENAME_LAND": "Land umbenennen",
-        "NEW_NAME": "Sie können jedes Land für 1 Unobtainium umbenennen."
+        "INITIAL_NAME": "Möchten Sie Ihrem neuen Land einen benutzerdefinierten Namen geben?",
+        "NEW_NAME": "Sie können jedes Land für {{cost}} Unobtainium umbenennen."
     },
     "LAND_TRADE": {
         "CONFIRM_OFFER": "Bitte stelle sicher, dass du die korrekte Menge Resourcen gewählt hast. Wenn das Angebot angenommen ist gibt es keine Möglichkeit es rückgängig zu machen.",
@@ -129,6 +130,7 @@
     },
     "MISC": {
         "CANCEL": "Abbrechen",
+        "OPTIONAL": "optional",
         "KM": "km",
         "METERS": "m",
         "NO": "Nein",
@@ -536,6 +538,7 @@
         "EMAIL": "Email",
         "FACEBOOK": "Mit Facebook anmelden",
         "GOOGLE": "Mit Google anmelden",
+        "APPLE": "Mit Apple anmelden",
         "LOGIN": "Einloggen",
         "PASSWORD": "Passwort"
     },
@@ -791,6 +794,8 @@
         "SCRAP_NAME": "Schrottmeister",
         "STATION_DESC": "Wenn eine neue Station eingenommen wird, erhöht sich ihre Lebensspanne um die spezifische Nummer an Tagen.",
         "STATION_NAME": "Stationstechniker",
+        "SETTLER_NAME": "Experte Siedler",
+        "SETTLER_DESC": "Sammelt alle 15 Minuten zusätzliche Landerfassungsgebühren bis zu dem Betrag, der dem Bonuslevel entspricht. Zusätzliche Erfassungen kosten einen variablen Prozentsatz der maximalen Speicherkapazität einer zufälligen Ressource.",
         "TERROR_DESC": "Deine Einheiten richten zusätzliche Schadenspunkte and allen nicht-Spieler Feinden und Gebieten der Terroristen an.",
         "TERROR_NAME": "Gegenschlag"
     },

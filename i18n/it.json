@@ -107,7 +107,8 @@
         "NAME_TAKEN": "Questo nome non è disponibile! Per favore scegline un altro.",
         "NAME_TITLE": "Benvenuto!",
         "RENAME_LAND": "Rinomina terra",
-        "NEW_NAME": "Puoi rinominare qualsiasi terra per 1 Unobtainium."
+        "INITIAL_NAME": "Vorresti dare alla tua nuova terra un nome personalizzato?",
+        "NEW_NAME": "Puoi rinominare qualsiasi terra per {{cost}} Unobtainium."
     },
     "LAND_TRADE": {
         "CONFIRM_OFFER": "Per favore controlla che ti vadano bene le risorse offerte, poiché una volta che l'offerta è accettata non c'è modo di riottenerle! ",
@@ -129,6 +130,7 @@
     },
     "MISC": {
         "CANCEL": "Annulla",
+        "OPTIONAL": "opzionale",
         "KM": "km",
         "METERS": "m",
         "NO": "No",
@@ -536,6 +538,7 @@
         "EMAIL": "Email",
         "FACEBOOK": "Entra con Facebook",
         "GOOGLE": "Entra con Google",
+        "APPLE": "Entra con Apple",
         "LOGIN": "Log in",
         "PASSWORD": "Password"
     },
@@ -791,6 +794,8 @@
         "SCRAP_NAME": "Rottamatore esperto",
         "STATION_DESC": "Dopo la conquista di una sorgente di risorse il suo tempo di vita aumenterà del numero di giorni specificato.",
         "STATION_NAME": "Tecnico della stazione",
+        "SETTLER_NAME": "Colono esperto",
+        "SETTLER_DESC": "Accumula ulteriori cariche di cattura del terreno ogni 15 minuti fino a un importo pari al livello del vantaggio. Le acquisizioni extra costano una percentuale variabile della capacità di archiviazione massima di una risorsa casuale.",
         "TERROR_DESC": "L'esercito infligge danno aggiuntivo contro i nemici artificiali e il territorio di \"Force of Terror\"",
         "TERROR_NAME": "Contrattacco"
     },

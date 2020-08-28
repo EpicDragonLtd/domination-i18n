@@ -107,7 +107,8 @@
         "NAME_TAKEN": "This name is unavailable! Please choose another one.",
         "NAME_TITLE": "Welcome!",
         "RENAME_LAND": "Rename Land",
-        "NEW_NAME": "You can rename any land for 1 Unobtainium."
+        "INITIAL_NAME": "Would you like to give your new land a custom name?",
+        "NEW_NAME": "You can rename any land for {{cost}} Unobtainium."
     },
     "LAND_TRADE": {
         "CONFIRM_OFFER": "Please make sure you are happy with the offered resources, as once the offer is accepted there is no way to return this amount!",
@@ -129,6 +130,7 @@
     },
     "MISC": {
         "CANCEL": "Cancel",
+        "OPTIONAL": "optional",
         "KM": "km",
         "METERS": "m",
         "NO": "No",
@@ -514,6 +516,7 @@
         "EMAIL": "Email",
         "FACEBOOK": "Sign in with Facebook",
         "GOOGLE": "Sign in with Google",
+        "APPLE": "Sign in with Apple",
         "LOGIN": "Log in",
         "PASSWORD": "Password"
     },
@@ -793,6 +796,8 @@
         "STATION_DESC": "Upon capturing any resource station its remaining lifetime will increase by the specified number of days.",
         "BASE_NAME": "Fortification",
         "BASE_DESC": "Increases defence bonus received for checking-in on a base and raises the associated defence limit.",
+        "SETTLER_NAME": "Expert Settler",
+        "SETTLER_DESC": "Accumulates additional land capture charges every 15 minutes up to the amount equal to the perk level. Extra flags cost a variable percent of a random resource maximum storage capacity.",
         "SCRAP_NAME": "Scrap Master",
         "SCRAP_DESC": "Multiplies resource rewards received from scrapping by the specified amount."
     },

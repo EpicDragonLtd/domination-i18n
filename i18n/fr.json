@@ -107,7 +107,8 @@
         "NAME_TAKEN": "Ce nom n'est pas disponible! Veuillez en choisir un autre! ",
         "NAME_TITLE": "Bienvenue!",
         "RENAME_LAND": "Renommer la terre",
-        "NEW_NAME": "Vous pouvez renommer n'importe quelle terre pour 1 Unobtainium."
+        "INITIAL_NAME": "Souhaitez-vous donner à votre nouveau terrain un nom personnalisé?",
+        "NEW_NAME": "Vous pouvez renommer n'importe quelle terre pour {{cost}} Unobtainium."
     },
     "LAND_TRADE": {
         "CONFIRM_OFFER": "Faites attention, les ressources offertes ne sont pas remboursées! ",
@@ -129,6 +130,7 @@
     },
     "MISC": {
         "CANCEL": "Retour",
+        "OPTIONAL": "optionnel",
         "KM": "km",
         "METERS": "m",
         "NO": "Non",
@@ -535,7 +537,8 @@
         "CREATE": "Ou créer un compte",
         "EMAIL": "Email",
         "FACEBOOK": "S'inscrire avec Facebook",
-        "GOOGLE": "S'inscrire avec GooglePlay Jeux",
+        "GOOGLE": "S'inscrire avec Google",
+        "APPLE": "S'inscrire avec Apple",
         "LOGIN": "Se connecter",
         "PASSWORD": "Mot de passe"
     },
@@ -791,6 +794,8 @@
         "SCRAP_NAME": "Maître des débris",
         "STATION_DESC": "Après avoir capturé une source de ressource, le temps de vie sera augmenté d'un certain nombre de jours.",
         "STATION_NAME": "Station de technicien",
+        "SETTLER_NAME": "Colon expert",
+        "SETTLER_DESC": "Accumule des frais supplémentaires de capture de terres toutes les 15 minutes jusqu'à concurrence du montant de l'avantage. Les captures supplémentaires coûtent un pourcentage variable de la capacité de stockage maximale d'une ressource aléatoire.",
         "TERROR_DESC": "L'armée inflige des points de dégâts supplémentaires contre les ennemis et les territoires de l'IA.",
         "TERROR_NAME": "Contre-attaque"
     },
