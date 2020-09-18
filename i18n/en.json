@@ -684,6 +684,7 @@
         "EMAIL": "Email",
         "HAVE_ACCOUNT": "Already have an account?",
         "PASSWORD": "Password",
+        "VIEW_PRIVACY_POLICY": "View Privacy Policy",
         "TITLE": "Create Account"
     },
     "PAGE_TRACK": {

@@ -714,6 +714,7 @@
         "EMAIL": "E-Mail",
         "HAVE_ACCOUNT": "Hast du bereits einen Account?",
         "PASSWORD": "Passwort",
+        "VIEW_PRIVACY_POLICY": "Datenschutzbestimmungen anzeigen",
         "TITLE": "Erstelle einen Account"
     },
     "PAGE_TRACK": {

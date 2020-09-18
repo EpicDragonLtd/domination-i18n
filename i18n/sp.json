@@ -696,6 +696,7 @@
         "EMAIL": "Correo electrónico",
         "HAVE_ACCOUNT": "¿Ya tienes una cuenta?",
         "PASSWORD": "Contraseña",
+        "VIEW_PRIVACY_POLICY": "Ver política de privacidad",
         "TITLE": "Crear Cuenta"
     },
     "PAGE_TRACK": {
