@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Realizar un ataque nuclear contra todos los enemigos en el área.",
         "PRODUCE_ITEM": "Producir Artículos",
         "PRODUCE_ITEM_DESC": "Fabricar potenciadores o artículos de utilidad de forma aleatoria. Esto solo es posible de hacer cuando estás presente en la base.",
-        "REMOTE_COLLECT_DESC": "Envíar a un miembro del personal a recolectar recursos que han aparecido en tierras capturadas, relacionadas a esta base."
+        "REMOTE_COLLECT_DESC": "¿Enviar a un miembro del personal para recolectar un recurso aleatorio de cualquier parte del planeta?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Produce potenciadores y artículos de utilidad de forma aleatoria, estos mejoran las cantidades o el radio de recolección. Solo disponible cuando estás presente en la misma base. El nivel de esta determina la cantidad de artículos producidos.",
@@ -29,7 +29,7 @@
         "BARRACKS_DESC": "Requerido para reclutar un ejército.",
         "BARRACKS_NAME": "Cuartel",
         "CONSTRUCTION_SITE": "Construcción en Progreso",
-        "GUARD_TOWER_DESC": "Estructura ofensiva capaz de atacar enemigos cerca o dentro del radio de las fronteras de tus tierras. También previene que otros jugadores dañen tus tierras utilizando \"Capturar Tierra\".",
+        "GUARD_TOWER_DESC": "Estructura ofensiva capaz de atacar enemigos cerca o dentro del radio de las fronteras de tus tierras.",
         "GUARD_TOWER_NAME": "Torre vigía",
         "LAUNCHER_DESC": "Arma inmóvil capaz de atacar tierras cercanas y dañar sus estructuras.",
         "LAUNCHER_NAME": "Lanzamisiles",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Relé de Comunicaciones",
         "SANDBAG_DESC": "Fortificación militar la cual aumenta los puntos de defensa de las tierras fuera de una base.",
         "SANDBAG_NAME": "Pared de Sacos de Arena",
-        "SATELLITE_DESC": "Permite la recolección a control remoto de todos los recursos que han aparecido dentro de tierras conquistadas, relacionadas a esta base.",
+        "SATELLITE_DESC": "Localiza y recopila un recurso aleatorio de algún lugar del mundo.",
         "SATELLITE_NAME": "Satélite Rastreador",
         "SENTRY_DESC": "Sistema de defensa automático que tiene una posibilidad de 1% por nivel de asesinar a un soldado del ejército invasor por cada ola. Más tiradas de dados son dadas cada 100 niveles, dando probabilidades adicionales de asesinar más enemigos. E.j.: Una estructura de nivel 140 tiene un 100% de probabilidades de asesinar a 1 atacante y 40% de probabilidades de asesinar a 1 más.",
         "SENTRY_NAME": "Torreta Sentinela",
@@ -402,7 +402,7 @@
         "CONTEXT_OPTIONS_TITLE": "Opciones adicionales",
         "COUNTRY_LEADER": "Líder",
         "COUNTRY_STATS": "Estadísticas del País",
-        "CREATED_RESOURCE": "¡Un nuevo recurso ha aparecido en el área: {{resource}} ({{amount}})!",
+        "CREATED_RESOURCE": "Nuevo recurso detectado que se puede recoger: {{resource}} ({{amount}})!",
         "DELETE_DESC": "Puedes destruir una estructura si es que la pusiste mal o simplemente si no la quieres más. Ten ten cuenta que esa acción es permanente y no puede ser revertida.\n",
         "DELETE_SUCCESS": "¡Estructura Destruida!",
         "DELETE_TITLE": "Destruir Estructura",
@@ -428,7 +428,6 @@
         "LAND_MINIMUM": "¡La tierra de {{name}} está al nivel más bajo posible y no podrá seguir siendo dañada! Usa tu ejército para capturar esta tierra.",
         "LAND_NEARBY": "¡No es posible mejorar esta tierra ya que una de mayor nivel está cerca: {{name}}! Selecciona {{name}} y une una tierra de menor nivel a ella.",
         "SMALLER_LAND_NEARBY": "¡No es posible mejorar esta tierra ya que otra tierra está cerca: {{name}}! Únete a estas tierras usando el botón \"Unir Tierras\".",
-        "LAND_PROTECTED": "¡La tierra de {{name}} está protegida por una estructura de ataque!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Tu {{weapon}} inflingió {{damage}} puntos de daño a la tierra de {{lands_title}}. ¡La tierra ha sido capturada y ahora pertenece a ti!.",
         "LAND_TOO_FAR": "¡La tierra seleccionada está muy lejos!",

@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Wykonaj atak nuklearny na wszystkich przeciwników w okolicy.",
         "PRODUCE_ITEM": "Produkuj przedmioty",
         "PRODUCE_ITEM_DESC": "Wytwarzaj losowe ulepszenia lub przedmioty użytkowe. Możliwe tylko podczas pobytu w bazie.",
-        "REMOTE_COLLECT_DESC": "Wyślij członka personelu w celu zebrania zasobów, które pojawiły się w zasięgu przechwyconych obszarów połączonych z tą bazą."
+        "REMOTE_COLLECT_DESC": "Wysłać członka personelu, aby zebrał losowy zasób z dowolnego miejsca na planecie?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Tworzy losowe ulepszenia i przedmioty użytkowe zwiększające promień lub liczbę zbieranych zasobów. Możliwe tylko wtedy, gdy znajdujesz się w tej samej bazie. Poziom ulepszenia określa liczbę produkowanych przedmiotów.",
@@ -29,7 +29,7 @@
         "BARRACKS_DESC": "Wymagane do rekrutacji armii.",
         "BARRACKS_NAME": "Koszary",
         "CONSTRUCTION_SITE": "Konstrukcja trwa",
-        "GUARD_TOWER_DESC": "Ofensywna struktura, zdolna do atakowania wrogów w pobliżu lub w granicach twoich obszarów. Zapobiega również niszczeniu twoich obszarów przez przeciwników za pomocą funkcji \"Zajmij obszar\".",
+        "GUARD_TOWER_DESC": "Ofensywna struktura, zdolna do atakowania wrogów w pobliżu lub w granicach twoich obszarów.",
         "GUARD_TOWER_NAME": "Wieża strażnicza",
         "LAUNCHER_DESC": "Stacjonarna broń zdolna do atakowania okolicznych obszarów i niszczenia ich struktur.",
         "LAUNCHER_NAME": "Wyrzutnia rakiet",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Przekaźnik",
         "SANDBAG_DESC": "Umocnienie wojskowe zwiększające Obronność obszarów poza bazą.",
         "SANDBAG_NAME": "Worki z piaskiem",
-        "SATELLITE_DESC": "Umożliwia zdalne zbieranie wszystkich zasobów, które pojawiły się na zajętych obszarach połączonych z bazą.",
+        "SATELLITE_DESC": "Lokalizuje i zbiera losowy zasób z dowolnego miejsca na świecie.",
         "SATELLITE_NAME": "Satelita obserwacyjny",
         "SENTRY_DESC": "Automatyczny system obronny, który daje 1% szansy per poziom na zabicie jednego żołnierza atakującej armii w każdej fali bitwy. Dodatkowe losowanie wykonywane jest co każde 100 poziomów, zapewniając dodatkową szansę zabicia dodatkowych przeciwników. Przykładowo, struktura na poziomie 140 ma 100% szansy zabicia 1 żołnierza oraz 40% szansy zabicia kolejnego.",
         "SENTRY_NAME": "Działko strażnicze",
@@ -405,7 +405,7 @@
         "CONTEXT_OPTIONS_TITLE": "Dodatkowe opcje",
         "COUNTRY_LEADER": "Lider",
         "COUNTRY_STATS": "Statystyki kraju",
-        "CREATED_RESOURCE": "W tej okolicy pojawił się nowy zasób: {{resource}} ({{amount}})!",
+        "CREATED_RESOURCE": "Wykryto nowy surowiec, który można podnieść: {{resource}} ({{amount}})!",
         "DELETE_DESC": "Możesz zburzyć istniejący budynek, jeżeli nie odpowiada Ci jego lokalizacja lub nie jest Ci on już potrzebny. Zauważ, że ta akcja jest permanentna i nie da się jej odwrócić.",
         "DELETE_SUCCESS": "Budynek zburzony!",
         "DELETE_TITLE": "Zburz budynek",
@@ -437,7 +437,6 @@
         "LAND_MINIMUM": "Obszar gracza {{name}} jest na najniższym poziomie (1) i nie może zostać bardziej uszkodzony! Użyj armii, aby zająć ten obszar.",
         "LAND_NEARBY": "Nie można ulepszyć tego obszaru, gdyż w pobliżu znajduje się obszar o wyższym poziomie: {{name}}! Wybierz obszar {{name}} i połącz go z mniejszym obszarem.",
         "SMALLER_LAND_NEARBY": "Nie można ulepszyć tego obszaru, gdyż w pobliżu znajduje się inny obszar: {{name}}! Użyj przycisku \"Połącz obszary\", aby połączyć te ziemie.",
-        "LAND_PROTECTED": "Obszar gracza {{name}} jest chroniony przez strukturę ofensywną!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "{{weapon}} zadała {{damage}} pkt. obrażeń obszarowi {{lands_title}}.Obszar został przejęty i należy teraz do Ciebie!",
         "LAND_TOO_FAR": "Wybrany obszar znajduje się za daleko!",

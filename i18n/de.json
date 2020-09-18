@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Führe einen Nuklearangriff gegen alle Feinde in der Umgebung durch.",
         "PRODUCE_ITEM": "Items produzieren",
         "PRODUCE_ITEM_DESC": "Stelle zufällig Power-Ups udn andere Items her. Nur möglich, während du dich in der Basis befindest.",
-        "REMOTE_COLLECT_DESC": "Schicke einen Angestellten deines Personals um Resourcen einzusammeln, die auf deinem Gebiet verbunden mit dieser Basis aufgetaucht sind."
+        "REMOTE_COLLECT_DESC": "Einen Mitarbeiter schicken, um eine zufällige Ressource von irgendwo auf dem Planeten zu sammeln?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Stelle zufällig Power-Ups udn andere Items, die deinen Resourcensammelradius oder die Sammelmenge verbessern, her. Nur möglich, während du dich in der Basis befindest.",
@@ -29,7 +29,7 @@
         "BARRACKS_DESC": "Benötigt um Einheiten zu rekrutieren.",
         "BARRACKS_NAME": "Kaserne",
         "CONSTRUCTION_SITE": "Im Aufbau",
-        "GUARD_TOWER_DESC": "Offensivgebäude, fähig Feinde innerhalb oder nahe deines Gebietes zu attackieren. Bewahrt zudem dein Gebiet vor Schaden durch feindliche Spieler, die \"Gebiet einnehmen\" nutzen.",
+        "GUARD_TOWER_DESC": "Offensivgebäude, fähig Feinde innerhalb oder nahe deines Gebietes zu attackieren.",
         "GUARD_TOWER_NAME": "Wachturm",
         "LAUNCHER_DESC": "Stationäre Waffe, fähig nahegelegene Gebiete und deren Gebäude zu attackieren.",
         "LAUNCHER_NAME": "Raketenwerfer",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Kommunikationsrelais",
         "SANDBAG_DESC": "Militärische Befestigungsanlage, die den Verteidigungswert von Gebieten außerhalb der Basis erhöht.",
         "SANDBAG_NAME": "Sandsackmauer",
-        "SATELLITE_DESC": "Erlaubt das Einsammeln aus der Ferne aller Resourcen, die auf Gebiet verbunden mit dieser Basis, aufgetaucht sind.",
+        "SATELLITE_DESC": "Findet und sammelt eine zufällige Ressource von irgendwo auf der Welt.",
         "SATELLITE_NAME": "Sattelitenanlange",
         "SENTRY_DESC": "Automatisches Verteidigungssystem, das pro Level und Runde eine 1% Chance gibt einen angreifenden Soldaten zu besiegen. Für alle 100 Level wird ein weiterer Zufallswurf ausgeführt, der es ermöglicht weitere angreifende Soldaten zu besiegen. Z.B.: Ein Level 140 Gebäude hat eine 100% Chance einen angreifenden Soldaten zu besiegen und eine 40% Chance einen weiteren zu besiegen.",
         "SENTRY_NAME": "Wachturm",
@@ -405,7 +405,7 @@
         "CONTEXT_OPTIONS_TITLE": "Erweiterte Optionen",
         "COUNTRY_LEADER": "Anführer",
         "COUNTRY_STATS": "Landesstatistiken",
-        "CREATED_RESOURCE": "Neue Resourcen sind in deiner Umgebung aufgetaucht: {{amount}} Einheiten ({{resource}})!",
+        "CREATED_RESOURCE": "Neue Ressource entdeckt, die abgeholt werden kann: {{amount}} Einheiten ({{resource}})!",
         "DELETE_DESC": "Du kannst ein existierendes Gebäude zerstören, falls du es falsch platziert hast oder es nicht länger willst. Bitte beachte, dass dies eine dauerhafte und unumkehrbare Entscheidung ist.",
         "DELETE_SUCCESS": "Gebaude zerstört!",
         "DELETE_TITLE": "Zerstöre Gebäude",
@@ -431,7 +431,6 @@
         "LAND_MINIMUM": "Das Gebiet {{name}} ist bereits auf dem niedrigstem Level und kann nicht weiter beschädigt werden! Nutze deine Armee um dieses Gebiet zu erobern.",
         "LAND_NEARBY": "Dieses Gebiet kann nicht geupgradet werden, weil ein Gebiet höheren Levels in unmittelbarer Nähe ist: {{name}}! Wähle {{name}} aus und verschmelze es mit dem kleinerem Gebiet.",
         "SMALLER_LAND_NEARBY": "Dieses Gebiet kann nicht geupgradet werden, weil ein anderer Gebiet in unmittelbarer Nähe ist: {{name}}! Verschmelze es durch den \"Gebiete verschmelzen\"-Knopf",
-        "LAND_PROTECTED": "Das Gebiet {{name}} wird durch eine Verteidigungsanlage geschützt!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Deine {{weapon}} haben {{damage}} Punkte Schaden am Gebiet von {{lands_title}} angerichtet. Das Gebiet wurde erobert und gehört nun dir!",
         "LAND_TOO_FAR": "Das ausgewählte Gebiet ist zu weit entfernt!",

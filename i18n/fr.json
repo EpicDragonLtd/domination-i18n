@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Envoie une attaque nucléaire sur tout ennemi alentour",
         "PRODUCE_ITEM": "Produire un item",
         "PRODUCE_ITEM_DESC": "Fabriquer différents Boosts et des items utiles. Possible uniquement si vous êtes présent dans une base.",
-        "REMOTE_COLLECT_DESC": "Envoyer un membre du personnel pour collecter des ressources qui sont présentes dans les territoires occupés et reliés à cette base."
+        "REMOTE_COLLECT_DESC": "Envoyer un membre du personnel pour collecter une ressource aléatoire de n'importe où sur la planète?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Produit aléatoirement des Boosts et des items utiles pour booster votre rayon de collection de ressources",
@@ -29,7 +29,7 @@
         "BARRACKS_DESC": "Nécessaire pour former une armée.",
         "BARRACKS_NAME": "Caserne",
         "CONSTRUCTION_SITE": "Construction en progression",
-        "GUARD_TOWER_DESC": "Structure offensive capable d'attaquer des ennemis proches ou à l'interieur de votre territoire. Elle permet également d'empêcher les autres joueurs d'endommager votre territoire en utilisant ''capturer le territoire''",
+        "GUARD_TOWER_DESC": "Structure offensive capable d'attaquer des ennemis proches ou à l'interieur de votre territoire.",
         "GUARD_TOWER_NAME": "Tour de garde",
         "LAUNCHER_DESC": "Arme stationnaire capable d'attaquer des territoires et d'endommager ses structures.",
         "LAUNCHER_NAME": "Lance-missile",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Relais de communication",
         "SANDBAG_DESC": "Fortification militaire permettant d'augmenter les points de défense du territoire",
         "SANDBAG_NAME": "Murs de sacs de sable",
-        "SATELLITE_DESC": "Permet de collecer toutes les ressources se trouvant dans vos territoires à distance",
+        "SATELLITE_DESC": "Localise et collecte une ressource aléatoire quelque part dans le monde.",
         "SATELLITE_NAME": "Satellite de suivi",
         "SENTRY_DESC": "système de défense automatisé avec 1% de chance de tuer, à chaque tour un soldat de l'armée de l'attaquant. Une tentative de plus est effectuée pour chaque 100 niveaux, offrant une chance supplémentaire de tuer plus d'ennemis. Par exemple: une structure de niveau 140 a 100% de chances de tuer un attaquant et 40% de chances d'en tuer un de plus.",
         "SENTRY_NAME": "Tourelle de sentinelle",
@@ -405,7 +405,7 @@
         "CONTEXT_OPTIONS_TITLE": "Options additionnelles",
         "COUNTRY_LEADER": "Chef",
         "COUNTRY_STATS": "Statistiques du pays",
-        "CREATED_RESOURCE": "Nouvelle ressource apparue dans la zone: {{resource}} ({{amount}})",
+        "CREATED_RESOURCE": "Nouvelle ressource repérée qui peut être récupérée: {{resource}} ({{amount}})",
         "DELETE_DESC": "Vous pouvez détruire un bâtiment existant si vous manquez de place ou ne le voulez plus. Veuillez noter que cette action est permanante et ne peut pas être annulée.",
         "DELETE_SUCCESS": "Bâtiment détruit",
         "DELETE_TITLE": "Détruire bâtiment",
@@ -431,7 +431,6 @@
         "LAND_MINIMUM": "Le territoire de {{name}} est dans son état minimal et ne peut être endommagé! Utilisez votre armée pour capturer ce territoire.",
         "LAND_NEARBY": "Vous ne pouvez améliorer ce territoire car il y en a un plus élevé: {{name}}! Sélectionnez {{name}} et fusionnez le plus petit territoire.",
         "SMALLER_LAND_NEARBY": "Vous ne pouvez pas améliorer ce territoire car il y en a un autre à proximité: {{name}}! Veuillez utiliser le bouton \"Fusionner les terres\".",
-        "LAND_PROTECTED": "Le territoire est protégé par une structure d'attaque!",
         "LAND_SIZE": "km²",
         "LAND_TAKEN": "Votre {{weapon}} a infligé {{damage}} points de dégâts à une terre de {{lands_title}}}. Le territoire a été capturé et vous appartient maintenant!",
         "LAND_TOO_FAR": "Le territoire sélectionné est trop éloigné!",
