@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Perform a nuclear strike against all enemies in the area.",
         "PRODUCE_ITEM": "Produce Items",
         "PRODUCE_ITEM_DESC": "Manufacture random power-ups or utility items. Only possible to do while you are present on a base.",
-        "REMOTE_COLLECT_DESC": "Send a member of personnel to collect a random resource from anywhere on the planet?"
+        "REMOTE_COLLECT_DESC": "Begin collection of random resources?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Produces random power-ups and utility items enhancing resource collection radius or amounts. Only available when you are present on the same base. Upgrade level determines the number of produced items.",
@@ -38,7 +38,7 @@
         "REFINERY_NAME": "Supply Factory",
         "SANDBAG_DESC": "Military fortification increasing the defence score of lands outside a base.",
         "SANDBAG_NAME": "Sandbag Wall",
-        "SATELLITE_DESC": "Locates and collects a random resource from somewhere around the world.",
+        "SATELLITE_DESC": "Locates and collects a random resource from somewhere around the world per building level.",
         "SATELLITE_NAME": "Tracking Satellite",
         "WALL_DESC": "Increases the defence score of a base.",
         "WALL_NAME": "Concrete Wall",

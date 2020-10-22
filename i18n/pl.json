@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Wykonaj atak nuklearny na wszystkich przeciwników w okolicy.",
         "PRODUCE_ITEM": "Produkuj przedmioty",
         "PRODUCE_ITEM_DESC": "Wytwarzaj losowe ulepszenia lub przedmioty użytkowe. Możliwe tylko podczas pobytu w bazie.",
-        "REMOTE_COLLECT_DESC": "Wysłać członka personelu, aby zebrał losowy zasób z dowolnego miejsca na planecie?"
+        "REMOTE_COLLECT_DESC": "Rozpocząć zbieranie losowych zasobów?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Tworzy losowe ulepszenia i przedmioty użytkowe zwiększające promień lub liczbę zbieranych zasobów. Możliwe tylko wtedy, gdy znajdujesz się w tej samej bazie. Poziom ulepszenia określa liczbę produkowanych przedmiotów.",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Przekaźnik",
         "SANDBAG_DESC": "Umocnienie wojskowe zwiększające Obronność obszarów poza bazą.",
         "SANDBAG_NAME": "Worki z piaskiem",
-        "SATELLITE_DESC": "Lokalizuje i zbiera losowy zasób z dowolnego miejsca na świecie.",
+        "SATELLITE_DESC": "Lokalizuje i zbiera losowy zasób z dowolnego miejsca na świecie. Więcej zasobów zebranych na każdym poziomie budynku.",
         "SATELLITE_NAME": "Satelita obserwacyjny",
         "SENTRY_DESC": "Automatyczny system obronny, który daje 1% szansy per poziom na zabicie jednego żołnierza atakującej armii w każdej fali bitwy. Dodatkowe losowanie wykonywane jest co każde 100 poziomów, zapewniając dodatkową szansę zabicia dodatkowych przeciwników. Przykładowo, struktura na poziomie 140 ma 100% szansy zabicia 1 żołnierza oraz 40% szansy zabicia kolejnego.",
         "SENTRY_NAME": "Działko strażnicze",

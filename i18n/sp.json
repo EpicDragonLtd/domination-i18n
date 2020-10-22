@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Realizar un ataque nuclear contra todos los enemigos en el área.",
         "PRODUCE_ITEM": "Producir Artículos",
         "PRODUCE_ITEM_DESC": "Fabricar potenciadores o artículos de utilidad de forma aleatoria. Esto solo es posible de hacer cuando estás presente en la base.",
-        "REMOTE_COLLECT_DESC": "¿Enviar a un miembro del personal para recolectar un recurso aleatorio de cualquier parte del planeta?"
+        "REMOTE_COLLECT_DESC": "¿Comenzar la recolección de recursos aleatorios?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Produce potenciadores y artículos de utilidad de forma aleatoria, estos mejoran las cantidades o el radio de recolección. Solo disponible cuando estás presente en la misma base. El nivel de esta determina la cantidad de artículos producidos.",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Relé de Comunicaciones",
         "SANDBAG_DESC": "Fortificación militar la cual aumenta los puntos de defensa de las tierras fuera de una base.",
         "SANDBAG_NAME": "Pared de Sacos de Arena",
-        "SATELLITE_DESC": "Localiza y recopila un recurso aleatorio de algún lugar del mundo.",
+        "SATELLITE_DESC": "Localiza y recopila un recurso aleatorio de algún lugar del mundo. Más recursos recopilados en cada nivel de edificio.",
         "SATELLITE_NAME": "Satélite Rastreador",
         "SENTRY_DESC": "Sistema de defensa automático que tiene una posibilidad de 1% por nivel de asesinar a un soldado del ejército invasor por cada ola. Más tiradas de dados son dadas cada 100 niveles, dando probabilidades adicionales de asesinar más enemigos. E.j.: Una estructura de nivel 140 tiene un 100% de probabilidades de asesinar a 1 atacante y 40% de probabilidades de asesinar a 1 más.",
         "SENTRY_NAME": "Torreta Sentinela",

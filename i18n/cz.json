@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Provést jaderný útok na všechny nepřátele v oblasti",
         "PRODUCE_ITEM": "Vyrobit předměty",
         "PRODUCE_ITEM_DESC": "Vyrobí náhodné vylepšení nebo užitečné předměty. Možno udělat pouze v dosahu základny.",
-        "REMOTE_COLLECT_DESC": "Poslat člena personálu, aby shromáždil náhodný zdroj odkudkoli na planetě?"
+        "REMOTE_COLLECT_DESC": "Zahájit shromažďování náhodných zdrojů?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Vyrobí náhodné vylepšení a užitečné předměty, které zvýší dosah sběru nebo množství zdrojů. Dostupno pouze v případě, že se nacházíte na základně. Úrověň vylepšní určuje počet vyrobených předmětů. ",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Komunikační přenos",
         "SANDBAG_DESC": "Vojenské opevnění zvyšují obranné skóre území mimo základnu",
         "SANDBAG_NAME": "Zeď z pytlů",
-        "SATELLITE_DESC": "Vyhledá a sbírá náhodný zdroj odjinud z celého světa.",
+        "SATELLITE_DESC": "Vyhledá a sbírá náhodný zdroj z celého světa. Na každé úrovni budovy se shromáždí více zdrojů.",
         "SATELLITE_NAME": "Sledovací družice",
         "SENTRY_DESC": "Automatický obranný systém, který má na každé úrovni 1% šanci každé kolo zabít jednoho vojáka útočící armády. Extra hod se provede za každých 100 vylepšení a tím zvyšuje šanci zabít více nepřátel. Příklad.: Budova na úrovni 140 má 100% šanci zabít 1 útočníka a 40% šanci zabít jednoho navíc.",
         "SENTRY_NAME": "Strážní věž",

@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Führe einen Nuklearangriff gegen alle Feinde in der Umgebung durch.",
         "PRODUCE_ITEM": "Items produzieren",
         "PRODUCE_ITEM_DESC": "Stelle zufällig Power-Ups udn andere Items her. Nur möglich, während du dich in der Basis befindest.",
-        "REMOTE_COLLECT_DESC": "Einen Mitarbeiter schicken, um eine zufällige Ressource von irgendwo auf dem Planeten zu sammeln?"
+        "REMOTE_COLLECT_DESC": "Sammeln Sie zufällige Ressourcen?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Stelle zufällig Power-Ups udn andere Items, die deinen Resourcensammelradius oder die Sammelmenge verbessern, her. Nur möglich, während du dich in der Basis befindest.",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Kommunikationsrelais",
         "SANDBAG_DESC": "Militärische Befestigungsanlage, die den Verteidigungswert von Gebieten außerhalb der Basis erhöht.",
         "SANDBAG_NAME": "Sandsackmauer",
-        "SATELLITE_DESC": "Findet und sammelt eine zufällige Ressource von irgendwo auf der Welt.",
+        "SATELLITE_DESC": "Findet und sammelt eine zufällige Ressource von irgendwo auf der Welt. Auf jeder Gebäudeebene werden mehr Ressourcen gesammelt.",
         "SATELLITE_NAME": "Sattelitenanlange",
         "SENTRY_DESC": "Automatisches Verteidigungssystem, das pro Level und Runde eine 1% Chance gibt einen angreifenden Soldaten zu besiegen. Für alle 100 Level wird ein weiterer Zufallswurf ausgeführt, der es ermöglicht weitere angreifende Soldaten zu besiegen. Z.B.: Ein Level 140 Gebäude hat eine 100% Chance einen angreifenden Soldaten zu besiegen und eine 40% Chance einen weiteren zu besiegen.",
         "SENTRY_NAME": "Wachturm",

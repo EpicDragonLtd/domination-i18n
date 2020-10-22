@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Effettua un attacco nucleare contro tutti i nemici nella zona.",
         "PRODUCE_ITEM": "Produci oggetti",
         "PRODUCE_ITEM_DESC": "Fabbrica potenziamenti o altri oggetti a caso. Possibile solo quando sei presente nella base.",
-        "REMOTE_COLLECT_DESC": "Inviare un membro del personale a raccogliere una risorsa casuale da qualsiasi parte del pianeta?"
+        "REMOTE_COLLECT_DESC": "Iniziare la raccolta di risorse casuali?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Produce potenziamenti o altri oggetti a caso che aumentano la quantità di risorse o il raggio d'azione della raccolta. Disponibile solo quando sei presente nella stessa base. Il numero di oggetti prodotti è determinato dal livello.",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Ripetitore radio",
         "SANDBAG_DESC": "Fortificazione militare che aumenta il punteggio di difesa dei territori al di fuori di una base.",
         "SANDBAG_NAME": "Muro di sacchi di sabbia",
-        "SATELLITE_DESC": "Individua e raccoglie una risorsa casuale da qualche parte del mondo.",
+        "SATELLITE_DESC": "Individua e raccoglie una risorsa casuale da qualche parte del mondo. Più risorse raccolte a ogni livello di edificio.",
         "SATELLITE_NAME": "Satellite di tracciamento",
         "SENTRY_DESC": "Sistema di difesa automatico che ha ad ogni round una probabilità dell'1% per livello di uccidere un soldato dell'esercito invasore. Un tiro di dadi extra è effettuato per ogni 100 livelli, fornendo ulteriori possibilità di uccidere nemici. Esempio: una struttura di livello 140 ha il 100% di probabilità di uccidere 1 attaccante e il 40% di ucciderne un altro.",
         "SENTRY_NAME": "Torretta sentinella",

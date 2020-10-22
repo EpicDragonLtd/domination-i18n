@@ -21,7 +21,7 @@
         "NUKE_LANDS_DESC": "Envoie une attaque nucléaire sur tout ennemi alentour",
         "PRODUCE_ITEM": "Produire un item",
         "PRODUCE_ITEM_DESC": "Fabriquer différents Boosts et des items utiles. Possible uniquement si vous êtes présent dans une base.",
-        "REMOTE_COLLECT_DESC": "Envoyer un membre du personnel pour collecter une ressource aléatoire de n'importe où sur la planète?"
+        "REMOTE_COLLECT_DESC": "Commencer la collecte de ressources aléatoires?"
     },
     "BUILDING": {
         "ASSEMBLY_DESC": "Produit aléatoirement des Boosts et des items utiles pour booster votre rayon de collection de ressources",
@@ -41,7 +41,7 @@
         "RELAY_NAME": "Relais de communication",
         "SANDBAG_DESC": "Fortification militaire permettant d'augmenter les points de défense du territoire",
         "SANDBAG_NAME": "Murs de sacs de sable",
-        "SATELLITE_DESC": "Localise et collecte une ressource aléatoire quelque part dans le monde.",
+        "SATELLITE_DESC": "Localise et collecte une ressource aléatoire quelque part dans le monde. Plus de ressources collectées à chaque niveau de bâtiment.",
         "SATELLITE_NAME": "Satellite de suivi",
         "SENTRY_DESC": "système de défense automatisé avec 1% de chance de tuer, à chaque tour un soldat de l'armée de l'attaquant. Une tentative de plus est effectuée pour chaque 100 niveaux, offrant une chance supplémentaire de tuer plus d'ennemis. Par exemple: une structure de niveau 140 a 100% de chances de tuer un attaquant et 40% de chances d'en tuer un de plus.",
         "SENTRY_NAME": "Tourelle de sentinelle",
