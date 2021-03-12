@@ -480,6 +480,7 @@
   "LAND_MENU": {
     "ATTACK": "Strzelać",
     "CONVERT_BASE": "Konwertuj na bazę",
+    "SHOW_ROUTE": "Pokaż trasę",
     "REPAIR_ALL": "Napraw wszystkie budynki"
   },
   "PAGE_EXCHANGE": {
@@ -811,7 +812,7 @@
     "STATION_DESC": "Po zdobyciu dowolnego źródła zasobów, jego czas życia zostanie wydłużony o wskazaną liczbę dni.",
     "STATION_NAME": "Mechanik",
     "SETTLER_NAME": "Ekspert osadniczy",
-    "SETTLER_DESC": "Kumuluje dodatkowe opłaty za przejęcie ziemi co 15 minut do wysokości równej poziomowi profitu. Dodatkowe ujęcia kosztują zmienny procent maksymalnej pojemności magazynu losowego zasobu.",
+    "SETTLER_DESC": "Kumuluje dodatkowe opłaty za przejęcie ziemi co 15 minut do wysokości równej poziomowi profitu. Dodatkowe flagi kosztują zmienny procent losowego zasobu.",
     "TERROR_DESC": "Armia zadaje dodatkowe punkty obrażeń przeciwko przeciwnikom niebędącym graczami oraz przeciwko obszarom Sił Terroru",
     "TERROR_NAME": "Kontrofensywa"
   },

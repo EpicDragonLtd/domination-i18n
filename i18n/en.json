@@ -473,6 +473,7 @@
   "LAND_MENU": {
     "ATTACK": "Open fire",
     "CONVERT_BASE": "Convert to base",
+    "SHOW_ROUTE": "Show route",
     "REPAIR_ALL": "Repair all structures"
   },
   "PAGE_EXCHANGE": {
@@ -813,7 +814,7 @@
     "BASE_NAME": "Fortification",
     "BASE_DESC": "Increases defence bonus received for checking-in on a base and raises the associated defence limit.",
     "SETTLER_NAME": "Expert Settler",
-    "SETTLER_DESC": "Accumulates additional land capture charges every 15 minutes up to the amount equal to the perk level. Extra flags cost a variable percent of a random resource maximum storage capacity.",
+    "SETTLER_DESC": "Accumulates additional land capture charges every 15 minutes up to the amount equal to the perk level. Extra flags cost a variable percent of a random resource.",
     "SCRAP_NAME": "Scrap Master",
     "SCRAP_DESC": "Multiplies resource rewards received from scrapping by the specified amount."
   },

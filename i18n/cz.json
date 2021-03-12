@@ -477,6 +477,7 @@
   "LAND_MENU": {
     "ATTACK": "Otevřete palbu",
     "CONVERT_BASE": "Převést na základnu",
+    "SHOW_ROUTE": "Zobrazit trasu",
     "REPAIR_ALL": "Opravte všechny struktury"
   },
   "PAGE_EXCHANGE": {
@@ -787,7 +788,7 @@
     "STATION_DESC": "Po obsazení jakékoliv budovy se zdroji se zvýší její životnost o stanovený počet dní",
     "STATION_NAME": "Technik budov",
     "SETTLER_NAME": "Expertní osadník",
-    "SETTLER_DESC": "Každých 15 minut se hromadí další poplatky za zachycení půdy až do výše rovnající se úrovni perku. Extra zachycuje cenu variabilního procenta maximální kapacity úložiště náhodných zdrojů.",
+    "SETTLER_DESC": "Shromažďuje další poplatky za zachycení země každých 15 minut až do výše rovnající se úrovni výhod. Příznaky navíc stojí variabilní procento náhodného zdroje.",
     "TERROR_DESC": "Armáda udělí dodatečné poškození všem nehráčským nepřátelům a silám teroru",
     "TERROR_NAME": "Protiútok"
   },

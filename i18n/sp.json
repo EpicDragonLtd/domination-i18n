@@ -477,6 +477,7 @@
   "LAND_MENU": {
     "ATTACK": "Disparar",
     "CONVERT_BASE": "Convertir a base",
+    "SHOW_ROUTE": "Mostrar ruta",
     "REPAIR_ALL": "Repara todos los edificios"
   },
   "PAGE_EXCHANGE": {
@@ -787,7 +788,7 @@
     "STATION_DESC": "Al capturar cualquier estación de recursos su tiempo de vida restante se incrementará por el número especificado de días.",
     "STATION_NAME": "Técnico de Estación",
     "SETTLER_NAME": "Colono experto",
-    "SETTLER_DESC": "Acumula cargos adicionales por captura de tierra cada 15 minutos hasta un monto equivalente al nivel de beneficio. Las capturas adicionales cuestan un porcentaje variable de la capacidad máxima de almacenamiento de un recurso aleatorio.",
+    "SETTLER_DESC": "Accumula ulteriori cariche di cattura del terreno ogni 15 minuti fino a un importo pari al livello del vantaggio. Le bandiere extra costano una percentuale variabile di una risorsa casuale.",
     "TERROR_DESC": "El ejército ejerce puntos de daño adicionales contra cualquier enemigo que no sea un jugador real y The Force of Terror.",
     "TERROR_NAME": "Contraataque"
   },

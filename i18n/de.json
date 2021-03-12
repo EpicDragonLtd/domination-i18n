@@ -480,6 +480,7 @@
   "LAND_MENU": {
     "ATTACK": "Losschießen",
     "CONVERT_BASE": "In Basis konvertieren",
+    "SHOW_ROUTE": "Zeige Weg",
     "REPAIR_ALL": "Reparieren alle Gebäude"
   },
   "PAGE_EXCHANGE": {
@@ -811,7 +812,7 @@
     "STATION_DESC": "Wenn eine neue Station eingenommen wird, erhöht sich ihre Lebensspanne um die spezifische Nummer an Tagen.",
     "STATION_NAME": "Stationstechniker",
     "SETTLER_NAME": "Experte Siedler",
-    "SETTLER_DESC": "Sammelt alle 15 Minuten zusätzliche Landerfassungsgebühren bis zu dem Betrag, der dem Bonuslevel entspricht. Zusätzliche Erfassungen kosten einen variablen Prozentsatz der maximalen Speicherkapazität einer zufälligen Ressource.",
+    "SETTLER_DESC": "Sammelt alle 15 Minuten zusätzliche Landerfassungsgebühren bis zu dem Betrag, der der Vergünstigungsstufe entspricht. Zusätzliche Flags kosten einen variablen Prozentsatz einer zufälligen Ressource.",
     "TERROR_DESC": "Deine Einheiten richten zusätzliche Schadenspunkte and allen nicht-Spieler Feinden und Gebieten der Terroristen an.",
     "TERROR_NAME": "Gegenschlag"
   },

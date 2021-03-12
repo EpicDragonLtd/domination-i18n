@@ -480,6 +480,7 @@
   "LAND_MENU": {
     "ATTACK": "Tirer",
     "CONVERT_BASE": "Convertir en base",
+    "SHOW_ROUTE": "Afficher l'itinéraire",
     "REPAIR_ALL": "Réparer tous les bâtiments"
   },
   "PAGE_EXCHANGE": {
@@ -811,7 +812,7 @@
     "STATION_DESC": "Après avoir capturé une source de ressource, le temps de vie sera augmenté d'un certain nombre de jours.",
     "STATION_NAME": "Station de technicien",
     "SETTLER_NAME": "Colon expert",
-    "SETTLER_DESC": "Accumule des frais supplémentaires de capture de terres toutes les 15 minutes jusqu'à concurrence du montant de l'avantage. Les captures supplémentaires coûtent un pourcentage variable de la capacité de stockage maximale d'une ressource aléatoire.",
+    "SETTLER_DESC": "Accumule des frais supplémentaires de capture de terres toutes les 15 minutes jusqu'à concurrence du montant de l'avantage. Les indicateurs supplémentaires coûtent un pourcentage variable d'une ressource aléatoire.",
     "TERROR_DESC": "L'armée inflige des points de dégâts supplémentaires contre les ennemis et les territoires de l'IA.",
     "TERROR_NAME": "Contre-attaque"
   },

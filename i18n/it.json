@@ -480,6 +480,7 @@
   "LAND_MENU": {
     "ATTACK": "Sparare",
     "CONVERT_BASE": "Converti in base",
+    "SHOW_ROUTE": "Mostra percorso",
     "REPAIR_ALL": "Ripara tutti gli edifici"
   },
   "PAGE_EXCHANGE": {
@@ -811,7 +812,7 @@
     "STATION_DESC": "Dopo la conquista di una sorgente di risorse il suo tempo di vita aumenterà del numero di giorni specificato.",
     "STATION_NAME": "Tecnico della stazione",
     "SETTLER_NAME": "Colono esperto",
-    "SETTLER_DESC": "Accumula ulteriori cariche di cattura del terreno ogni 15 minuti fino a un importo pari al livello del vantaggio. Le acquisizioni extra costano una percentuale variabile della capacità di archiviazione massima di una risorsa casuale.",
+    "SETTLER_DESC": "Accumula ulteriori cariche di cattura del terreno ogni 15 minuti fino a un importo pari al livello del vantaggio. Le bandiere extra costano una percentuale variabile di una risorsa casuale.",
     "TERROR_DESC": "L'esercito infligge danno aggiuntivo contro i nemici artificiali e il territorio di \"Force of Terror\"",
     "TERROR_NAME": "Contrattacco"
   },
