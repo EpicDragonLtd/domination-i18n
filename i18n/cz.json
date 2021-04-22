@@ -694,6 +694,7 @@
     "COUNTER_SABOTAGE2_FAILED": "Aktivní postava {{defender_name}} ({{character_owner}}) nedokázala znovu aktivovat sabotované obrany.",
     "LOGISTICS_SUCCESS": "Logistické dovednosti používané znaky {{character_owner}} snížily úmrtnost z obdrženého poškození o {{lowered_by}}%.",
     "CHARACTER_XP": "Aktivní postava {{character_name}} ({{character_owner}}) získala {{xp}} bodů zkušeností.",
+    "CHARACTER_MAX_XP": "Postava {{character_name}} ({{character_owner}}) dosáhla nahromaděného limitu zkušeností a již nemůže získat!",
     "TOTAL_DAMAGED_LAND": "Síly {{attacker_name}} způsobily {{land_levels}} body poškození úrovně a {{building_hp}} poškození budovy {{land_name}}.",
     "TOTAL_DAMAGED_BASE": "Síly {{attacker_name}} způsobily obranné základně poškození {{base_hp}} a snížily její úroveň o {{base_levels_lost}}."
   },

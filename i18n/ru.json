@@ -690,6 +690,7 @@
     "COUNTER_SABOTAGE2_FAILED": "Персонажу {{defender_name}} ({{character_owner}}) не удалось активировать саботированную защиту.",
     "LOGISTICS_SUCCESS": "Навыки логистики, используемые персонажами {{character_owner}}, снизили уровень смертности от полученных повреждений на {{lowered_by}}%.",
     "CHARACTER_XP": "Персонаж {{character_name}} ({{character_owner}}) получил {{xp}} очков опыта.",
+    "CHARACTER_MAX_XP": "Персонаж {{character_name}} ({{character_owner}}) достиг предела накопленного опыта и больше не может его получить!",
     "TOTAL_DAMAGED_LAND": "Силы {{attacker_name}} нанесли {{land_levels}} единиц урона уровня и {{building_hp}} урона строениям на земле {{land_name}}.",
     "TOTAL_DAMAGED_BASE": "Силы {{attacker_name}} нанесли {{base_hp}} единиц урона защищающейся базе, снизив ее уровень на {{base_levels_lost}}."
   },

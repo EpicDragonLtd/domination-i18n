@@ -690,6 +690,7 @@
     "COUNTER_SABOTAGE2_FAILED": "{{defender_name}} ({{character_owner}}) failed to reactivate sabotaged defences.",
     "LOGISTICS_SUCCESS": "Logistics skill used by characters of {{character_owner}} lowered the mortality rate from incoming damage by {{lowered_by}}%.",
     "CHARACTER_XP": "{{character_name}} ({{character_owner}}) gained {{xp}} points of experience.",
+    "CHARACTER_MAX_XP": "{{character_name}} ({{character_owner}}) has reached the accumulated experience limit and cannot gain anymore!",
     "TOTAL_DAMAGED_LAND": "Forces of {{attacker_name}} dealt {{land_levels}} points of level damage and {{building_hp}} building damage to land {{land_name}}.",
     "TOTAL_DAMAGED_BASE": "Forces of {{attacker_name}} dealt {{base_hp}} points of damage to the defending base lowering its level by {{base_levels_lost}}."
   },

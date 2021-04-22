@@ -694,6 +694,7 @@
     "COUNTER_SABOTAGE2_FAILED": "El personaje activo {{defender_name}} ({{character_owner}}) no pudo reactivar las defensas saboteadas.",
     "LOGISTICS_SUCCESS": "La habilidad de logística utilizada por los personajes de {{character_owner}} redujo la tasa de mortalidad por daño recibido en un {{lowered_by}}%.",
     "CHARACTER_XP": "El personaje activo {{character_name}} ({{character_owner}}) ganó {{xp}} puntos de experiencia.",
+    "CHARACTER_MAX_XP": "¡El personaje {{character_name}} ({{character_owner}}) ha alcanzado el límite de experiencia acumulada y no puede ganar más!",
     "TOTAL_DAMAGED_LAND": "Fuerzas de {{attacker_name}} infligieron {{land_levels}} puntos de daño de nivel y {{building_hp}} daño de construcción de la tierra {{land_name}}.",
     "TOTAL_DAMAGED_BASE": "Fuerzas de {{attacker_name}} infligieron {{base_hp}} puntos de daño a la base defensora reduciendo su nivel en {{base_levels_lost}}."
   },

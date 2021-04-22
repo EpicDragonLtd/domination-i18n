@@ -712,6 +712,7 @@
     "COUNTER_SABOTAGE2_FAILED": "Der Charakter {{defender_name}} ({{character_owner}}) konnte die sabotierten Verteidigungen nicht reaktivieren.",
     "LOGISTICS_SUCCESS": "Die logistische Fähigkeit, die von Charakteren von {{character_owner}} verwendet wird, senkte die Sterblichkeitsrate durch erlittenen Schaden um {{lowered_by}}%.",
     "CHARACTER_XP": "Der Charakter {{character_name}} ({{character_owner}}) hat {{xp}} Erfahrungspunkte gesammelt.",
+    "CHARACTER_MAX_XP": "Der Charakter {{character_name}} ({{character_owner}}) hat das angesammelte Erfahrungslimit erreicht und kann nicht mehr gewinnen!",
     "TOTAL_DAMAGED_LAND": "Kräfte von {{attacker_name}} verursachten {{land_levels}} Punkte des Levelschadens und {{building_hp}} Gebäudeschaden des Landes {{land_name}}.",
     "TOTAL_DAMAGED_BASE": "Kräfte von {{attacker_name}} fügten der verteidigenden Basis {{base_hp}} Schadenspunkte zu und senkten ihr Level um {{base_levels_lost}}."
   },

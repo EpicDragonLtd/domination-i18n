@@ -712,6 +712,7 @@
     "COUNTER_SABOTAGE2_FAILED": "Postać {{defender_name}} ({{character_owner}}) nie udało się ponownie aktywować sabotowanej obrony.",
     "LOGISTICS_SUCCESS": "Umiejętność logistyczna używana przez postacie o wartości {{character_owner}} obniżyła śmiertelność z otrzymanych obrażeń o {{lowered_by}}%.",
     "CHARACTER_XP": "Postać {{character_name}} ({{character_owner}}) zdobytych {{xp}} punktów doświadczenia.",
+    "CHARACTER_MAX_XP": "Postać {{character_name}} ({{character_owner}}) osiągnęła limit zgromadzonego doświadczenia i nie może już go zdobyć!",
     "TOTAL_DAMAGED_LAND": "Siły o wartości {{attacker_name}} zadały {{land_levels}} punktów obrażeń poziomowych i {{building_hp}} uszkodzenia budynków na terenie {{land_name}}.",
     "TOTAL_DAMAGED_BASE": "Siły o wartości {{attacker_name}} zadały {{base_hp}} punktów obrażeń broniącej się bazie, obniżając jej poziom o {{base_levels_lost}}."
   },
