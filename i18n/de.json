@@ -765,7 +765,7 @@
     "SLOT_LABEL": "Steckplatz",
     "COMPARE": "Vergleichen",
     "NOT_EQUIPPED": "In diesem Steckplatz sind keine Gegenstände vorhanden",
-    "NO_ITEMS": "Du trägst keine Gegenstände, die gleich oder niedriger als die Stufe dieses Charakters sind. Im Lager gespeicherte Charakterausrüstung wird in dieser Liste nicht angezeigt.",
+    "NO_ITEMS": "Du trägst keine Gegenstände, die der Stufe dieses Charakters entsprechen oder darunter liegen. Im Lager gelagerte Artikel erscheinen nur in dieser Liste, wenn Sie an einer Basis anwesend sind.",
     "NO_SLOTS": "Es sind keine freien Plätze mehr vorhanden, um diesen Gegenstand auszustatten!",
     "ITEM_TITLE": "Gegenstand des Charakters",
     "ITEM_DESCRIPTION": "Dieser Gegenstand kann nur von gesammelten Charakteren ausgerüstet werden.",
@@ -842,9 +842,13 @@
     "WIFI_SETTING": "Updates nur über Wi-Fi"
   },
   "PAGE_REFERRAL": {
-    "DESCRIPTION": "Bring Jemanden den du geworben hast dazu, deinen QR-Code mit der \"Gegenstände Verschrotten\"-Funktion zu scannen und er wird einen Resourcenbonus erhalten. Du wirst zusätzliche Resourcen erhalten, wann immer eine seiner Basen Level 3 erreicht und jedes mal, wenn er eine neue Basis etabliert. Zusätzlich kanst du auch immer diese QR-Codes scannen anstelle derer von Gegenständen aus der realen Welt um zusätzliche Resourcen zu erhalten.",
+    "QR_TITLE": "Lade Freunde ein und erhalte",
+    "QR_TITLE2": "zusätzliche Ressourcen",
+    "THEY_GET": "Dein Freund bekommt",
+    "YOU_GET": "Du wirst erhalten",
+    "LINK_COPIED": "Link kopiert",
+    "DESCRIPTION": "Wenn ein Spieler das Spiel über deinen Link oder QR-Code installiert, erhält er zusätzliche Ressourcen und du erhältst jedes Mal Ressourcen, wenn dieser Spieler eine neue Basis aufbaut und auch wenn er zum ersten Mal Level 3 erreicht.",
     "INITIAL_REFERRED": "Werbung erfolgreich!",
-    "NOTES": "Bitte beachte: Beide müssen ihr eigenes Gerät verwenden. Das Werbungs-System wird nicht funktionieren, wenn der Code von dem Gerät gescannt wird, mit dem er verknüpft ist.",
     "REFERRAL_REWARDED": "{{amount}} Einheiten {{resource}} erhalten, weil {{name}} seine Basis ausgebaut hat!",
     "RESOURCE_RECEIVED": "{{amount}} Einheiten {{resource}} erhalten, weil du durch jemanden geworben wurdest!",
     "TITLE": "Werbe einen Freund"

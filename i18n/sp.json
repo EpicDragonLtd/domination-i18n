@@ -747,7 +747,7 @@
     "SLOT_LABEL": "Espacio",
     "COMPARE": "Comparar",
     "NOT_EQUIPPED": "No hay artículos equipados en esta ranura",
-    "NO_ITEMS": "No llevas ningún objeto igual o inferior al nivel de este personaje. Los equipos de personajes almacenados en el almacén no aparecen en esta lista.",
+    "NO_ITEMS": "No llevas ningún objeto igual o inferior al nivel de este personaje. Los artículos almacenados en el almacén solo aparecen en esta lista cuando está presente en una base.",
     "NO_SLOTS": "¡No quedan espacios libres para equipar este artículo!",
     "ITEM_TITLE": "Objeto del personaje",
     "ITEM_DESCRIPTION": "Este artículo solo puede ser equipado por personajes recolectados.",
@@ -824,9 +824,13 @@
     "WIFI_SETTING": "Solo actualizar vía Wi-Fi"
   },
   "PAGE_REFERRAL": {
-    "DESCRIPTION": "Ten a alguien a quien hayas vinculado para que escanee tu código QR usando \"Desguazar Objetos\" y ellos recibirán un extra de recursos. Tu recibirás recursos extra cada vez que la base de ellos llegue a nivel 3 y cada vez que tú amigo establezca una nueva base. También debería ser posible escanear los códigos QR de cada uno en cualquier momento envés de códigos de barra normales para una mayor ganancia de recursos.",
+    "QR_TITLE": "Invita a amigos y obtén",
+    "QR_TITLE2": "recursos adicionales",
+    "THEY_GET": "Tu amigo se pone",
+    "YOU_GET": "Usted recibirá",
+    "LINK_COPIED": "Enlace copiado",
+    "DESCRIPTION": "Si un jugador instala el juego usando su enlace o código QR, recibirá recursos adicionales y usted recibirá recursos cada vez que ese jugador construya una nueva base y también la primera vez que alcance el nivel 3.",
     "INITIAL_REFERRED": "¡Vinculación exitosa!",
-    "NOTES": "Por favor ten en cuenta: ambas partes tienen que estar usando sus únicos dispositivos. El sistema de vinculaciones no funcionará si estás escaneando una foto del código de alguien desde un dispositivo al cual este código pertenece.",
     "REFERRAL_REWARDED": "¡Recibiste {{amount}} {{resource}} de {{name}} progresando su base!",
     "RESOURCE_RECEIVED": "¡Recibiste {{amount}} {{resource}} por estar vinculado con un jugador existente!",
     "TITLE": "Vincular un amigo"

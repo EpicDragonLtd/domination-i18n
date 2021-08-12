@@ -765,7 +765,7 @@
     "SLOT_LABEL": "Miejsce",
     "COMPARE": "Porównaj",
     "NOT_EQUIPPED": "Brak przedmiotów w tym slocie",
-    "NO_ITEMS": "Nie masz przy sobie żadnych przedmiotów równych lub niższych niż poziom tej postaci. Wyposażenie postaci przechowywane w magazynie nie pojawia się na tej liście.",
+    "NO_ITEMS": "Nie masz przy sobie żadnych przedmiotów równych lub niższych niż poziom tej postaci. Towary przechowywane w magazynie pojawiają się na tej liście tylko wtedy, gdy jesteś obecny w bazie.",
     "NO_SLOTS": "Brak wolnych miejsc na wyposażenie tego przedmiotu!",
     "ITEM_TITLE": "Przedmiot postaci",
     "ITEM_DESCRIPTION": "Ten przedmiot może być wyposażony tylko przez zebrane postacie.",
@@ -842,9 +842,13 @@
     "WIFI_SETTING": "Aktualizacje wyłącznie przez Wi-Fi"
   },
   "PAGE_REFERRAL": {
-    "DESCRIPTION": "Jeżeli polecisz grę innemu graczowi, poproś go o zeskanowanie Twojego kodu QR używając opcji \"Złomuj\", a otrzymają dodatkowy bonus zasobów. Ty również otrzymasz dodatkowe zasoby, kiedy tylko ich baza osiągnie poziom 3 oraz kiedy tylko utworzą każdą nową bazę. Możecie również wzajemnie skanować swoje kody QR zamiast zwykłych kodów kreskowych, aby uzyskać zwiększoną liczbę zasobów.",
+    "QR_TITLE": "Zaproś znajomych i zdobądź",
+    "QR_TITLE2": "dodatkowe zasoby",
+    "THEY_GET": "Twój przyjaciel dostaje",
+    "YOU_GET": "Otrzymają Państwo",
+    "LINK_COPIED": "Link skopiowany",
+    "DESCRIPTION": "Jeśli gracz zainstaluje grę za pomocą twojego linku lub kodu QR, otrzyma dodatkowe zasoby, a ty otrzymasz je za każdym razem, gdy gracz zbuduje nową bazę, a także po pierwszym osiągnięciu poziomu 3.",
     "INITIAL_REFERRED": "Polecenie udało się!",
-    "NOTES": "Zwróć uwagę: obie strony muszą używać unikalnych urządzeń. System poleceń nie zadziała, jeżeli zeskanujesz kod za pomocą urządzenia, które wygenerowało ten kod.",
     "REFERRAL_REWARDED": "Otrzymano {{resource}} ({{amount}}) od {{name}} za ulepszenie bazy!",
     "RESOURCE_RECEIVED": "Otrzymano {{resource}} ({{amount}}) za wskazanie polecenia przez innego gracza!",
     "TITLE": "Wskaż polecającego gracza"

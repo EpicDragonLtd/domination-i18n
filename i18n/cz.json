@@ -747,7 +747,7 @@
     "SLOT_LABEL": "Slot",
     "COMPARE": "Porovnat",
     "NOT_EQUIPPED": "V tomto slotu nejsou žádné předměty",
-    "NO_ITEMS": "Nenosíte žádné předměty stejné nebo nižší než úroveň této postavy. Položky znaků uložené ve skladu se v tomto seznamu nezobrazí.",
+    "NO_ITEMS": "Nenesete žádné položky stejné nebo nižší než úroveň této postavy. Položky uložené ve skladu se v tomto seznamu zobrazí pouze v případě, že jste přítomni na základně.",
     "NO_SLOTS": "K vybavení této položky nezůstávají žádné volné sloty!",
     "ITEM_TITLE": "Položka postavy",
     "ITEM_DESCRIPTION": "Tato položka může být vybavena pouze shromážděnými znaky.",
@@ -824,9 +824,13 @@
     "WIFI_SETTING": "Aktualizace pouze přes Wi-Fi"
   },
   "PAGE_REFERRAL": {
-    "DESCRIPTION": "<h3>Sbírání zdrojů</h3><br>Potřebuješ zdroje pro stavbu jakéhokoliv druhu: Najdi alespoň jednu jednotku peněz, zásob nebo personálu.<br><br>Většina zdrojů se na mapě objeví pokaždé, když někdo získá kus území. Aby jsi ho mohl získat, musíš se dostat do této oblasti a dobýt území okolo tohoto zdroje.Občas narazíš na buodvy zdrojů (jako je ropná plošina, Zásobovací továrna and náborové středisko): Obsazením získáte možnost každou hodinu vzdáleně získat tyto zdroje použitím \"Sebrat zdroje\"\n v \"Moje území\"<br><br><b>Peníze</b><br>Objevují se prakticky všude ve světě. Můžeš je také získat sešrotováním skutečných předmětů přes \"Šrotovat předměty\".<br><br><b>Zásoby</b><br>Zásoby se nejčastěji objevují mimo zalidněné oblasti. Hledej je poblíž lesů, pouští,řek a kdekoliv mimo civilizaci.<br>Mohou být také získány použitím \"Šrotování předmětů\" nebo postavením Zásobovací továrny<br><br><b>Personál</b><br>Nejvíc se objevuje uvnitř měst a vesnic. Velmi vzácně může být nalezen v divočině a nikdy při šrotování.",
+    "QR_TITLE": "Pozvěte přátele a získejte",
+    "QR_TITLE2": "další zdroje",
+    "THEY_GET": "Váš přítel dostane",
+    "YOU_GET": "Obdržíte",
+    "LINK_COPIED": "Odkaz zkopírován",
+    "DESCRIPTION": "Pokud si hráč nainstaluje hru pomocí vašeho odkazu nebo QR kódu, obdrží další zdroje a vy budete dostávat zdroje pokaždé, když si hráč vytvoří novou základnu a také poprvé, když dosáhne úrovně 3.",
     "INITIAL_REFERRED": "Doporučení úspěšné!",
-    "NOTES": "Pamatuj: obě strany musí používat pouze své zařízení. Systém odměn nebude fungovat, pokud budeš scanovat stejný kód, který patří tvému účtu.",
     "REFERRAL_REWARDED": "Získal jsi {{amount}} {{resource}} z {{name}} zlepšení tvé základny!",
     "RESOURCE_RECEIVED": "Získal jsi {{amount}} {{resource}} za doporučení existujícím hráčem!",
     "TITLE": "Doporuč přítele"

@@ -765,7 +765,7 @@
     "SLOT_LABEL": "Emplacement",
     "COMPARE": "Comparer",
     "NOT_EQUIPPED": "Aucun élément équipé dans cet emplacement",
-    "NO_ITEMS": "Vous ne transportez aucun objet égal ou inférieur au niveau de ce personnage. Les équipements de personnages stockés dans l'entrepôt n'apparaissent pas dans cette liste.",
+    "NO_ITEMS": "Vous ne transportez aucun objet égal ou inférieur au niveau de ce personnage. Les articles stockés dans l'entrepôt n'apparaissent dans cette liste que lorsque vous êtes présent dans une base.",
     "NO_SLOTS": "Il ne reste plus de place libre pour équiper cet objet!",
     "ITEM_TITLE": "Objet du personnage",
     "ITEM_DESCRIPTION": "Cet objet ne peut être équipé que par des personnages collectés.",
@@ -842,9 +842,13 @@
     "WIFI_SETTING": "Chargement uniquement par Wi-Fi"
   },
   "PAGE_REFERRAL": {
-    "DESCRIPTION": "Demandez à une personne de scanner votre code QR à l'aide de la fonction «Férailleuse» et ils recevront un bonus de ressources. Vous recevrez des ressources supplémentaires chaque fois que leur base atteint le niveau 3 et chaque fois que votre ami établit une nouvelle base. Vous pouvez également scanner les codes QR de l'autre à tout moment au lieu des codes à barres normaux pour un gain de ressources accru.",
+    "QR_TITLE": "Invitez des amis et obtenez",
+    "QR_TITLE2": "des ressources supplémentaires",
+    "THEY_GET": "Votre ami obtient",
+    "YOU_GET": "Vous allez recevoir",
+    "LINK_COPIED": "Lien copié",
+    "DESCRIPTION": "Si un joueur installe le jeu en utilisant votre lien ou votre code QR, il recevra des ressources supplémentaires, et vous recevrez des ressources chaque fois que ce joueur construit une nouvelle base et également la première fois qu'il atteint le niveau 3.",
     "INITIAL_REFERRED": "Parrainage réussi!",
-    "NOTES": "Attention: les deux parties doivent utiliser leurs propres appareils. Le système de parrainage ne fonctionnera pas si vous numérisez une photo du code d'un utilisateur à partir d'un appareil auquel ce code appartient.",
     "REFERRAL_REWARDED": "A reçu {{amount}} {{resource}} de {{name}}, améliorant leur base!",
     "RESOURCE_RECEIVED": "A reçu {{amount}} {{resource}} pour être parraîné par un joueur existant!",
     "TITLE": "Parrainer un ami"

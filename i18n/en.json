@@ -743,7 +743,7 @@
     "SLOT_LABEL": "Slot",
     "COMPARE": "Compare",
     "NOT_EQUIPPED": "No items equipped in this slot",
-    "NO_ITEMS": "You are not carrying any items equal to or lower than this character's level. Items stored in the warehouse do not appear in this list.",
+    "NO_ITEMS": "You are not carrying any items equal to or lower than this character's level. Items stored in the warehouse only appear in this list when you are present at a base.",
     "NO_SLOTS": "No free slots remain to equip this item!",
     "ITEM_TITLE": "Character item",
     "ITEM_DESCRIPTION": "This item can only be equipped by collected characters.",
@@ -812,9 +812,13 @@
     "MAP_PROVIDER": "Map Style"
   },
   "PAGE_REFERRAL": {
-    "DESCRIPTION": "Get someone you referred to scan your QR code using the \"Scrap Items\" facility and they will receive a resource bonus. You will receive extra resources whenever their base reaches level 3 and every time your friend establishes a new base. You may also scan each other's QR codes at any time instead of regular bar codes for an increased resource gain.",
+    "QR_TITLE": "Invite friends & get",
+    "QR_TITLE2": "extra resources",
+    "THEY_GET": "Your friend gets",
+    "YOU_GET": "You get",
+    "LINK_COPIED": "Link copied",
+    "DESCRIPTION": "If a player installs the game using your link or QR code they will receive extra resources, and you will receive resources every time that player builds a new base and also the first time they reach level 3.",
     "INITIAL_REFERRED": "Referral successful!",
-    "NOTES": "Please note: both parties have to be using their own unique devices. Referral system will not work if you are scanning a photo of someone's code from a device to which this code belongs.",
     "REFERRAL_REWARDED": "Received {{amount}} {{resource}} for {{name}} advancing their base!",
     "RESOURCE_RECEIVED": "Received {{amount}} {{resource}} for being referred by an existing player!",
     "TITLE": "Refer a friend"

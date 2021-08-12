@@ -765,7 +765,7 @@
     "SLOT_LABEL": "Fessura",
     "COMPARE": "Confronta",
     "NOT_EQUIPPED": "Nessun oggetto equipaggiato in questo slot",
-    "NO_ITEMS": "Non stai trasportando oggetti uguali o inferiori al livello di questo personaggio. L'equipaggiamento dei personaggi immagazzinato nel magazzino non compare in questo elenco.",
+    "NO_ITEMS": "Non stai trasportando oggetti uguali o inferiori al livello di questo personaggio. Gli articoli immagazzinati nel magazzino appaiono in questo elenco solo quando sei presente in una base.",
     "NO_SLOTS": "Non rimangono slot liberi per equipaggiare questo oggetto!",
     "ITEM_TITLE": "Oggetto del personaggio",
     "ITEM_DESCRIPTION": "Questo oggetto può essere equipaggiato solo dai personaggi raccolti.",
@@ -842,9 +842,13 @@
     "WIFI_SETTING": "Aggiornamenti solo con Wi-Fi"
   },
   "PAGE_REFERRAL": {
-    "DESCRIPTION": "Fai scansionare il tuo codice QR ad un'altra persona usando la funzione \"Rottama oggetti\" e questa riceverà un bonus di risorse. Tu riceverai risorse extra ogni volta che una sua base raggiunge il livello 3 ed ogni volta che stabilisce una nuova base. Per un ulteriore guadagno di risorse potete anche scansionarvi a vicenda il codice QR in ogni momento invece di usare i normali codici a barre.",
+    "QR_TITLE": "Invita amici e ottieni",
+    "QR_TITLE2": "risorse extra",
+    "THEY_GET": "Il tuo amico ottiene",
+    "YOU_GET": "Riceverai",
+    "LINK_COPIED": "Link copiato",
+    "DESCRIPTION": "Se un giocatore installa il gioco utilizzando il tuo link o codice QR, riceverà risorse extra e tu riceverai risorse ogni volta che quel giocatore costruisce una nuova base e anche la prima volta che raggiunge il livello 3.",
     "INITIAL_REFERRED": "Amico segnalato con successo!",
-    "NOTES": "Nota: entrambe le parti devono usare un unico dispositivo. Il sistema non funziona se fai la scansione della fotografia di un codice usando lo stesso dispositivo da cui quel codice è stato generato.",
     "REFERRAL_REWARDED": "Hai ricevuto {{amount}} {{resource}} perché {{name}} ha migliorato la base!",
     "RESOURCE_RECEIVED": "Hai ricevuto {{amount}} {{resource}} per essere stato segnalato da un giocatore esistente!",
     "TITLE": "Segnala un amico"
