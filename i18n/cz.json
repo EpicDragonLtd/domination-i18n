@@ -747,7 +747,7 @@
     "SLOT_LABEL": "Slot",
     "COMPARE": "Porovnat",
     "NOT_EQUIPPED": "V tomto slotu nejsou žádné předměty",
-    "NO_ITEMS": "Nenesete žádné položky stejné nebo nižší než úroveň této postavy. Položky uložené ve skladu se v tomto seznamu zobrazí pouze v případě, že jste přítomni na základně.",
+    "NO_ITEMS": "Nenosíte žádné předměty stejné nebo nižší než úroveň této postavy. Položky uložené ve skladu se v tomto seznamu zobrazí pouze v případě, že jste přítomni na základně.",
     "NO_SLOTS": "K vybavení této položky nezůstávají žádné volné sloty!",
     "ITEM_TITLE": "Položka postavy",
     "ITEM_DESCRIPTION": "Tato položka může být vybavena pouze shromážděnými znaky.",

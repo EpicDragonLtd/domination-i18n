@@ -765,7 +765,7 @@
     "SLOT_LABEL": "Steckplatz",
     "COMPARE": "Vergleichen",
     "NOT_EQUIPPED": "In diesem Steckplatz sind keine Gegenstände vorhanden",
-    "NO_ITEMS": "Du trägst keine Gegenstände, die der Stufe dieses Charakters entsprechen oder darunter liegen. Im Lager gelagerte Artikel erscheinen nur in dieser Liste, wenn Sie an einer Basis anwesend sind.",
+    "NO_ITEMS": "Du trägst keine Gegenstände, die gleich oder niedriger als die Stufe dieses Charakters sind. Im Lager gelagerte Artikel erscheinen nur in dieser Liste, wenn Sie an einer Basis anwesend sind.",
     "NO_SLOTS": "Es sind keine freien Plätze mehr vorhanden, um diesen Gegenstand auszustatten!",
     "ITEM_TITLE": "Gegenstand des Charakters",
     "ITEM_DESCRIPTION": "Dieser Gegenstand kann nur von gesammelten Charakteren ausgerüstet werden.",
