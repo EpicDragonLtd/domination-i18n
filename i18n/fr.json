@@ -417,6 +417,7 @@
     "DELETE_DESC": "Vous pouvez détruire un bâtiment existant si vous manquez de place ou ne le voulez plus. Veuillez noter que cette action est permanante et ne peut pas être annulée.",
     "DELETE_SUCCESS": "Bâtiment détruit",
     "DELETE_TITLE": "Détruire bâtiment",
+    "DELETE_CONFIRM": "Pour confirmer la suppression de ce bâtiment, veuillez saisir",
     "DEPLOY_BASE": "Merci de déployer votre base en utilisant le drapeau jaune!",
     "DISTANCE": "Distance",
     "EMPTY_MERGE": "Pas de plus faible territoire adjacent trouvé pour fusionner!",
@@ -582,6 +583,9 @@
     "TITLE": "Messages"
   },
   "PAGE_MY_LANDS": {
+    "NO_BASES": "Vous n'avez pas encore établi de bases.",
+    "SEARCH": "Chercher",
+    "DESCRIPTION": "Ceci est une liste de toutes vos bases établies dans le monde.",
     "ATTACK_DESC": "Cible tous les territoires ennemis dans le rayon, endommageant d'abord les bâtiments. Si la cible n'en a plus, vous diminuerez son niveau. Un territoire de niveau 1 peut être capturé à l'aide d'une armée.<br><br><span class='danger-font'>Ce sera considéré comme un acte de guerre, votre base sera donc visible par tous ennemis pendant 24 heures.</span>",
     "ATTACK_TITLE": "Commencer l'atttaque ?",
     "BUTTON_ARMY": "Mobiliser l'armée",

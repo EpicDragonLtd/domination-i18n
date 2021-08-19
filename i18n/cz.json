@@ -414,6 +414,7 @@
     "DELETE_DESC": "Můžeš zničit vytvořenou budouv, pokud jsi ji špatně postavil nebo už ji nechceš. Pamatuj, že tato akce je trvalá a nelze vrátit.",
     "DELETE_SUCCESS": "Budova zničena!",
     "DELETE_TITLE": "Zničit budovu",
+    "DELETE_CONFIRM": "Chcete -li potvrdit odstranění této budovy, zadejte",
     "DEPLOY_BASE": "Nejdříve postav svou bázi použitím tlačítka vlajka.",
     "DISTANCE": "Vzdálenost",
     "EMPTY_MERGE": "Poblíž nejsou území s nižší úrovní ke spojení",
@@ -564,6 +565,9 @@
     "TITLE": "Zprávy"
   },
   "PAGE_MY_LANDS": {
+    "NO_BASES": "Zatím jste nevytvořili žádné základny.",
+    "SEARCH": "Vyhledávání",
+    "DESCRIPTION": "Toto je seznam všech vašich základen zřízených po celém světě.",
     "ATTACK_DESC": "Zaměř všechna nepřátelská území v dosahu a nejdříve poškoď všechny obranné budovy. Pokud cílové území nemá žádné obranné budovy, budeš poškozovat jeho vylepšení. Vylepšení na úrovni 1 může být obsazeno použitím armády.<br><br><span class='danger-font'>Bude to považováno za válečný akt a umožní tvým nepřátelům vidět tvou základnu po dobu 24 hodin.</span>",
     "ATTACK_TITLE": "Zaútočit?",
     "BUTTON_ARMY": "Mobilizovat armádu",

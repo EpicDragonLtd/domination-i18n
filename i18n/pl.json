@@ -417,6 +417,7 @@
     "DELETE_DESC": "Możesz zburzyć istniejący budynek, jeżeli nie odpowiada Ci jego lokalizacja lub nie jest Ci on już potrzebny. Zauważ, że ta akcja jest permanentna i nie da się jej odwrócić.",
     "DELETE_SUCCESS": "Budynek zburzony!",
     "DELETE_TITLE": "Zburz budynek",
+    "DELETE_CONFIRM": "Aby potwierdzić usunięcie tego budynku, wpisz",
     "DEPLOY_BASE": "Umieść wpierw swoją bazę używając przycisku z flagą!",
     "DISTANCE": "Dystans",
     "EMPTY_MERGE": "Nie znaleziono przyległych obszarów o niższym poziomie, nadających się do połączenia z tym obszarem!",
@@ -582,6 +583,9 @@
     "TITLE": "Wiadomości"
   },
   "PAGE_MY_LANDS": {
+    "NO_BASES": "Nie założyłeś jeszcze żadnych baz.",
+    "SEARCH": "Szukaj",
+    "DESCRIPTION": "To jest lista wszystkich twoich baz założonych na całym świecie.",
     "ATTACK_DESC": "Weź na cel wszystkie obszary przeciwników w promieniu, uszkadzając wpierw wszystkie struktury obronne. Jeżeli atakowany obszar nie będzie już miał żadnych budynków, obrażenia zaczną obniżać jego poziom. Obszary o poziomie 1 mogą zostać zajęte za pomocą armii.<br><br><span class='danger-font'>Akcja jest równoznaczna z wypowiedzeniem wojny, sprawiając, że Twoje bazy będą widoczne dla przeciwników przez 24 godziny.</span>",
     "ATTACK_TITLE": "Rozpocząć atak?",
     "BUTTON_ARMY": "Mobilizuj armię",

@@ -417,6 +417,7 @@
     "DELETE_DESC": "Du kannst ein existierendes Gebäude zerstören, falls du es falsch platziert hast oder es nicht länger willst. Bitte beachte, dass dies eine dauerhafte und unumkehrbare Entscheidung ist.",
     "DELETE_SUCCESS": "Gebaude zerstört!",
     "DELETE_TITLE": "Zerstöre Gebäude",
+    "DELETE_CONFIRM": "Um die Entfernung dieses Gebäudes zu bestätigen, geben Sie bitte Folgendes ein:",
     "DEPLOY_BASE": "Bitte etabliere eine basis indem du den Einnehmen Knopf benutzt!",
     "DISTANCE": "Distanz",
     "EMPTY_MERGE": "Kein benachbartes Gebiet kleineren Levels zum Verschmelzen gefunden!",
@@ -582,6 +583,9 @@
     "TITLE": "Nachrichten"
   },
   "PAGE_MY_LANDS": {
+    "NO_BASES": "Sie haben noch keine Basen errichtet.",
+    "SEARCH": "Suche",
+    "DESCRIPTION": "Dies ist eine Liste all Ihrer Basen, die auf der ganzen Welt errichtet wurden.",
     "ATTACK_DESC": "Greife alle feindlichen Gebiete im Radius an, defensive Strukturen werden zuerst beschädigt. Wenn alle Gebäude im Zielgebiet zerstört sind werden die Stufen des Gebietes beschädigt. Level 1 Gebiete können mithilfe deiner Einheiten erobert werden. <br><br><span class='danger-font'>Dies wird als kiregerische Handlung angesehen und deine Bases für 24 Stunden für Feinde sichtbar machen.",
     "ATTACK_TITLE": "Angriff beginnen?",
     "BUTTON_ARMY": "Einheiten mobilisieren",

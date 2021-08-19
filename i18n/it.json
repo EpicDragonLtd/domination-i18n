@@ -417,6 +417,7 @@
     "DELETE_DESC": "Puoi distruggere un edificio se hai sbagliato il posizionamento o solamente non lo vuoi più. Nota che questa azione è permanente e non può essere annullata.",
     "DELETE_SUCCESS": "Edificio distrutto!",
     "DELETE_TITLE": "Distruggi edificio",
+    "DELETE_CONFIRM": "Per confermare la rimozione di questo edificio, inserisci",
     "DEPLOY_BASE": "Prima posiziona la tua base usando il pulsante con la bandiera!",
     "DISTANCE": "Distanza",
     "EMPTY_MERGE": "Non ci sono territori adiacenti a livello più basso da poter fondere!",
@@ -582,6 +583,9 @@
     "TITLE": "Messaggi"
   },
   "PAGE_MY_LANDS": {
+    "NO_BASES": "Non hai ancora stabilito alcuna base.",
+    "SEARCH": "Ricerca",
+    "DESCRIPTION": "Questa è una lista di tutte le tue basi stabilite in tutto il mondo.",
     "ATTACK_DESC": "Colpisce tutte le terre nemiche entro il raggio d'azione, danneggiando per prima ogni struttura difensiva. Se il territorio da colpire non ha più edifici danneggerai i suoi livelli. Interritori a livello 1 possino essere conquistati usando una armata.<br><br><span class='danger-font'>Questo sarà considerato un atto di guerra, rendendo le tue basi visibili ai nemici per 24 ore.</span>",
     "ATTACK_TITLE": "Iniziare l'attacco?",
     "BUTTON_ARMY": "Mobilitare esercito",

@@ -463,6 +463,7 @@
     "PLACEMENT_DESC": "Tap on a free spot within your captured land to place the selected building.",
     "PLACEMENT_ERROR": "Must be at least 50m away from the border or other structures.",
     "DELETE_TITLE": "Destroy Building",
+    "DELETE_CONFIRM": "To confirm the removal of this building, please enter",
     "DELETE_DESC": "You can destroy an existing building if you misplaced it or just no longer want it. Please note that this action is permanent and cannot be reversed.",
     "DELETE_SUCCESS": "Building destroyed!",
     "MAP_FILTERS": "Map Filters",
@@ -560,6 +561,9 @@
     "TITLE": "Messages"
   },
   "PAGE_MY_LANDS": {
+    "NO_BASES": "You have not established any bases yet.",
+    "SEARCH": "Search",
+    "DESCRIPTION": "This is a list of all your bases established around the world.",
     "ATTACK_DESC": "Target all enemy lands within the radius, damaging any defensive structures first. If the target land has no buildings left you will be damaging its levels. Level 1 lands can be captured using an army.<br><br><span class='danger-font'>This will be considered an act of war, making your bases visible to enemies for 24 hours.</span>",
     "ATTACK_TITLE": "Begin the attack?",
     "BUTTON_ARMY": "Mobilise Army",

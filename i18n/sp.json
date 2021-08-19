@@ -414,6 +414,7 @@
     "DELETE_DESC": "Puedes destruir una estructura si es que la pusiste mal o simplemente si no la quieres más. Ten ten cuenta que esa acción es permanente y no puede ser revertida.\n",
     "DELETE_SUCCESS": "¡Estructura Destruida!",
     "DELETE_TITLE": "Destruir Estructura",
+    "DELETE_CONFIRM": "Para confirmar la eliminación de este edificio, ingrese",
     "DEPLOY_BASE": "¡Por favor, despliega tu base utilizando el botón de la bandera!",
     "DISTANCE": "Distancia",
     "EMPTY_MERGE": "¡Ninguna tierra de menor nivel encontrada para ser unida!",
@@ -564,6 +565,9 @@
     "TITLE": "Mensajes"
   },
   "PAGE_MY_LANDS": {
+    "NO_BASES": "Aún no has establecido ninguna base.",
+    "SEARCH": "Búsqueda",
+    "DESCRIPTION": "Esta es una lista de todas sus bases establecidas en todo el mundo.",
     "ATTACK_DESC": "Apuntar a todas las tierras enemigas dentro del radio, dañando toda estructura defensiva primero. Si la tierra apuntada no tiene estructuras restantes, estarás dañando sus niveles. Las tierras de nivel 1 pueden ser capturadas utilizando un ejército.<br><br><span class='danger-font'>Esto será considerado un acto de guerra, haciendo tus bases visibles a los enemigos por 24 horas.</span>",
     "ATTACK_TITLE": "¿Iniciar el ataque?",
     "BUTTON_ARMY": "Movilizar Ejército",
