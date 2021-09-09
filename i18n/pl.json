@@ -832,6 +832,8 @@
     "LAND_DETAILS": "Szczegóły obszaru",
     "MAP_PROVIDER": "Styl mapy",
     "SOUND_VOLUME": "Głośność dźwięku",
+    "LAND_DISPLAY_RADIUS": "Promień wyświetlania gruntów",
+    "LAND_VISIBILITY_SHORT": "Ukryj nieaktywne ziemie",
     "LAND_VISIBILITY_TITLE": "Widoczność gruntów",
     "LAND_VISIBILITY": "Ziemie, z którymi nie wchodziło się w interakcję dłużej niż określony czas, są ukryte. Aby wyświetlić wszystkie lądy od początku czasu, wyłącz tę funkcję.",
     "VISIBILITY_DAY": "Dzień",

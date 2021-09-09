@@ -832,6 +832,8 @@
     "LAND_DETAILS": "Dettagli del territorio",
     "MAP_PROVIDER": "Stile della mappa",
     "SOUND_VOLUME": "Volume",
+    "LAND_DISPLAY_RADIUS": "Raggio di visualizzazione delle terre",
+    "LAND_VISIBILITY_SHORT": "Nascondi le terre inattive",
     "LAND_VISIBILITY_TITLE": "Visibilità dei terreni",
     "LAND_VISIBILITY": "Le terre con cui non si interagisce per un periodo di tempo superiore a quello specificato vengono nascoste. Per mostrare tutte le terre dall'inizio del tempo, disabilita questa funzione.",
     "VISIBILITY_DAY": "Giorno",

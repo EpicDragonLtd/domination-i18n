@@ -814,6 +814,8 @@
     "LAND_DETAILS": "Detaily území",
     "MAP_PROVIDER": "Styl mapy",
     "SOUND_VOLUME": "Hlasitost zvuků",
+    "LAND_DISPLAY_RADIUS": "Poloměr zobrazení země",
+    "LAND_VISIBILITY_SHORT": "Skrýt neaktivní země",
     "LAND_VISIBILITY_TITLE": "Viditelnost zemí",
     "LAND_VISIBILITY": "Země, se kterými nebyl v interakci delší než stanovený čas, jsou skryty. Chcete-li zobrazit všechny země od začátku věků, deaktivujte tuto funkci.",
     "VISIBILITY_DAY": "Den",

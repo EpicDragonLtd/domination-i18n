@@ -832,6 +832,8 @@
     "LAND_DETAILS": "Gebietsdetails",
     "MAP_PROVIDER": "Kartenstil",
     "SOUND_VOLUME": "Lautstärke",
+    "LAND_DISPLAY_RADIUS": "Anzeigeradius der Länder",
+    "LAND_VISIBILITY_SHORT": "Inaktive Länder ausblenden",
     "LAND_VISIBILITY_TITLE": "Sichtbarkeit von Ländern",
     "LAND_VISIBILITY": "Länder, mit denen länger als die angegebene Zeit nicht interagiert wurde, werden ausgeblendet. Um alle Länder seit Beginn der Zeit anzuzeigen, deaktivieren Sie diese Funktion.",
     "VISIBILITY_DAY": "Tag",

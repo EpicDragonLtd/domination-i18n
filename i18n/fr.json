@@ -832,6 +832,8 @@
     "LAND_DETAILS": "Détails des territoires",
     "MAP_PROVIDER": "Style de carte",
     "SOUND_VOLUME": "Volume",
+    "LAND_DISPLAY_RADIUS": "Rayon d'affichage des terres",
+    "LAND_VISIBILITY_SHORT": "Masquer les terrains inactifs",
     "LAND_VISIBILITY_TITLE": "Visibilité des terrains",
     "LAND_VISIBILITY": "Les terrains avec lesquels il n'y a pas eu d'interaction depuis plus longtemps que la durée spécifiée sont masqués. Pour afficher toutes les terres depuis le début des temps, désactivez cette fonctionnalité.",
     "VISIBILITY_DAY": "Jour",

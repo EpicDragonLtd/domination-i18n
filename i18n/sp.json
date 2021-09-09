@@ -814,6 +814,8 @@
     "LAND_DETAILS": "Detalles de las Tierras",
     "MAP_PROVIDER": "Estilo de Mapa",
     "SOUND_VOLUME": "Volumen",
+    "LAND_DISPLAY_RADIUS": "Radio de visualización de tierras",
+    "LAND_VISIBILITY_SHORT": "Ocultar tierras inactivas",
     "LAND_VISIBILITY_TITLE": "Visibilidad de tierras",
     "LAND_VISIBILITY": "Las tierras con las que no se ha interactuado durante más tiempo del especificado están ocultas. Para mostrar todas las tierras desde el principio de los tiempos, desactive esta función.",
     "VISIBILITY_DAY": "Día",

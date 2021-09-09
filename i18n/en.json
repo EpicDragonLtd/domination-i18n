@@ -800,6 +800,8 @@
     "LANDS_TITLE": "Lands Name",
     "LAND_DETAILS": "Land Details",
     "SOUND_VOLUME": "Sound Volume",
+    "LAND_DISPLAY_RADIUS": "Land display radius",
+    "LAND_VISIBILITY_SHORT": "Hide lands older than",
     "LAND_VISIBILITY_TITLE": "Land Visibility",
     "LAND_VISIBILITY": "Lands that haven't been interacted with for longer than the specified amount of time are hidden. To show all lands since the beginning of time, disable this feature.",
     "VISIBILITY_DAY": "Day",
