@@ -462,6 +462,7 @@
     "PLACEMENT_ERROR": "Doit être au moins à 50m des bords de votre territoire et des autres sutructures déjà existantes.",
     "PLEASE_WAIT": "Veuillez patienter...",
     "RESOURCE_ITEM": "Rapprochez-vous de cette ressource dans le monde réel et utilisez le bouton \"ramasser\" pour la récupérer. Utilisez des objets de votre inventaire pour augmenter le rayon de collecte.",
+    "PERSONAL_ITEM": "Objet caché : visible uniquement par vous, ne peut pas être récupéré par d'autres joueurs ou partagé.",
     "RESOURCE_TIP_DESCRIPTION": "Chaque territoire capturé crée une nouvelle ressource dans les aléantours. Pour collecter cette ressource, vous devez vous tenir proche de celle-ci et appuyez sur le bouton \"main\"!",
     "RESOURCE_TIP_TITLE": "Amasser des ressources",
     "SHARED_RESOURCE": "{{name}} a partagé {{amount}} {{resource}} avec vous en amassant des ressources à proximité!",
@@ -764,6 +765,7 @@
     "SKILL_DIPLOMACY_DESC": "Attribue à tous les personnages affectés à la même base un bonus d'expérience égal à {{skill_bonus}}% de la ressource que vous avez partagée avec vos alliés lors de la collecte. L'expérience acquise est multipliée par le nombre d'alliés avec lesquels vous avez partagé jusqu'à x{{ally_max}} au total (<span class='bold-yellow'>+1</span> pour chaque {{levels_per_ally}} niveaux de compétence). Coût d'endurance par utilisation: {{cost}}."
   },
   "CHARACTER_ITEMS": {
+    "ANY": "N'importe",
     "SORT_BY_LEVEL": "Trier par niveau",
     "SORT_BY_RARITY": "Trier par rareté",
     "SLOT_LABEL": "Emplacement",
@@ -843,9 +845,17 @@
     "SUCCESS_TITLE": "Paramètres de profils modifiés avec succès!",
     "TIMER_NOTIFICATIONS": "Notifications de temps",
     "CACHE_ENABLED": "Stocker le cache de données sur l'appareil",
+    "REALTIME_TILES": "Actualisation rapide des tuiles de carte",
+    "AUTOCOLLECT_RESOURCES": "Ramassez automatiquement les objets et les ressources à proximité",
     "TITLE": "Mon profil",
     "WAR_NOTIFICATIONS": "Notification de combat",
-    "WIFI_SETTING": "Chargement uniquement par Wi-Fi"
+    "WIFI_SETTING": "Chargement uniquement par Wi-Fi",
+    "ACCOUNT_DELETION": "Suppression de compte",
+    "ACCOUNT_DELETION_DESC": "Vous pouvez supprimer définitivement votre compte de jeu et toutes les données qui y sont associées si vous ne souhaitez plus continuer à jouer. Veuillez noter que cette action est irréversible et que les données de votre compte ne pourront pas être restaurées par la suite.",
+    "ACCOUNT_DELETION_CONFIRM": "Veuillez confirmer que vous souhaitez supprimer définitivement ce compte de jeu, y compris tous ses terrains, bases, ressources, personnages et autres progrès accumulés.",
+    "ACCOUNT_DELETION_CODE": "Un code numérique a été envoyé à l'adresse e-mail associée à ce compte pour confirmer sa suppression définitive. Veuillez entrer ce code ci-dessous.",
+    "ACCOUNT_DELETION_ERROR": "Code saisi invalide, veuillez réessayer. Vous pouvez également contacter support@domination.earth pour obtenir de l'aide.",
+    "ACCOUNT_DELETION_SUCCESS": "Compte supprimé avec succès. Vous êtes maintenant déconnecté."
   },
   "PAGE_REFERRAL": {
     "QR_TITLE": "Invitez des amis et obtenez",

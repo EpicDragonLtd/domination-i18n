@@ -459,6 +459,7 @@
     "PLACEMENT_ERROR": "Debe haber al menos 50m de separación de la frontera u otras estructuras.",
     "PLEASE_WAIT": "Por favor espera...",
     "RESOURCE_ITEM": "Acérquese a este recurso en el mundo real y use el botón \"recoger\" para recogerlo. Use artículos de su inventario para aumentar el radio de colección.",
+    "PERSONAL_ITEM": "Elemento oculto: solo visible para ti, no puede ser recogido por otros jugadores ni compartido.",
     "RESOURCE_TIP_DESCRIPTION": "Cada vez que capturas una tierra, un nuevo recurso aparece en el área. ¡Para recolectar ese recurso, necesitas pararte al lado de el y presione el botón \"mano\"!",
     "RESOURCE_TIP_TITLE": "Recolectando Recursos",
     "SHARED_RESOURCE": "¡{{name}} ha compartido {{amount}} {{resource}} contigo mientras recolectaba recursos cerca!",
@@ -746,6 +747,7 @@
     "SKILL_DIPLOMACY_DESC": "Otorga a todos los personajes asignados a la misma base con una bonificación de experiencia equivalente al {{skill_bonus}}% del recurso que compartiste con los aliados al recolectarlos. La experiencia obtenida se multiplica por la cantidad de aliados que compartiste con hasta x{{ally_max}} en total (<span class='bold-yellow'>+1</span> por cada {{levels_per_ally}} niveles de habilidad). Coste de resistencia por uso: {{cost}}."
   },
   "CHARACTER_ITEMS": {
+    "ANY": "Cualquier",
     "SORT_BY_LEVEL": "Ordenar por nivel",
     "SORT_BY_RARITY": "Ordenar por rareza",
     "SLOT_LABEL": "Espacio",
@@ -825,9 +827,17 @@
     "SUCCESS_TITLE": "¡Perfil actualizado exitosamente!",
     "TIMER_NOTIFICATIONS": "Reloj de las Notificaciones",
     "CACHE_ENABLED": "Almacenar caché de datos en el dispositivo",
+    "REALTIME_TILES": "Actualización rápida de mosaicos de mapas",
+    "AUTOCOLLECT_RESOURCES": "Recoge automáticamente elementos y recursos cercanos",
     "TITLE": "Mi Perfil",
     "WAR_NOTIFICATIONS": "Notificaciones de Combate",
-    "WIFI_SETTING": "Solo actualizar vía Wi-Fi"
+    "WIFI_SETTING": "Solo actualizar vía Wi-Fi",
+    "ACCOUNT_DELETION": "Eliminación de cuenta",
+    "ACCOUNT_DELETION_DESC": "Puedes eliminar de forma permanente tu cuenta del juego y todos los datos asociados con ella si ya no deseas seguir jugando. Tenga en cuenta que esta acción es irreversible y los datos de su cuenta no se pueden restaurar después.",
+    "ACCOUNT_DELETION_CONFIRM": "Confirma que deseas eliminar de forma permanente esta cuenta de juego, incluidas todas sus tierras, bases, recursos, personajes y otros progresos acumulados.",
+    "ACCOUNT_DELETION_CODE": "Se envió un código numérico a la dirección de correo electrónico asociada con esta cuenta para confirmar su eliminación permanente. Por favor, introduzca este código a continuación.",
+    "ACCOUNT_DELETION_ERROR": "Se ingresó un código no válido, intente nuevamente. También puede comunicarse con support@domination.earth para obtener ayuda.",
+    "ACCOUNT_DELETION_SUCCESS": "Cuenta eliminada con éxito. Ahora estás registrado."
   },
   "PAGE_REFERRAL": {
     "QR_TITLE": "Invita a amigos y obtén",

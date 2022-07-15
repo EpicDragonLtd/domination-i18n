@@ -472,6 +472,7 @@
     "PLACEMENT_ERROR": "Devi essere almeno a 50m di distanza dal confine o da altre strutture.",
     "PLEASE_WAIT": "Attendere prego...",
     "RESOURCE_ITEM": "Avvicinati a questa risorsa nel mondo reale e utilizza il pulsante \"raccogliere\" per raccoglierla. Usa gli articoli del tuo inventario per aumentare il raggio di raccolta.",
+    "PERSONAL_ITEM": "Oggetto nascosto: visibile solo a te, non può essere raccolto da altri giocatori o condiviso.",
     "RESOURCE_TIP_DESCRIPTION": "Ogni conquista di territorio produce una nuova risorsa da qualche parte nella stessa area. Per raccogliere questa risorsa devi andargli accanto e premere il tasto \"mano\"!",
     "RESOURCE_TIP_TITLE": "Raccolta risorse",
     "SHARED_RESOURCE": "{{name}} ha condiviso {{amount}} {{resources}} con te mentre raccoglieva risorse qua vicino!",
@@ -764,6 +765,7 @@
     "SKILL_DIPLOMACY_DESC": "Assegna a tutti i personaggi assegnati alla stessa base un bonus all'esperienza pari al {{skill_bonus}}% della risorsa che hai condiviso con gli alleati al momento della raccolta. L'esperienza ottenuta viene moltiplicata per il numero di alleati con cui hai condiviso fino a x{{ally_max}} in totale (<span class='bold-yellow'>+1</span> per ogni {{levels_per_ally}} livelli di abilità). Costo della resistenza per utilizzo: {{cost}}."
   },
   "CHARACTER_ITEMS": {
+    "ANY": "Qualsiasi",
     "SORT_BY_LEVEL": "Ordina per livello",
     "SORT_BY_RARITY": "Ordina per rarità",
     "SLOT_LABEL": "Fessura",
@@ -843,9 +845,17 @@
     "SUCCESS_TITLE": "Profilo aggiornato con successo!",
     "TIMER_NOTIFICATIONS": "Notifiche delle scadenze",
     "CACHE_ENABLED": "Memorizza la cache di dati sul dispositivo",
+    "REALTIME_TILES": "Aggiornamento rapido delle tessere della mappa",
+    "AUTOCOLLECT_RESOURCES": "Raccogli automaticamente oggetti e risorse nelle vicinanze",
     "TITLE": "Il mio profilo",
     "WAR_NOTIFICATIONS": "Notifiche di combattimento",
-    "WIFI_SETTING": "Aggiornamenti solo con Wi-Fi"
+    "WIFI_SETTING": "Aggiornamenti solo con Wi-Fi",
+    "ACCOUNT_DELETION": "Cancellazione dell'account",
+    "ACCOUNT_DELETION_DESC": "Puoi eliminare definitivamente il tuo account di gioco e tutti i dati ad esso associati se non desideri più continuare a giocare. Tieni presente che questa azione è irreversibile e i dati del tuo account non possono essere ripristinati in seguito.",
+    "ACCOUNT_DELETION_CONFIRM": "Conferma che desideri eliminare definitivamente questo account di gioco, comprese tutte le sue terre, basi, risorse, personaggi e altri progressi accumulati.",
+    "ACCOUNT_DELETION_CODE": "Un codice numerico è stato inviato all'indirizzo email associato a questo account per confermarne la rimozione definitiva. Si prega di inserire questo codice qui sotto.",
+    "ACCOUNT_DELETION_ERROR": "Codice inserito non valido, riprova. Puoi anche contattare support@domination.earth per assistenza.",
+    "ACCOUNT_DELETION_SUCCESS": "Account eliminato con successo. Ora siete disconnessi."
   },
   "PAGE_REFERRAL": {
     "QR_TITLE": "Invita amici e ottieni",

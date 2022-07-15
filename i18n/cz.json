@@ -459,6 +459,7 @@
     "PLACEMENT_ERROR": "Musíš být alespoň 50m daleko od hranice nebo budovy",
     "PLEASE_WAIT": "Čekej prosím...",
     "RESOURCE_ITEM": "Přesuňte se blíže k tomuto zdroji v reálném světě a sbírejte jej pomocí tlačítka „vyzvednout“. Použijte položky z vašeho inventáře pro zvětšení okruhu kolekce.",
+    "PERSONAL_ITEM": "Skrytá položka: viditelná pouze pro vás, nelze ji vyzvednout jinými hráči ani sdílet.",
     "RESOURCE_TIP_DESCRIPTION": "Každé obsazení území vytvoří nový zdroj kdekoliv po okolí. Pro získání tohoto zdroje musíš stát v jeho blízkosti a stiskněte tlačítko \"ruka\"!",
     "RESOURCE_TIP_TITLE": "Sbírání zdrojů",
     "SHARED_RESOURCE": "{{name}}s tebou sdílel {{amount}} {{resource}} sběrem zdrojů v tvé blízkosti!",
@@ -746,6 +747,7 @@
     "SKILL_DIPLOMACY_DESC": "Ocenění všech postav přiřazených ke stejné základně s bonusem zkušeností rovným {{skill_bonus}}% prostředku, který jste sdíleli se spojenci při sběru. Oceněná zkušenost se znásobí počtem spojenců, které jste sdíleli celkem až s x{{ally_max}} (<span class='bold-yellow'>+1</span> na každých {{levels_per_ally}} úrovní dovedností). Výdrž za použití: {{cost}}."
   },
   "CHARACTER_ITEMS": {
+    "ANY": "Jakákoli",
     "SORT_BY_LEVEL": "Třídit podle úrovně",
     "SORT_BY_RARITY": "Třídit podle vzácnosti",
     "SLOT_LABEL": "Slot",
@@ -825,9 +827,17 @@
     "SUCCESS_TITLE": "Účet úspěšně aktualizován",
     "TIMER_NOTIFICATIONS": "Upozornění časovače",
     "CACHE_ENABLED": "Ukládání datové mezipaměti na zařízení",
+    "REALTIME_TILES": "Rychlá aktualizace dlaždic mapy",
+    "AUTOCOLLECT_RESOURCES": "Automaticky vyzvedněte blízké předměty a zdroje",
     "TITLE": "Můj účet",
     "WAR_NOTIFICATIONS": "Upozornění souboje",
-    "WIFI_SETTING": "Aktualizace pouze přes Wi-Fi"
+    "WIFI_SETTING": "Aktualizace pouze přes Wi-Fi",
+    "ACCOUNT_DELETION": "Smazání účtu",
+    "ACCOUNT_DELETION_DESC": "Pokud již nechcete pokračovat ve hře, můžete trvale smazat svůj herní účet a všechna data s ním spojená. Upozorňujeme, že tato akce je nevratná a data vašeho účtu poté nelze obnovit.",
+    "ACCOUNT_DELETION_CONFIRM": "Potvrďte prosím, že chcete trvale smazat tento herní účet, včetně všech jeho zemí, základen, zdrojů, postav a dalšího nashromážděného pokroku.",
+    "ACCOUNT_DELETION_CODE": "Na e-mailovou adresu spojenou s tímto účtem byl odeslán číselný kód, který potvrzuje jeho trvalé odstranění. Zadejte prosím tento kód níže.",
+    "ACCOUNT_DELETION_ERROR": "Zadali jste neplatný kód, zkuste to prosím znovu. Pro pomoc můžete také kontaktovat support@domination.earth",
+    "ACCOUNT_DELETION_SUCCESS": "Účet byl úspěšně smazán. Nyní jste odhlášeni."
   },
   "PAGE_REFERRAL": {
     "QR_TITLE": "Pozvěte přátele a získejte",

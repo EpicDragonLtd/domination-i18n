@@ -437,6 +437,7 @@
     "HIGH_ACCURACY_REQUIRED": "Location mode setting on your device is not set to High Accuracy. Some features may not load or work correctly.",
     "PICKUP_TOO_SOON": "You've just attempted to pick up resources! Please wait a couple of seconds and try again.",
     "RESOURCE_ITEM": "Move closer to this resource in the real world and use the \"Pick Up\" button to collect it. Use items from your inventory to increase collection radius.",
+    "PERSONAL_ITEM": "Hidden item: only visible to you, cannot be picked up by other players or shared.",
     "RESOURCE_TIP_DESCRIPTION": "Every land capture creates a new resource somewhere in the area. To collect that resource you need to stand next to it and press the hand button!",
     "RESOURCE_TIP_TITLE": "Collecting Resources",
     "SHARED_RESOURCE": "{{name}} has shared {{amount}} {{resource}} with you while collecting resources nearby!",
@@ -742,6 +743,7 @@
     "SKILL_DIPLOMACY_DESC": "Awards all characters assigned to the same base with experience bonus equal to {{skill_bonus}}% of the resource shared with allies upon collection. Awarded experience is multiplied by the number of allies that you shared with up to x{{ally_max}} in total (<span class='bold-yellow'>+1</span> per {{levels_per_ally}} skill levels). Stamina cost per use: {{cost}}."
   },
   "CHARACTER_ITEMS": {
+    "ANY": "Any",
     "SORT_BY_LEVEL": "Sort by level",
     "SORT_BY_RARITY": "Sort by rarity",
     "SLOT_LABEL": "Slot",
@@ -811,11 +813,19 @@
     "SUCCESS_TITLE": "Profile updated successfully!",
     "TIMER_NOTIFICATIONS": "Timer Notifications",
     "CACHE_ENABLED": "Cache land data on device",
+    "REALTIME_TILES": "Load map tiles faster",
+    "AUTOCOLLECT_RESOURCES": "Automatically pick up nearby items and resources",
     "TITLE": "My Profile",
     "WAR_NOTIFICATIONS": "Combat Notifications",
     "WIFI_SETTING": "Updates via Wi-Fi only",
     "AUTO_UPGRADE_SETTING": "Upgrade lands within 50m instead of capturing new",
-    "MAP_PROVIDER": "Map Style"
+    "MAP_PROVIDER": "Map Style",
+    "ACCOUNT_DELETION": "Account Deletion",
+    "ACCOUNT_DELETION_DESC": "You can permanently delete your in-game account and all data associated with it if you no longer wish to continue playing. Please note that this action is irreversible and your account data cannot be restored afterwards.",
+    "ACCOUNT_DELETION_CONFIRM": "Please confirm that you would like to permanently delete this game account, including all of its lands, bases, resources, characters and other accumulated progress.",
+    "ACCOUNT_DELETION_CODE": "A numeric code has been sent to the email address associated with this account to confirm its permanent removal. Please enter this code below.",
+    "ACCOUNT_DELETION_ERROR": "Invalid code entered, please try again. You can also contact support@domination.earth for assistance.",
+    "ACCOUNT_DELETION_SUCCESS": "Account successfully deleted. You are now logged out."
   },
   "PAGE_REFERRAL": {
     "QR_TITLE": "Invite friends & get",

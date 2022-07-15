@@ -462,6 +462,7 @@
     "PLACEMENT_ERROR": "Muss mindestens 50m von der Grenze oder anderen Gebäuden entfernt sein.",
     "PLEASE_WAIT": "Bitte warte...",
     "RESOURCE_ITEM": "Gehen Sie in der realen Welt näher an diese Ressource heran und verwenden Sie die Schaltfläche \"abholen\", um sie zu sammeln. Verwenden Sie Gegenstände aus Ihrem Inventar, um den Sammelradius zu vergrößern.",
+    "PERSONAL_ITEM": "Versteckter Gegenstand: nur für dich sichtbar, kann nicht von anderen Spielern aufgehoben oder geteilt werden.",
     "RESOURCE_TIP_DESCRIPTION": "Jedes Einnehmen eines Gebietes lässt neue Resourcen irgendwo in der Umgebung auftauchen. Um diese einzusammeln musst du direkt bei ihnen stehen und dort ein Gebiet einnehmen oder den \"Hand\" Knopf verwenden!",
     "RESOURCE_TIP_TITLE": "Sammel Resourcen ein",
     "SHARED_RESOURCE": "{{name}} hat {{amount}} Einheit(en) {{resource}} mit dir geteilt während Resourcen in der nähe eingesammelt wurden!",
@@ -764,6 +765,7 @@
     "SKILL_DIPLOMACY_DESC": "Verleiht allen Charakteren, die derselben Basis zugeordnet sind, einen Erfahrungsbonus in Höhe von {{skill_bonus}}% der Ressource, die Sie bei der Sammlung mit Verbündeten geteilt haben. Die verliehene Erfahrung wird mit der Anzahl der Verbündeten multipliziert, die Sie mit insgesamt bis zu x{{ally_max}} geteilt haben (<span class='bold-yellow'>+1</span> pro {{levels_per_ally}} Fertigkeitsstufen). Ausdauerkosten pro Nutzung: {{cost}}."
   },
   "CHARACTER_ITEMS": {
+    "ANY": "Jedes",
     "SORT_BY_LEVEL": "Nach Ebene sortieren",
     "SORT_BY_RARITY": "Nach Seltenheit sortieren",
     "SLOT_LABEL": "Steckplatz",
@@ -843,9 +845,17 @@
     "SUCCESS_TITLE": "Profil erfolgreich geupdated!",
     "TIMER_NOTIFICATIONS": "Timer Benachrichtigungen",
     "CACHE_ENABLED": "Datencache auf dem Gerät",
+    "REALTIME_TILES": "Schnelle Aktualisierung der Kartenkacheln",
+    "AUTOCOLLECT_RESOURCES": "Sammle automatisch Gegenstände und Ressourcen in der Nähe ein",
     "TITLE": "Mein Profil",
     "WAR_NOTIFICATIONS": "Kampfbenachrichtigungen",
-    "WIFI_SETTING": "Updates nur über Wi-Fi"
+    "WIFI_SETTING": "Updates nur über Wi-Fi",
+    "ACCOUNT_DELETION": "Kontolöschung",
+    "ACCOUNT_DELETION_DESC": "Sie können Ihr In-Game-Konto und alle damit verbundenen Daten dauerhaft löschen, wenn Sie nicht mehr weiterspielen möchten. Bitte beachten Sie, dass diese Aktion irreversibel ist und Ihre Kontodaten danach nicht wiederhergestellt werden können.",
+    "ACCOUNT_DELETION_CONFIRM": "Bitte bestätigen Sie, dass Sie dieses Spielkonto dauerhaft löschen möchten, einschließlich aller seiner Ländereien, Basen, Ressourcen, Charaktere und anderen angesammelten Fortschritte.",
+    "ACCOUNT_DELETION_CODE": "Ein numerischer Code wurde an die mit diesem Konto verknüpfte E-Mail-Adresse gesendet, um die dauerhafte Entfernung zu bestätigen. Bitte geben Sie diesen Code unten ein.",
+    "ACCOUNT_DELETION_ERROR": "Ungültiger Code eingegeben, bitte versuchen Sie es erneut. Sie können sich auch an support@domination.earth wenden, um Unterstützung zu erhalten.",
+    "ACCOUNT_DELETION_SUCCESS": "Konto erfolgreich gelöscht. Sie sind nun abgemeldet."
   },
   "PAGE_REFERRAL": {
     "QR_TITLE": "Lade Freunde ein und erhalte",
